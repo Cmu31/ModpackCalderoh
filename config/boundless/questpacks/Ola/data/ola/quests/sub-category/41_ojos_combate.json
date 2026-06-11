@@ -1,0 +1,9 @@
+{
+  "id": "ojos_combate",
+  "name": "II. Ojos de Combate y Rituales",
+  "icon": "minecraft:nether_star",
+  "order": 41,
+  "default_open": false,
+  "parent": "04_ojos_del_fin"
+}
+

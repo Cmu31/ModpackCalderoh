@@ -1,0 +1,9 @@
+{
+  "id": "sendas_poder",
+  "name": "III. Sendas de Poder (Magia y Combate)",
+  "icon": "irons_spellbooks:scroll",
+  "order": 3,
+  "default_open": false,
+  "parent": "01_minecraft_introductorio"
+}
+

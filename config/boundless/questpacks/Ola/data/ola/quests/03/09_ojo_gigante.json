@@ -1,0 +1,29 @@
+{
+    "category": "03_bestiario_mitologico",
+    "sub-category":  "monstruos_leyenda",
+    "id":  "09_ojo_gigante",
+    "name":  "El Ojo del Cíclope",
+    "icon":  "iceandfire:cyclops_eye",
+    "description":  "Los cíclopes son gigantes de un solo ojo que habitan en calas rocosas y devoran ovejas y humanos. Ciégalo en batalla y reclama su ojo como trofeo.",
+    "dependencies":  "08_cuero_troll",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "collect":  "iceandfire:cyclops_eye",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:gold_coin",
+                                     "count":  2
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  50
+               }
+}
+

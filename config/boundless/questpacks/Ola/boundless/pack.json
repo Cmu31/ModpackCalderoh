@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 0,
+    "description": "Boundless Quest Pack: Ola"
+  },
+  "boundless": {
+    "icon_path": "minecraft:acacia_planks",
+    "enabled": true
+  }
+}

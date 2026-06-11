@@ -1,0 +1,37 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "nuevos_mundos",
+    "id":  "28_recursos_del_crepusculo",
+    "name":  "Materiales Crepusculares",
+    "icon":  "twilightforest:steeleaf_ingot",
+    "description":  "Las mazmorras y laberintos del Bosque Crepuscular albergan materiales mágicos y metales de caballeros antiguos. Reúne Hojas de Acero e Ingotos de Metal de Caballero para imbuir tu equipo con poder del crepúsculo.",
+    "dependencies":  "22_bosque_crepuscular",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "collect":  "twilightforest:steeleaf_ingot",
+                                            "count":  16
+                                        },
+                                        {
+                                            "collect":  "twilightforest:knightmetal_ingot",
+                                            "count":  8
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "twilightforest:charm_of_keeping_3",
+                                     "count":  1
+                                 },
+                                 {
+                                     "item":  "magic_coins:silver_coin",
+                                     "count":  40
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  60
+               }
+}
+

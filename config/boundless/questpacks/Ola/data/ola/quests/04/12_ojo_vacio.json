@@ -1,0 +1,22 @@
+{
+  "category": "04_ojos_del_fin",
+  "sub-category": "ojos_combate",
+  "id": "12_ojo_vacio",
+  "name": "Ojo de los Barcos del Fin",
+  "icon": "endrem:black_eye",
+  "description": "Por encima del vacío del espacio exterior, donde las islas flotantes de coral púrpura se alzan. Busca en el barco volador custodiado por cajas vivientes.",
+  "optional": "true",
+  "completion": {
+    "complete": [
+      { "collect": "endrem:black_eye", "count": 1 }
+    ]
+  },
+  "reward": {
+    "items": [
+      { "item": "magic_coins:gold_coin", "count": 1 }
+    ],
+    "exp": "points",
+    "count": 50
+  }
+}
+

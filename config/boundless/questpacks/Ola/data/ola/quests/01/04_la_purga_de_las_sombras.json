@@ -1,0 +1,38 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "desafios_menores",
+    "id":  "04_la_purga_de_las_sombras",
+    "name":  "La Purga de las Sombras",
+    "icon":  "minecraft:zombie_head",
+    "description":  "Las criaturas de la noche se han vuelto audaces y las rutas comerciales ya no son seguras. Se requiere un guerrero capaz de limpiar los caminos. Sal al encuentro de los horrores de la noche y demuestra que el acero es superior a la podredumbre.",
+    "dependencies":  "03_la_proteccion_del_guerrero",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "kill":  "minecraft:zombie",
+                                            "count":  10
+                                        },
+                                        {
+                                            "kill":  "minecraft:skeleton",
+                                            "count":  10
+                                        },
+                                        {
+                                            "kill":  "minecraft:creeper",
+                                            "count":  5
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "commands":  [
+                                    {
+                                        "command":  "give @s enchanted_book{StoredEnchantments:[{id:\"minecraft:sharpness\",lvl:1}]}",
+                                        "icon":  "minecraft:enchanted_book",
+                                        "title":  "Libro de Filo I"
+                                    }
+                                ],
+                   "exp":  "points",
+                   "count":  35
+               }
+}
+

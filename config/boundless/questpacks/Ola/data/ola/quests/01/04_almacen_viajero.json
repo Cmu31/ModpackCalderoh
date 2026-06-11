@@ -1,0 +1,37 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "primeros_pasos",
+    "id":  "04_almacen_viajero",
+    "name":  "El Almacén del Viajero",
+    "icon":  "sophisticatedbackpacks:backpack",
+    "description":  "Un aventurero que no puede cargar con sus propios hallazgos es un peso muerto para el grupo. Confecciona una mochila resistente con cuero y cuerda; te permitirá organizar tu botín y aligerar la carga en tus largas expediciones.",
+    "dependencies":  "03_el_fuego_del_hogar",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "collect":  "sophisticatedbackpacks:backpack",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "minecraft:leather",
+                                     "count":  4
+                                 },
+                                 {
+                                     "item":  "minecraft:string",
+                                     "count":  4
+                                 },
+                                 {
+                                     "item":  "minecraft:gold_ingot",
+                                     "count":  1
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  30
+               }
+}
+

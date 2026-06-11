@@ -1,0 +1,9 @@
+{
+  "id": "desafios_menores",
+  "name": "IV. Desafíos y Bestias Menores",
+  "icon": "minecraft:zombie_head",
+  "order": 4,
+  "default_open": false,
+  "parent": "01_minecraft_introductorio"
+}
+

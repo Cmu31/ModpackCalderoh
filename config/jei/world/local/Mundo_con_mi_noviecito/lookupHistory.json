@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"farmersdelight:smoked_ham"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:ham"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:baked_potato"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potato"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

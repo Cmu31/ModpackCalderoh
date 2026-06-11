@@ -1,0 +1,22 @@
+{
+  "category": "04_ojos_del_fin",
+  "sub-category": "ojos_exploracion",
+  "id": "02_ojo_minas",
+  "name": "Ojo de los Rieles Olvidados",
+  "icon": "endrem:lost_eye",
+  "description": "Bajo el suelo yace una red de madera y abandono, donde las telarañas son el único rey. Busca en los vagones de metal lo que el tiempo olvidó.",
+  "optional": "true",
+  "completion": {
+    "complete": [
+      { "collect": "endrem:lost_eye", "count": 1 }
+    ]
+  },
+  "reward": {
+    "items": [
+      { "item": "magic_coins:silver_coin", "count": 3 }
+    ],
+    "exp": "points",
+    "count": 20
+  }
+}
+

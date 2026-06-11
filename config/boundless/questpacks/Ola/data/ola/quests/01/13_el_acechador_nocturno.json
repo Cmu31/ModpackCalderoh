@@ -1,0 +1,41 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "desafios_menores",
+    "id":  "13_el_acechador_nocturno",
+    "name":  "El Acechador Nocturno",
+    "icon":  "born_in_chaos_v1:nightmare_claw",
+    "description":  "Una presencia abominable se ha manifestado por partida doble bajo el amparo de la oscuridad mística. Dos Nightmare Stalkers, criaturas nacidas de la más pura entropía y pesadillas de este reino mortal, han comenzado a cazar en pareja, acechando a los viajeros en las superficies boscosas durante las horas más oscuras. Su velocidad combinada es letal y su agresividad no conoce límites. Prepárate adecuadamente, adéntrate en la penumbra de la noche y erradica a estas dos aberraciones antes de que consuman por completo la cordura de los habitantes de la superficie.",
+    "dependencies":  "12_el_senor_de_las_pesadillas",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "kill":  "born_in_chaos_v1:nightmare_stalker",
+                                            "count":  2
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "born_in_chaos_v1:nightmare_claw",
+                                     "count":  4
+                                 },
+                                 {
+                                     "item":  "minecraft:golden_apple",
+                                     "count":  8
+                                 },
+                                 {
+                                     "item":  "minecraft:ender_eye",
+                                     "count":  3
+                                 },
+                                 {
+                                     "item":  "minecraft:amethyst_shard",
+                                     "count":  6
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  50
+               }
+}
+

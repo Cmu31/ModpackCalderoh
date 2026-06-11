@@ -1,0 +1,7 @@
+{
+  "id": "01_minecraft_introductorio",
+  "name": "EL INICIO DE LA AVENTURA",
+  "icon": "minecraft:grass_block",
+  "description": "El mundo es vasto y peligroso. Asegura tu supervivencia básica, empaca tus cosas y prepárate antes de buscar problemas mayores.",
+  "order": 1
+}

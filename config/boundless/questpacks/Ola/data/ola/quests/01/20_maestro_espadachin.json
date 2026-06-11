@@ -1,0 +1,37 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "sendas_poder",
+    "id":  "20_maestro_espadachin",
+    "name":  "Maestro Espadachín",
+    "icon":  "simplyswords:diamond_claymore",
+    "description":  "El combate cuerpo a cuerpo también debe configurar nuevas tácticas. Las armas pesadas de doble mano te permiten realizar ataques barrido devastadores y cubrir más terreno. Forja un Mandoble de Diamante (Diamond Claymore) para dominar el arte de la herrería de combate avanzada.",
+    "dependencies":  "19_el_camino_de_la_magia",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "collect":  "simplyswords:diamond_claymore",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:silver_coin",
+                                     "count":  30
+                                 },
+                                 {
+                                     "item":  "minecraft:experience_bottle",
+                                     "count":  6
+                                 },
+                                 {
+                                     "item":  "minecraft:golden_apple",
+                                     "count":  3
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  40
+               }
+}
+

@@ -1,0 +1,295 @@
+{
+  PresetMetadata:{
+    author:"superfuego30",
+    category:"General",
+    created:1780635131079L,
+    description:"",
+    entityTypeId:"easy_npc:humanoid",
+    modified:1780635131079L,
+    name:"336ec940-7477-4f74-bc51-ce7747a76ae6",
+    variantType:"STEVE",
+    version:"1.0.0"
+  },
+  data:{
+    "ActionData": {
+      "ActionEventSet": {
+        "ON_INTERACTION": [
+          { "Type": "OPEN_DEFAULT_DIALOG" }
+        ]
+      }
+    },
+    ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],
+    ArmorItems:[{},{},{},{}],
+    Brain:{
+      memories:{}
+    },
+    CanPickUpLoot:0b,
+    CitadelData:{},
+    CustomNameVisible:1b,
+    "DialogData": {
+      "DialogDataSet": [
+        {
+          "Buttons": [
+            {
+              "Actions": [
+                {
+                  "Type": "OPEN_TRADING_SCREEN"
+                }
+              ],
+              "Label": "yes_button",
+              "Name": "Comerciar",
+              "Type": "DEFAULT"
+            },
+            {
+              "Actions": [],
+              "Label": "no_button",
+              "Name": "Salir",
+              "Type": "DEFAULT"
+            }
+          ],
+          "Label": "question",
+          "Name": "Question Dialog",
+          "Priority": 10,
+          "Texts": [
+            {
+              "Text": "¡Hola, viajero! Qué alegría ver una cara nueva por aquí. Vendo suministros básicos y provisiones esenciales para tu aventura. ¿Quieres comerciar?"
+            }
+          ]
+        },
+        {
+          "Label": "yes_answer",
+          "Name": "Yes Dialog",
+          "Texts": [
+            {
+              "Text": ""
+            }
+          ]
+        },
+        {
+          "Label": "no_answer",
+          "Name": "No Dialog",
+          "Texts": [
+            {
+              "Text": ""
+            }
+          ]
+        }
+      ],
+      "Type": "YES_NO"
+    },
+    DisplayAttribute:[{
+      Bool:1b,Type:"VISIBLE"
+    },{
+      Bool:1b,Type:"VISIBLE_AT_DAY"
+    },{
+      Bool:1b,Type:"VISIBLE_AT_NIGHT"
+    },{
+      Bool:1b,Type:"VISIBLE_IN_CREATIVE"
+    },{
+      Bool:1b,Type:"VISIBLE_IN_SPECTATOR"
+    },{
+      Bool:1b,Type:"VISIBLE_IN_STANDARD"
+    },{
+      Bool:1b,Type:"VISIBLE_TO_OWNER"
+    },{
+      Bool:1b,Type:"VISIBLE_TO_TEAM"
+    },{
+      Int:7,Type:"LIGHT_LEVEL"
+    },{
+      Text:"ALWAYS",Type:"NAME_VISIBILITY"
+    }],
+    EasyNPCVersion:3,
+    EntityAttribute:{
+      CanBeHitByProjectile:0b,
+      CanBeLeashed:0b,
+      CanBreatheUnderwater:0b,
+      CanCloseDoor:0b,
+      CanFloat:0b,
+      CanOpenDoor:0b,
+      CanPassDoor:0b,
+      CanUseNetherPortal:0b,
+      Freefall:0b,
+      HealthRegeneration:0.0d,
+      IsAttackableByMonsters:0b,
+      IsAttackableByPlayers:0b,
+      IsInvulnerable:1b,
+      IsPushable:0b,
+      NoGravity:0b,
+      PushEntities:0b
+    },
+    HandDropChances:[0.085f,0.085f],
+    HandItems:[{},{}],
+    IMFlags:{
+      Attributes:{
+        EXPLOSION_DAMAGE_MULTIPLIER:1.0599999999999998d,
+        MAGIC_RESISTANCE:0.011999999999999985d,
+        PROJECTILE_DAMAGE_MULTIPLIER:1.0599999999999998d
+      },
+      CanBreakBlocks:2,
+      CanFly:2,
+      GearEnchanted:1b,
+      IsThrown:0b,
+      ModifiedArmor:1b,
+      ModifiedAttributes:1b,
+      ModifiedHeld:1b
+    },
+    Invulnerable:0b,
+    LeashedByEntities:[],
+    LeashingEntities:[],
+    LeftHanded:1b,
+    MobSpawnReason:12,
+    ModelData:{
+      DefaultPose:"STANDING",
+      Pose:"VANILLA",
+      Position:{},
+      Rotation:{},
+      Scale:{},
+      Visible:{}
+    },
+    Navigation:{
+      Home:{
+        X:85,
+        Y:-60,
+        Z:-429
+      }
+    },
+    NeoForgeData:{},
+    ObjectiveData:{
+      HasObjectives:1b,
+      ObjectiveDataSet:[{
+        Prio:9,Type:"LOOK_AT_PLAYER"
+      },{
+        Prio:10,Type:"LOOK_AT_MOB"
+      },{
+        Prio:10,Type:"LOOK_AT_RESET"
+      }]
+    },
+    Offers:{
+      Recipes:[{
+        buy:{
+          count:1,id:"minecraft:emerald"
+        },maxUses:64,priceMultiplier:1.0f,sell:{
+          count:3,id:"minecraft:apple"
+        },xp:0
+      }]
+    },
+    OnGround:1b,
+    PersistenceRequired:0b,
+    PresetUUID:[I;-472245106,-711636508,-1400601647,38656988],
+    Profession:"NONE",
+    Progression:{
+      AttributeScalingEnabled:0b,
+      EntityExperience:1,
+      EntityExperienceLevel:1
+    },
+    RenderData:{},
+    SkinData:{
+      Content:"",
+      DisableLayers:0b,
+      Name:"",
+      Timestamp:1780635107287L,
+      Type:"DEFAULT",
+      URL:"",
+      UUID:[I;0,0,0,0]
+    },
+    SoundData:{
+      SoundDataSet:[{
+        Name:"minecraft:entity.player.death",Type:"DEATH"
+      },{
+        Name:"minecraft:entity.generic.eat",Type:"EAT"
+      },{
+        Name:"minecraft:entity.player.hurt",Type:"HURT"
+      },{
+        Name:"minecraft:entity.villager.trade",Type:"TRADE"
+      },{
+        Name:"minecraft:entity.villager.yes",Type:"TRADE_YES"
+      },{
+        Name:"minecraft:entity.villager.no",Type:"TRADE_NO"
+      }]
+    },
+    Status:{
+      finalized:1b,
+      npc_data_last_saved:1780635107288L,
+      npc_data_last_update:1780635118077L
+    },
+    TrackedData:{},
+    TradingData:{
+      TradingDataSet:{
+        LastReset:0L,
+        MaxUses:64,
+        ResetsEveryMin:0,
+        RewardedXP:0,
+        Type:"BASIC"
+      }
+    },
+    VariantType:"STEVE",
+    attributes:[{
+      base:0.0d,id:"minecraft:generic.knockback_resistance"
+    },{
+      base:1.0d,id:"minecraft:generic.scale",modifiers:[{
+        amount:-0.09838750163294957d,id:"improvedmobs:attribute_modifiers",operation:"add_multiplied_base"
+      }]
+    },{
+      base:1.0d,id:"minecraft:generic.attack_damage",modifiers:[{
+        amount:0.08999999999999987d,id:"improvedmobs:attribute_modifiers",operation:"add_multiplied_base"
+      }]
+    },{
+      base:20.0d,id:"minecraft:generic.max_health",modifiers:[{
+        amount:0.14999999999999977d,id:"improvedmobs:attribute_modifiers",operation:"add_multiplied_base"
+      }]
+    },{
+      base:32.0d,id:"minecraft:generic.follow_range",modifiers:[{
+        amount:-0.007238229267745935d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"
+      }]
+    },{
+      base:0.0d,id:"minecraft:generic.oxygen_bonus"
+    },{
+      base:0.0d,id:"minecraft:zombie.spawn_reinforcements"
+    },{
+      base:0.6000000238418579d,id:"minecraft:generic.movement_speed",modifiers:[{
+        amount:0.002999999999999996d,id:"improvedmobs:attribute_modifiers",operation:"add_value"
+      }]
+    },{
+      base:0.0d,id:"minecraft:generic.armor"
+    }],
+    id:"easy_npc:humanoid",
+    "neoforge:attachments":{
+      "accessories:inventory_holder":{},
+      "apotheosis:tier_augments_applied":1b,
+      "iceandfire:chain_data":{
+        chainedTo:[]
+      },
+      "iceandfire:chicken_data":{
+        timeUntilNextEgg:-1
+      },
+      "iceandfire:misc_data":{
+        loveTicks:0,
+        lungeTicks:0,
+        targetedByScepters:[]
+      },
+      "iceandfire:portal_data":{
+        teleportTick:-1,
+        teleported:0b
+      },
+      "mowziesmobs:ability_data":{},
+      "mowziesmobs:frozen_data":{
+        freezeDecayDelay:0,
+        freezeProgress:0.0f,
+        frozen:0b,
+        frozenPitch:0.0f,
+        frozenRenderYawOffset:0.0f,
+        frozenSwingProgress:0.0f,
+        frozenWalkAnimPosition:0.0f,
+        frozenWalkAnimSpeed:0.0f,
+        frozenYaw:0.0f,
+        frozenYawHead:0.0f,
+        prevFrozen:0b,
+        prevHasAI:1b
+      },
+      "mowziesmobs:living_data":{},
+      "twilightforest:last_damage_armor_time":0L,
+      "twilightforest:slimy_soles_bounce_info":{}
+    },
+    "neoforge:spawn_type":"SPAWN_EGG"
+  }
+}
