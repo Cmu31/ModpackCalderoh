@@ -1,0 +1,8 @@
+{
+  "id": "primeros_pasos",
+  "name": "I. El Amanecer del Viajero",
+  "icon": "minecraft:stone_sword",
+  "order": 1,
+  "default_open": true,
+  "parent": "01_minecraft_introductorio"
+}

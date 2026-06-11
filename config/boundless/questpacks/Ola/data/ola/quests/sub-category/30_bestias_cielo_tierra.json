@@ -1,0 +1,9 @@
+{
+  "id": "bestias_cielo_tierra",
+  "name": "I. Bestias de Cielo y Tierra",
+  "icon": "iceandfire:pixie_dust",
+  "order": 30,
+  "default_open": false,
+  "parent": "03_bestiario_mitologico"
+}
+

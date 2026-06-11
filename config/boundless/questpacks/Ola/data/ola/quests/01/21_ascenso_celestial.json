@@ -1,0 +1,33 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "nuevos_mundos",
+    "id":  "21_ascenso_celestial",
+    "name":  "Ascenso Celestial",
+    "icon":  "aether:aether_dirt",
+    "description":  "Por encima de las nubes existe un reino fracturado de islas flotantes. El Aether. Construye un portal de piedra luminosa (Glowstone) y actívalo con agua para ascender a este reino.",
+    "dependencies":  "20_maestro_espadachin",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "collect":  "aether:aether_dirt",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "minecraft:glowstone",
+                                     "count":  14
+                                 },
+                                 {
+                                     "item":  "magic_coins:gold_coin",
+                                     "count":  2
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  50
+               }
+}
+

@@ -1,0 +1,22 @@
+{
+  "category": "04_ojos_del_fin",
+  "sub-category": "ojos_exploracion",
+  "id": "04_ojo_nether",
+  "name": "Ojo del Hogar de Obsidiana",
+  "icon": "endrem:nether_eye",
+  "description": "Donde el calor derrite las rocas y los jabalíes de metal patrullan pasillos de ladrillo negro. Abre los cofres más custodiados en el corazón del bastión.",
+  "optional": "true",
+  "completion": {
+    "complete": [
+      { "collect": "endrem:nether_eye", "count": 1 }
+    ]
+  },
+  "reward": {
+    "items": [
+      { "item": "magic_coins:silver_coin", "count": 5 }
+    ],
+    "exp": "points",
+    "count": 25
+  }
+}
+

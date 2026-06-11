@@ -1,0 +1,33 @@
+{
+    "category":  "02_gremio_aventureros",
+    "sub-category":  "contratos_caza_menor",
+    "id":  "04_limpieza_saqueadores",
+    "name":  "Contrato: Purga de Saqueadores",
+    "icon":  "minecraft:crossbow",
+    "description":  "Los Pillagers están organizando asaltos a las aldeas cercanas. Embosca sus patrullas y reduce sus números. (Misión Repetible) (Contrato Repetible)",
+    "optional":  "true",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "kill":  "minecraft:pillager",
+                                            "count":  30
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:silver_coin",
+                                     "count":  35
+                                 },
+                                 {
+                                     "item":  "minecraft:emerald",
+                                     "count":  12
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  25
+               },
+    "dependencies":  "",
+    "repeatable":  "true"
+}

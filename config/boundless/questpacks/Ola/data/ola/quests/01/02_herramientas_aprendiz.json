@@ -1,0 +1,41 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "primeros_pasos",
+    "id":  "02_herramientas_aprendiz",
+    "name":  "Las Herramientas del Aprendiz",
+    "icon":  "minecraft:stone_pickaxe",
+    "description":  "La madera es blanda y se rompe con facilidad; es inútil para un guerrero que aspira a grandes hazañas. Utiliza el adoquín que has recolectado para forjar un equipo de piedra sólido. Un filo firme y un pico resistente son la base de cualquier aventurero.",
+    "dependencies":  "01_aventura_inicia",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "collect":  "minecraft:stone_pickaxe",
+                                            "count":  1
+                                        },
+                                        {
+                                            "collect":  "minecraft:stone_axe",
+                                            "count":  1
+                                        },
+                                        {
+                                            "collect":  "minecraft:stone_sword",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "minecraft:leather",
+                                     "count":  4
+                                 },
+                                 {
+                                     "item":  "minecraft:bread",
+                                     "count":  5
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  30
+               }
+}
+

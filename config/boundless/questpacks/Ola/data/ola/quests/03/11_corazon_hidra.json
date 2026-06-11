@@ -1,0 +1,33 @@
+{
+    "category": "03_bestiario_mitologico",
+    "sub-category":  "monstruos_leyenda",
+    "id":  "11_corazon_hidra",
+    "name":  "El Corazón de la Hidra",
+    "icon":  "iceandfire:hydra_heart",
+    "description":  "La Hidra del pantano regenera sus cabezas cortadas con fuego. Termina con su inmortalidad y obtén su corazón regenerativo y colmillos.",
+    "dependencies":  "08_cuero_troll",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "collect":  "iceandfire:hydra_heart",
+                                            "count":  1
+                                        },
+                                        {
+                                            "collect":  "iceandfire:hydra_fang",
+                                            "count":  8
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:gold_coin",
+                                     "count":  4
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  75
+               }
+}
+

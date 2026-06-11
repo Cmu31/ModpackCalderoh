@@ -1,0 +1,26 @@
+{
+  "category": "01_minecraft_introductorio",
+  "sub-category": "primeros_pasos",
+  "id": "01_aventura_inicia",
+  "name": "El Despertar del Viajero",
+  "icon": "minecraft:oak_log",
+  "description": "El sol se oculta tras el horizonte y el frío de la noche acecha. Un viajero sin herramientas es carne de cañón para las bestias. Reúne los materiales básicos para forjar tu primer banco de trabajo y asentar tus cimientos.",
+  "dependencies": "",
+  "optional": "false",
+  "completion": {
+    "complete": [
+      { "collect": "minecraft:oak_log", "count": 16 },
+      { "collect": "minecraft:crafting_table", "count": 1 },
+      { "collect": "minecraft:cobblestone", "count": 16 }
+    ]
+  },
+  "reward": {
+    "items": [
+      { "item": "minecraft:bread", "count": 2 },
+      { "item": "minecraft:torch", "count": 8 },
+      { "item": "minecraft:flint", "count": 1 }
+    ],
+    "exp": "points",
+    "count": 20
+  }
+}

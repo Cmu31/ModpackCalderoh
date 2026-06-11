@@ -1,0 +1,29 @@
+{
+    "category": "03_bestiario_mitologico",
+    "sub-category":  "monstruos_leyenda",
+    "id":  "08_cuero_troll",
+    "name":  "Cuero de Troll",
+    "icon":  "iceandfire:troll_leather_mountain",
+    "description":  "Los Trolls habitan en cavernas oscuras y son extremadamente agresivos. Cázalos y obtén su cuero grueso y resistente.",
+    "dependencies":  "01_bestiario_mitologico",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "collect":  "iceandfire:troll_leather_mountain",
+                                            "count":  4
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:silver_coin",
+                                     "count":  15
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  30
+               }
+}
+

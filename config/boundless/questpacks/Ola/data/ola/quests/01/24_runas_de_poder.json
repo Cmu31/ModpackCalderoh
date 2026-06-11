@@ -1,0 +1,36 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "sendas_poder",
+    "id":  "24_runas_de_poder",
+    "name":  "El Tomo del Principiante",
+    "icon":  "irons_spellbooks:wimpy_spell_book",
+    "description":  "No toda la fuerza proviene de las espadas. En tus viajes, busca o fabrica un Libro de Hechizos Endeble (Wimpy Spell Book) para dar tus primeros pasos reales en el aprendizaje de la magia y la canalización de maná.",
+    "dependencies":  "20_maestro_espadachin",
+    "optional":  "false",
+    "completion":  {
+                        "complete":  [
+                                         {
+                                             "collect":  "irons_spellbooks:wimpy_spell_book",
+                                             "count":  1
+                                         }
+                                     ]
+                    },
+    "reward":  {
+                    "items":  [
+                                  {
+                                      "item":  "magic_coins:silver_coin",
+                                      "count":  15
+                                  },
+                                  {
+                                      "item":  "irons_spellbooks:arcane_essence",
+                                      "count":  4
+                                  },
+                                  {
+                                      "item":  "minecraft:lapis_lazuli",
+                                      "count":  8
+                                  }
+                              ],
+                    "exp":  "points",
+                    "count":  30
+                }
+}

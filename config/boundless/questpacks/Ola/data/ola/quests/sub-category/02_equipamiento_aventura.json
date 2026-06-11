@@ -1,0 +1,9 @@
+{
+  "id": "equipamiento_aventura",
+  "name": "II. Preparación y Equipamiento",
+  "icon": "minecraft:iron_chestplate",
+  "order": 2,
+  "default_open": false,
+  "parent": "01_minecraft_introductorio"
+}
+

@@ -1,0 +1,44 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "desafios_mayores",
+    "id":  "11_la_flor_del_vacio",
+    "name":  "La Flor del Vacío",
+    "icon":  "bosses_of_mass_destruction:void_blossom",
+    "description":  "Una plaga antinatural ha echado raíces en los biomas más antiguos del reino. La Void Blossom, una abominación vegetal que se alimenta de la esencia vital de la tierra, ha comenzado a corromper la flora circundante con energías de dimensiones prohibidas. Debes localizar su altar de invocación, resistir la distorsión del vacío que emana de sus pétalos y purificar este horror botánico para restaurar el equilibrio de los terrenos.",
+    "dependencies":  "10_el_asalto_al_puesto_avanzado",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "kill":  "bosses_of_mass_destruction:void_blossom",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "bosses_of_mass_destruction:ancient_anima",
+                                     "count":  1
+                                 },
+                                 {
+                                     "item":  "minecraft:diamond",
+                                     "count":  2
+                                 },
+                                 {
+                                     "item":  "minecraft:golden_apple",
+                                     "count":  10
+                                 }
+                             ],
+                   "commands":  [
+                                    {
+                                        "command":  "give @s minecraft:potion{Potion:\"minecraft:strong_healing\"} 2",
+                                        "icon":  "minecraft:potion",
+                                        "title":  "Pociones de Curación II (x2)"
+                                    }
+                                ],
+                   "exp":  "points",
+                   "count":  60
+               }
+}
+

@@ -1,0 +1,49 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "equipamiento_aventura",
+    "id":  "03_la_proteccion_del_guerrero",
+    "name":  "La Protección del Guerrero",
+    "icon":  "minecraft:iron_chestplate",
+    "description":  "Una espada sin armadura es un suicidio. El acero debe rodear tu cuerpo si pretendes sobrevivir a las emboscadas nocturnas y a los horrores que acechan en las profundidades de la tierra. Forja tu equipo completo y prepárate para los verdaderos peligros del mundo.",
+    "dependencies":  "02_el_acero_del_guerrero",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "collect":  "minecraft:iron_helmet",
+                                            "count":  1
+                                        },
+                                        {
+                                            "collect":  "minecraft:iron_chestplate",
+                                            "count":  1
+                                        },
+                                        {
+                                            "collect":  "minecraft:iron_leggings",
+                                            "count":  1
+                                        },
+                                        {
+                                            "collect":  "minecraft:iron_boots",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "minecraft:iron_ingot",
+                                     "count":  6
+                                 },
+                                 {
+                                     "item":  "minecraft:golden_apple",
+                                     "count":  1
+                                 },
+                                 {
+                                     "item":  "minecraft:cooked_porkchop",
+                                     "count":  8
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  45
+               }
+}
+

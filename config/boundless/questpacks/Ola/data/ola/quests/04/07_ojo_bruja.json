@@ -1,0 +1,22 @@
+{
+  "category": "04_ojos_del_fin",
+  "sub-category": "ojos_combate",
+  "id": "07_ojo_bruja",
+  "name": "Ojo del Pantano Oscuro",
+  "icon": "endrem:witch_eye",
+  "description": "En una choza flotante sobre aguas verdes y pantano, una anciana de nariz larga destila pociones en su caldero. Véncela para reclamar su visión.",
+  "optional": "true",
+  "completion": {
+    "complete": [
+      { "collect": "endrem:witch_eye", "count": 1 }
+    ]
+  },
+  "reward": {
+    "items": [
+      { "item": "magic_coins:silver_coin", "count": 5 }
+    ],
+    "exp": "points",
+    "count": 35
+  }
+}
+

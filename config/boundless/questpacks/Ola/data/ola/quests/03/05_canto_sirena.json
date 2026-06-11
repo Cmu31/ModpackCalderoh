@@ -1,0 +1,29 @@
+{
+    "category": "03_bestiario_mitologico",
+    "sub-category":  "terrores_profundidades",
+    "id":  "05_canto_sirena",
+    "name":  "El Canto de la Sirena",
+    "icon":  "minecraft:sea_lantern",
+    "description":  "Los marineros temen el canto melodioso que atrae a los barcos hacia las rocas. Enfrenta a las Sirenas del océano y derrota a 5 de ellas.",
+    "dependencies":  "01_bestiario_mitologico",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "kill":  "iceandfire:siren",
+                                            "count":  5
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:silver_coin",
+                                     "count":  15
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  30
+               }
+}
+

@@ -1,0 +1,29 @@
+{
+    "category": "03_bestiario_mitologico",
+    "sub-category":  "terrores_profundidades",
+    "id":  "06_devorador_mares",
+    "name":  "Devorador de Mares",
+    "icon":  "iceandfire:shiny_scales",
+    "description":  "Las Serpientes Marinas son el terror indiscutible de los océanos. Caza a una de estas colosales bestias y obtén sus escamas brillantes.",
+    "dependencies":  "05_canto_sirena",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "collect":  "iceandfire:shiny_scales",
+                                            "count":  8
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:gold_coin",
+                                     "count":  2
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  50
+               }
+}
+

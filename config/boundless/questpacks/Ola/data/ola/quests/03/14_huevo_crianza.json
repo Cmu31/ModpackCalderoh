@@ -1,0 +1,29 @@
+{
+    "category": "03_bestiario_mitologico",
+    "sub-category":  "reinado_dragones",
+    "id":  "14_huevo_crianza",
+    "name":  "La Crianza de un Dragón",
+    "icon":  "iceandfire:dragon_horn",
+    "description":  "Derrota a un temible dragón de nivel 4 o 5 en cuevas subterráneas profundas para obtener un huevo. Incúbalo y forja un Cuerno de Dragón para domar a tu montura ancestral.",
+    "dependencies":  "13_forja_hueso",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "collect":  "iceandfire:dragon_horn",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:gold_coin",
+                                     "count":  8
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  100
+               }
+}
+

@@ -1,0 +1,41 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "primeros_pasos",
+    "id":  "03_el_fuego_del_hogar",
+    "name":  "El Fuego del Hogar",
+    "icon":  "minecraft:furnace",
+    "description":  "El frío de la noche es un enemigo silencioso, y los alimentos crudos son el camino al infortunio. Erige un horno, el corazón de toda forja, y comienza a fundir los metales básicos que darán forma a tu leyenda. Un guerrero bien alimentado y con armadura de metal es imparable.",
+    "dependencies":  "02_herramientas_aprendiz",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "collect":  "minecraft:furnace",
+                                            "count":  1
+                                        },
+                                        {
+                                            "collect":  "minecraft:raw_iron",
+                                            "count":  4
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "minecraft:coal",
+                                     "count":  8
+                                 },
+                                 {
+                                     "item":  "minecraft:beef",
+                                     "count":  4
+                                 },
+                                 {
+                                     "item":  "minecraft:iron_ingot",
+                                     "count":  2
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  30
+               }
+}
+

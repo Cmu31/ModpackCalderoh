@@ -1,0 +1,44 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "desafios_menores",
+    "id":  "14_el_despertar_del_nigromante",
+    "name":  "El Despertar del Nigromante",
+    "icon":  "born_in_chaos_v1:bonescaller_staff",
+    "description":  "La energía vital de las aberraciones caídas ha sido canalizada en un ritual maldito. El Acolyte, un poderoso sirviente nigromántico, ha emergido para liderar huestes de no-muertos desde las ruinas antiguas de la SELVA TROPICAL. Debes localizar su altar de invocación, enfrentarte a sus artes oscuras y purificar este horror revivido antes de que su influencia corrompa toda la región.",
+    "dependencies":  "13_el_acechador_nocturno",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "kill":  "born_in_chaos_v1:missioner",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "minecraft:prismarine_shard",
+                                     "count":  3
+                                 },
+                                 {
+                                     "item":  "minecraft:diamond",
+                                     "count":  3
+                                 },
+                                 {
+                                     "item":  "minecraft:golden_carrot",
+                                     "count":  16
+                                 }
+                             ],
+                   "commands":  [
+                                    {
+                                        "command":  "give @s minecraft:potion{Potion:\"minecraft:strong_strength\"} 2",
+                                        "icon":  "minecraft:potion",
+                                        "title":  "Poción de Fuerza II (x2)"
+                                    }
+                                ],
+                   "exp":  "points",
+                   "count":  60
+               }
+}
+

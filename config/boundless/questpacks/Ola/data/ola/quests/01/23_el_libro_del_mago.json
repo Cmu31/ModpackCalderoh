@@ -1,0 +1,33 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "sendas_poder",
+    "id":  "23_el_libro_del_mago",
+    "name":  "El Libro del Hechicero",
+    "icon":  "irons_spellbooks:iron_spell_book",
+    "description":  "Los pergaminos canalizan la magia una única vez, pero un verdadero mago necesita un tomo donde almacenar sus hechizos de forma permanente. Forja un Libro de Hechizos de Hierro para expandir tu repertorio mágico.",
+    "dependencies":  "19_el_camino_de_la_magia",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "collect":  "irons_spellbooks:iron_spell_book",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "irons_spellbooks:arcane_essence",
+                                     "count":  4
+                                 },
+                                 {
+                                     "item":  "magic_coins:silver_coin",
+                                     "count":  25
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  40
+               }
+}
+

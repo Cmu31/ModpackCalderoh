@@ -1,0 +1,33 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "desafios_mayores",
+    "id":  "26_el_monstruo_de_netherite",
+    "name":  "La Monstruosidad de Netherite",
+    "icon":  "minecraft:netherite_upgrade_smithing_template",
+    "description":  "En las profundidades de las ruinas del Nether yace un coloso de metal y fuego. Encuentra y destruye a la Monstruosidad de Netherite para obtener el metal más resistente del universo.",
+    "dependencies":  "08_el_invocador_supremo",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "kill":  "cataclysm:netherite_monstrosity",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "minecraft:netherite_ingot",
+                                     "count":  1
+                                 },
+                                 {
+                                     "item":  "magic_coins:gold_coin",
+                                     "count":  5
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  100
+               }
+}
+

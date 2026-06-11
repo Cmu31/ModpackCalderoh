@@ -1,0 +1,29 @@
+{
+    "category": "03_bestiario_mitologico",
+    "sub-category":  "reinado_dragones",
+    "id":  "13_forja_hueso",
+    "name":  "El Arsenal de Dragón",
+    "icon":  "iceandfire:dragonbone_sword",
+    "description":  "Los huesos de dragón son el material más resistente y conductivo para las armas. Forja una Espada de Hueso de Dragón.",
+    "dependencies":  "12_sangre_elemental",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "collect":  "iceandfire:dragonbone_sword",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:gold_coin",
+                                     "count":  4
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  75
+               }
+}
+

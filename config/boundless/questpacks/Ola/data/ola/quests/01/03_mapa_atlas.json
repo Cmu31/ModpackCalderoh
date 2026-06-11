@@ -1,0 +1,23 @@
+{
+  "category": "01_minecraft_introductorio",
+  "sub-category": "guias_basicas",
+  "id": "03_mapa_atlas",
+  "name": "Guía del Mapa: Map Atlases",
+  "icon": "map_atlases:atlas",
+  "description": "El Atlas registra automáticamente tus viajes en el Overworld sin necesidad de activarlo manualmente. Es tu mejor herramienta para no perderte. Recolecta un bloque de tierra para obtener tus mapas vacíos.",
+  "dependencies": "02_sistema_de_aptitudes",
+  "optional": "false",
+  "completion": {
+    "complete": [
+      { "collect": "minecraft:dirt", "count": 1 }
+    ]
+  },
+  "reward": {
+    "items": [
+      { "item": "minecraft:map", "count": 2 }
+    ],
+    "exp": "points",
+    "count": 20
+  }
+}
+

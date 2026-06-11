@@ -1,0 +1,37 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "desafios_menores",
+    "id":  "25_cazador_de_sombras",
+    "name":  "Cazador de Pesadillas",
+    "icon":  "born_in_chaos_v1:dark_metal_ingot",
+    "description":  "Las criaturas nacidas del caos de la noche portan materiales extraños. Elimina al temible Acechador de Pesadillas para reclamar su botín y recolecta Lingotes de Metal Oscuro para forjar equipo maldito.",
+    "dependencies":  "13_el_acechador_nocturno",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "collect":  "born_in_chaos_v1:dark_metal_ingot",
+                                            "count":  4
+                                        },
+                                        {
+                                            "kill":  "born_in_chaos_v1:nightmare_stalker",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "born_in_chaos_v1:dark_metal_ingot",
+                                     "count":  8
+                                 },
+                                 {
+                                     "item":  "magic_coins:silver_coin",
+                                     "count":  30
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  50
+               }
+}
+

@@ -1,0 +1,8 @@
+{
+  "id": "guias_basicas",
+  "name": "I. Guías Básicas de Supervivencia",
+  "icon": "minecraft:writable_book",
+  "order": 0,
+  "default_open": true,
+  "parent": "01_minecraft_introductorio"
+}

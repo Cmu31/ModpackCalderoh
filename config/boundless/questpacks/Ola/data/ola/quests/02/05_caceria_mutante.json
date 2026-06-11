@@ -1,0 +1,40 @@
+{
+    "category":  "02_gremio_aventureros",
+    "sub-category":  "contratos_caza_mayor",
+    "id":  "05_caceria_mutante",
+    "name":  "Contrato de Élite: Amenaza Mutante",
+    "icon":  "mutantmonsters:mutant_zombie_spawn_egg",
+    "description":  "Se ha puesto precio a las cabezas de las peores aberraciones del Overworld. Caza a múltiples Zombies Mutantes para cobrar esta jugosa recompensa. Solo para aventureros bien equipados. (Misión Repetible) (Contrato Repetible)",
+    "optional":  "true",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "kill":  "mutantmonsters:mutant_zombie",
+                                            "count":  3
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:gold_coin",
+                                     "count":  10
+                                 },
+                                 {
+                                     "item":  "minecraft:enchanted_golden_apple",
+                                     "count":  2
+                                 }
+                             ],
+                   "commands":  [
+                                    {
+                                        "command":  "give @s enchanted_book{StoredEnchantments:[{id:\"minecraft:protection\",lvl:4}]} 1",
+                                        "icon":  "minecraft:enchanted_book",
+                                        "title":  "Libro de Protección IV"
+                                    }
+                                ],
+                   "exp":  "points",
+                   "count":  50
+               },
+    "dependencies":  "",
+    "repeatable":  "true"
+}

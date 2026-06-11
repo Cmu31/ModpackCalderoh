@@ -1,0 +1,49 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "desafios_menores",
+    "id":  "05_el_azote_de_los_saqueadores",
+    "name":  "El Azote de los Saqueadores",
+    "icon":  "minecraft:crossbow",
+    "description":  "Las criaturas de la noche fueron solo el principio. Los Saqueadores han erigido puestos avanzados y aterrorizan a los mercaderes. Es hora de demostrar que tus habilidades de combate superan a cualquier ejército de ballestas. Elimina a sus líderes y restaura la paz en los caminos.",
+    "dependencies":  "04_la_purga_de_las_sombras",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "kill":  "minecraft:pillager",
+                                            "count":  10
+                                        },
+                                        {
+                                            "kill":  "minecraft:vindicator",
+                                            "count":  5
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "minecraft:diamond",
+                                     "count":  3
+                                 },
+                                 {
+                                     "item":  "minecraft:emerald",
+                                     "count":  16
+                                 }
+                             ],
+                   "commands":  [
+                                    {
+                                        "command":  "give @s minecraft:totem_of_undying",
+                                        "icon":  "minecraft:totem_of_undying",
+                                        "title":  "Tótem de la Inmortalidad"
+                                    },
+                                    {
+                                        "command":  "give @s minecraft:crossbow{Enchantments:[{id:\"minecraft:quick_charge\",lvl:2}]}",
+                                        "icon":  "minecraft:crossbow",
+                                        "title":  "Ballesta de Carga Rápida II"
+                                    }
+                                ],
+                   "exp":  "points",
+                   "count":  35
+               }
+}
+
