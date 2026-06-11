@@ -5357,14 +5357,6 @@ file = "mods/worldedit-mod-7.3.8.jar"
 hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
 
 [[files]]
-file = "mods/xaerominimap-neoforge-1.21.1-25.3.13.jar"
-hash = "05fb78259566983b1e66501f46d6695bfab087e9630f3b65e82677b88244a1c2"
-
-[[files]]
-file = "mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar"
-hash = "73b1447333e467d23645ce7b2c319f3ca951b393b44b3a6ed0f41f06927d42bb"
-
-[[files]]
 file = "mods/yeetusexperimentus-neoforge-87.0.0.jar"
 hash = "9117db8b5905abf18f64fdf8f8d8ca5a91c23abd0a7fa2c9986c21aa17d74e75"
 
