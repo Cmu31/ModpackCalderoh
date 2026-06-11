@@ -1,9 +1,0 @@
-{
-  "id": "nuevos_mundos",
-  "name": "VI. Exploración Interdimensional",
-  "icon": "aether:aether_dirt",
-  "order": 6,
-  "default_open": false,
-  "parent": "01_minecraft_introductorio"
-}
-

@@ -1,9 +1,0 @@
-{
-  "id": "ojos_exploracion",
-  "name": "I. Ojos de Saqueo y Exploración",
-  "icon": "minecraft:chest",
-  "order": 40,
-  "default_open": false,
-  "parent": "04_ojos_del_fin"
-}
-

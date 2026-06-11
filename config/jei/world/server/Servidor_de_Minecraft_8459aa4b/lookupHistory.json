@@ -1,8 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"minecraft:diamond"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"magic_coins:silver_coin"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:jungle_leaves"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"knightlib:great_essence"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"knightlib:small_essence"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]

@@ -1,9 +1,0 @@
-{
-  "id": "monstruos_leyenda",
-  "name": "III. Monstruos de Leyenda",
-  "icon": "iceandfire:gorgon_head",
-  "order": 32,
-  "default_open": false,
-  "parent": "03_bestiario_mitologico"
-}
-

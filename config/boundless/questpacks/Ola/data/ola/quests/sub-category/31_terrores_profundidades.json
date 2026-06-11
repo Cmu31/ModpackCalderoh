@@ -1,9 +1,0 @@
-{
-  "id": "terrores_profundidades",
-  "name": "II. Terrores de las Profundidades",
-  "icon": "iceandfire:shiny_scales",
-  "order": 31,
-  "default_open": false,
-  "parent": "03_bestiario_mitologico"
-}
-
