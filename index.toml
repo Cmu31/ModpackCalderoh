@@ -4849,10 +4849,6 @@ file = "mods/dimdungeons-209-neoforge-1.21.1.jar"
 hash = "4261fd522b317f3139ec1a39efbbbb2328912f91b17f6033f98d62755037b9ff"
 
 [[files]]
-file = "mods/disconnect-packet-fix-neoforge-2.0.1.jar"
-hash = "6254f47c73249108706860505f8261b0273aafdc53fe8008aadfca162f0cfd3b"
-
-[[files]]
 file = "mods/doespotatotick-1.21.1-5.6.3.jar"
 hash = "c9c935195ad71f407d0ce67bea28d82115fa89cfc2ed3702936aee521e79d338"
 
