@@ -4401,6 +4401,10 @@ file = "mods/Data_Anchor-neoforge-1.21.1-2.0.0.14.jar"
 hash = "ec5d54ae85bc39be3c17b38d800aa8e2fa57a2a1f46464fc1e328ed61eb85041"
 
 [[files]]
+file = "mods/DeathFinder-v21.1.1-1.21.1-NeoForge.jar"
+hash = "aa067066094249a817c3040faae7d74489682ddc3e3a6f30ae81e60f449d704b"
+
+[[files]]
 file = "mods/DungeonCrawl-NeoForge-1.21-2.3.17.jar"
 hash = "853cd59208f17c25188a419b48d1a9fed3acebf676bb1ddd026fa4e7fb56dad4"
 
