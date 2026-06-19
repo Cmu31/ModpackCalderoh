@@ -4721,10 +4721,6 @@ file = "mods/bountiful-neoforge-8.0.0-beta.2.jar"
 hash = "dca5e0af724e3076b3d950b7ec88cf63c509435cf41371a6e1c7c306cb6a7e51"
 
 [[files]]
-file = "mods/carryon-neoforge-1.21.1-2.2.4.4.jar"
-hash = "ad69537be8be8b433227792e43f8df7b4d3cef7e359255d471a44e776ad8dd57"
-
-[[files]]
 file = "mods/cerulean-neoforge-1.0.0-1.21.1.jar"
 hash = "932e88b73ad3ed4c5092b095c6da1cf416ea9d667096c5ed4e0685d7a6db1b9e"
 
@@ -4787,14 +4783,6 @@ hash = "2366973ddae5ba00b9ba15a26e5b610a6648038b9f2549bf81b9ae61342b281a"
 [[files]]
 file = "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar"
 hash = "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
-
-[[files]]
-file = "mods/corpse-neoforge-1.21.1-1.1.13.jar"
-hash = "f61e750eb2cb49867483d34d6630e02597a52e41680fc38d1c65ece4ef36fd2b"
-
-[[files]]
-file = "mods/corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar"
-hash = "43c1ac104381748439f92ea426207b86f93bc641f1d6cfebc08be4a563d91260"
 
 [[files]]
 file = "mods/create-1.21.1-6.0.10.jar"
@@ -4941,6 +4929,10 @@ file = "mods/forgematica-0.4.1+mc1.21.1.jar"
 hash = "7244da3257115346eea3fa81bd70bc050b6d09cd9d75bdb7251ce949eb35f7ef"
 
 [[files]]
+file = "mods/fragmentum-neoforge-1.21.1-2.2.4.jar"
+hash = "15951685cdf983b3ddd4118d64aa87fe2715ba13492866c339e5a7ab77b7e52a"
+
+[[files]]
 file = "mods/framework-neoforge-1.21.1-0.13.11.jar"
 hash = "429ea90a162d7c25c1463ee60979e4d7b1ddb525d9384a3a2a2f45d70bda03f5"
 
@@ -4983,6 +4975,14 @@ hash = "523aebc80baab377072fe26c5ff9d1c3649764f185131e7849acd99833d406dd"
 [[files]]
 file = "mods/gpumemleakfix-1.21-1.8.jar"
 hash = "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931"
+
+[[files]]
+file = "mods/gravestone-neoforge-1.21.1-1.0.37.jar"
+hash = "b7de5decbf1f35e41af2b146ad201699f434cf32b0f8f9b7d1638a9933bd5a3e"
+
+[[files]]
+file = "mods/gravestonecurioscompat-1.21.1-NeoForge-3.0.1.jar"
+hash = "0f080a4220b09937199293d318b58161bba042f3758fd732875f6a88a13b3662"
 
 [[files]]
 file = "mods/handcrafted-neoforge-1.21.1-4.0.3.jar"
@@ -5063,6 +5063,10 @@ hash = "a2441d9d704643742af65d24c406648a9b0c2b2292b775923feaa8a3fbb794e2"
 [[files]]
 file = "mods/lithium-neoforge-0.15.3+mc1.21.1.jar"
 hash = "a6548862bd13ff8eea6747cf61df50c8374a16a22d067614e414ed600eee6d83"
+
+[[files]]
+file = "mods/loot_journal-neoforge-1.21.1-6.2.1.jar"
+hash = "9f4651a900f0b98e2a82780df2565ee29298c9de64d5874f380dc1f4d1841ac5"
 
 [[files]]
 file = "mods/lootintegrations-1.21.1-4.7.jar"
