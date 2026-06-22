@@ -5417,10 +5417,6 @@ file = "mods/quick-pack-neoforge-1.3.2+1.21.8.jar"
 hash = "37ed8231c00231ef0a0d6e6737bf9e2be0c11be33a944f1fb36868149413dc13"
 
 [[files]]
-file = "mods/rarcompat-1.21-0.9.7.jar"
-hash = "fcbe35d8d6c44f72dcf467deb54c5fb9e5d6be725a79413f9f45354460553149"
-
-[[files]]
 file = "mods/recipeessentials-1.21-4.0.jar"
 hash = "d07d9267afc4386c4985d68c53d957cad3e76a177457135241e57fd136a802a2"
 
@@ -5431,10 +5427,6 @@ hash = "bdaf4c3399b7436d3be7d79729d87ed707a964420dc58720e13fb2f4960c8b9e"
 [[files]]
 file = "mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar"
 hash = "e00e960f9cae9ea411429fadaa48e2d778f8064667cf6aaee7ce88332813b0bf"
-
-[[files]]
-file = "mods/relics-1.21.1-0.10.7.8.jar"
-hash = "024f63a0706a94fbb4dff5fb6534500817f72751a0e16577fe117e510b056e5c"
 
 [[files]]
 file = "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar"
@@ -5727,6 +5719,10 @@ hash = "3277b6cdbba7e5e77f416472c902d7cb5ae0f1b439824ee846251f4dc1167011"
 [[files]]
 file = "shaderpacks/Skygleam Shaders V3.1.zip"
 hash = "8cde9f45071193eab7e346f20ec695754a40d3398fcf153f47dd8a397e5166ef"
+
+[[files]]
+file = "shaderpacks/Solas Shader V3.6.zip"
+hash = "6d6f1065cbe2310b8246b7a702eeda651428ce2a6b742540f014e8e7b640a2ad"
 
 [[files]]
 file = "shaderpacks/VanillaPlus_v3.3.zip"
