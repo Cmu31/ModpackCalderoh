@@ -1,0 +1,29 @@
+﻿{
+    "category": "02_gremio_aventureros",
+    "sub-category": "contratos_recoleccion",
+    "id": "34_contrato_redstone",
+    "name": "Energia Conductora",
+    "icon": "minecraft:redstone",
+    "description": "Los alquimistas e ingenieros mecÃ¡nicos del gremio necesitan polvo de redstone para sus experimentos de automatizaciÃ³n. Entrega un cargamento bÃ¡sico. (MisiÃ³n Repetible)",
+    "optional": "true",
+    "completion": {
+        "complete": [
+            {
+                "submit": "minecraft:redstone",
+                "count": 64
+            }
+        ]
+    },
+    "reward": {
+        "items": [
+            {
+                "item": "magic_coins:silver_coin",
+                "count": 20
+            }
+        ],
+        "exp": "points",
+        "count": 100
+    },
+    "dependencies": "",
+    "repeatable": "true"
+}

@@ -1,0 +1,29 @@
+﻿{
+    "category": "02_gremio_aventureros",
+    "sub-category": "contratos_caza_menor",
+    "id": "44_contrato_brujas",
+    "name": "Brebajes Malignos",
+    "icon": "minecraft:glass_bottle",
+    "description": "Se ha reportado la presencia de brujas preparando pociones nocivas en las ciÃ©nagas y chozas cercanas. ElimÃ­nalas antes de que envenenen los pozos. (MisiÃ³n Repetible)",
+    "optional": "true",
+    "completion": {
+        "complete": [
+            {
+                "kill": "minecraft:witch",
+                "count": 5
+            }
+        ]
+    },
+    "reward": {
+        "items": [
+            {
+                "item": "magic_coins:silver_coin",
+                "count": 30
+            }
+        ],
+        "exp": "points",
+        "count": 140
+    },
+    "dependencies": "",
+    "repeatable": "true"
+}

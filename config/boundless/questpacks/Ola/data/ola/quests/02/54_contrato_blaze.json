@@ -1,0 +1,29 @@
+﻿{
+    "category": "02_gremio_aventureros",
+    "sub-category": "contratos_caza_mayor",
+    "id": "54_contrato_blaze",
+    "name": "Cenizas Ardientes",
+    "icon": "minecraft:blaze_rod",
+    "description": "Las fortalezas del Nether estÃ¡n custodiadas por espÃ­ritus de fuego flotantes. Caza Blazes para asegurar las fortalezas y recolectar sus varas. (MisiÃ³n Repetible)",
+    "optional": "true",
+    "completion": {
+        "complete": [
+            {
+                "kill": "minecraft:blaze",
+                "count": 12
+            }
+        ]
+    },
+    "reward": {
+        "items": [
+            {
+                "item": "magic_coins:silver_coin",
+                "count": 65
+            }
+        ],
+        "exp": "points",
+        "count": 250
+    },
+    "dependencies": "",
+    "repeatable": "true"
+}

@@ -1,0 +1,29 @@
+﻿{
+    "category": "02_gremio_aventureros",
+    "sub-category": "contratos_caza_mayor",
+    "id": "51_contrato_wither_skeleton",
+    "name": "Cenizas del Wither",
+    "icon": "minecraft:wither_skeleton_skull",
+    "description": "Los esqueletos de Wither patrullan las fortalezas del Nether esparciendo su maldiciÃ³n. ElimÃ­nalos para despejar el camino a otros aventureros. (MisiÃ³n Repetible)",
+    "optional": "true",
+    "completion": {
+        "complete": [
+            {
+                "kill": "minecraft:wither_skeleton",
+                "count": 15
+            }
+        ]
+    },
+    "reward": {
+        "items": [
+            {
+                "item": "magic_coins:silver_coin",
+                "count": 90
+            }
+        ],
+        "exp": "points",
+        "count": 350
+    },
+    "dependencies": "",
+    "repeatable": "true"
+}
