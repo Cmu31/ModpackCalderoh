@@ -98,7 +98,7 @@ hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
 file = "config/RuOK.toml"
-hash = "a8db07a8f360581e5c35d4322e2f033e61a09e5b0377ae33657875a39117b4a4"
+hash = "02f499fdb7959dd91f3397849cf3cd1dc5ed1dfeb853a1481965b2cb3e1e3f6e"
 
 [[files]]
 file = "config/accessories.json5"
@@ -790,7 +790,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/boundless/quest_state/mp_CalderoH.mcserver.host.json"
-hash = "7ccbd681e9b348ef28a8755c60ce5a95801f84a948dbbb08074419ca6e892cce"
+hash = "1eaacc16f24909a1867c26a35d3bb8747e8b82bbcee1569842a3cd96261f7a54"
 
 [[files]]
 file = "config/boundless/quest_state/sp_Karmaland_version_queer.json"
@@ -1534,7 +1534,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "fb5d641281b52a7f79e40c5ce7849a3cd4c8ffddf8e281415a6b78538c40968f"
+hash = "cf0b0a20f39c5c58910f338abae54da6f97a06ea0922a2d720f5ef86826c7bda"
 
 [[files]]
 file = "config/crash_assistant/scripts/log_analysis/example.jexl"
@@ -2418,7 +2418,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "ef976c8992195c72cd8667a58794ae7b5ab22a4816a667b710fd137ca5e684fa"
+hash = "37209dc95cb6e9451c4fb07faf8f480effccb14dad45c93cd92af4559d0d0b0f"
 
 [[files]]
 file = "config/fallingleaves-client.toml"
@@ -2774,7 +2774,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "5b1f8c41949e4f4ebd1fdcaf2e52a003828f0aa95cbac988f6aab34bea065da9"
+hash = "cd1f7522b6baea32750c9f5dc2c7b5606e6fdefd8c6a896647907ef3b0bc978a"
 
 [[files]]
 file = "config/irisflw-client.toml"
@@ -2818,7 +2818,7 @@ hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "ea577e8fd077936bfb8490d40e985086ba64647bffa5f50dd9d25d0dee2d09af"
+hash = "1b9faa0637ce35640b258cb9a6ede6d7fbe23f3138e1f3e04167caef4f204ecc"
 
 [[files]]
 file = "config/jade/plugins.json"
@@ -2838,7 +2838,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "2f48b4cebf36182238d20814bf9a40427aff18ad689f00c9d7084024daf360cb"
+hash = "52be3d3590ef3389b49d84aa4d07c78df66885181779a58155d14f203951e49e"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -2846,19 +2846,19 @@ hash = "c934a1fe328bae8bbd48d4c1077709ce42121f27945e22fac87c06d095f1abd1"
 
 [[files]]
 file = "config/jei/jei-client.ini"
-hash = "d17d09fbe4cbc901e8ef9997a44a251f000576acd07a2e5bb2948cc13f2b9ed5"
+hash = "3691bfb2ef9cdd583d9675d8ad04b91c196be4f53dd66e8c2a0d41f3e38c90be"
 
 [[files]]
 file = "config/jei/jei-colors.ini"
-hash = "e4bc0c5fce5a7536bce14c94b30e30482e65d63792b29db0ad59d4fa9eb4d1a5"
+hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
 
 [[files]]
 file = "config/jei/jei-debug.ini"
-hash = "8e1a955b5a5c87199dc45b3a4a2cb32d1389ca032cacb0bc1914cbbb1fc14e62"
+hash = "938c07f0dbff699649c4ab2c8a850067ca7876e5a7e61245f173f741f39d9672"
 
 [[files]]
 file = "config/jei/jei-mod-id-format.ini"
-hash = "055bf6becf47277e5e41aefb2e0f38443e86784571cd74c03a2a4f930cbedd7e"
+hash = "64eadca7fa07c15de7fd549c4cc4782bf8678d8a49d1626b0805e337d604ccb7"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
@@ -2890,7 +2890,7 @@ hash = "864931aa3927d097ca7d9334cba6a8f5f2004c9d42c6635136a5480922b8b171"
 
 [[files]]
 file = "config/jei/world/server/Servidor_de_Minecraft_8459aa4b/lookupHistory.json"
-hash = "ecb100f403088b14af22696fa8bfad423d1dcb9054dc72a89d5fe887ba4f0819"
+hash = "b050affe1d4e840db0c8ba482bf5f96f8bf8cc3bcb80294cfbf74e2f104a0ed1"
 
 [[files]]
 file = "config/jupiter.json"
@@ -2958,7 +2958,7 @@ hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
 
 [[files]]
 file = "config/litematica/litematica_CalderoH.mcserver.host_dim_minecraft_overworld.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+hash = "bd1f38e1eac2d822c26d9c2f887a1928a0908aeca0737181a3362dd704095a57"
 
 [[files]]
 file = "config/litematica/litematica_Mundo nuevo.json"
@@ -3254,7 +3254,7 @@ hash = "03bb2600571f5b53043becdec8d58552fde2b95243ffae2d05ac013c1fd066b8"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "64df52fedc717ae21bd19b46ea2eefd8f749458ccf7685193384b89fd6dff3b6"
+hash = "3f6e09ce2f1ffabc9362eda5995389453b500b6cfad383dcb3ad63ffe5fdb31f"
 
 [[files]]
 file = "config/paraglider-common.toml"
@@ -3434,7 +3434,7 @@ hash = "4e71aa46661b461100c7f71fc134213a167ab2b2c9fc5d8f20d46feeb48077b6"
 
 [[files]]
 file = "config/scalablelux.properties"
-hash = "1b69a10693b417524455c04ecd67ffe96ff2d2c7eea0e53ab86b8e9f6150cf16"
+hash = "2c01e49a6364cf5668a01f9a913bb28db43e455da4b1ddd55f9f6e9fe11fefc1"
 
 [[files]]
 file = "config/servercore/config.yml"
@@ -3526,7 +3526,7 @@ hash = "b9710b79f15937fe256e1e98951392caa73a8a59b0d63d60bba9fa81094ccb33"
 
 [[files]]
 file = "config/sodiumextras-client.toml"
-hash = "db69ba7d34fc84a60fbc2eb010145bf76212ed4bace31324ca97dbc59c5476fd"
+hash = "81b03ec7941c0a5de9fca80534b69cad50bc2251fe31457afecdb6830aa325cf"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
@@ -3718,7 +3718,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "129f54d46ad2bfe9197af7d7a94155442bce2be05bf8fee7a5bce5c3e240d149"
+hash = "59b9f1b75c5d15bbd675f7f234d1882444008f7e62bb15f31debd64a28c0fbf8"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -5037,6 +5037,10 @@ file = "mods/darksleep-neoforge-1.21.1-1.0.1.jar"
 hash = "11edb306ee9e880c36f7a3de04ce3def3e53ba27c88e71f85b7b99911fbe8907"
 
 [[files]]
+file = "mods/decocraft-3.0.11-1.21.1-neoforge.jar"
+hash = "b0589eb7d03b13bbf3b9c45df7f50db556a721882e9ad2bb6be0ff23e5a64526"
+
+[[files]]
 file = "mods/deep_aether-1.21.1-1.1.5.1.jar"
 hash = "0f55ad970715bb933344e785b2c35a7354dfba25ffd426c0b68921d08bbe0ce5"
 
@@ -5682,7 +5686,7 @@ hash = "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
-hash = "997cfc7d388f1dd71a58b42468f29c129fb9859e66ae1b8a0b23d67e77ca8407"
+hash = "700030071c1c21e4704f7ff966f3f58049464aef30331eb496e0e2a481687d18"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.7.1.zip"

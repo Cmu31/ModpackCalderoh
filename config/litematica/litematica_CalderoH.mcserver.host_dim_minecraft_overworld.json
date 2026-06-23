@@ -4,7 +4,7 @@
   },
   "placements": {},
   "schematic_projects_manager": {},
-  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "operation_mode": "REBUILD",
   "render_range": {
     "mode": "ALL",
     "axis": "Y",
@@ -22,14 +22,14 @@
     "boxes": [
       {
         "pos1": [
-          0,
-          0,
-          0
+          -3359,
+          128,
+          -413
         ],
         "pos2": [
-          0,
-          0,
-          0
+          -3359,
+          128,
+          -413
         ],
         "name": "Unnamed"
       }
