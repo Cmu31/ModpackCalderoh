@@ -3438,11 +3438,11 @@ hash = "2c01e49a6364cf5668a01f9a913bb28db43e455da4b1ddd55f9f6e9fe11fefc1"
 
 [[files]]
 file = "config/servercore/config.yml"
-hash = "ec07f9d89f43cd9b86d18b95999088c10b2ef4a125050ad204e8aa979a4abef6"
+hash = "391671405e99b51e9a276922b3b8eafab6053c5c8144a9436cff9e9ca54738f9"
 
 [[files]]
 file = "config/servercore/optimizations.yml"
-hash = "63ba7034fdf1f45f1b40798d3212f8d838f7c299fbe5795075fbafe1e2265192"
+hash = "90a3da935e89208bedba12ffcd243951e1894fd0ba316d37ce80b853949de4d6"
 
 [[files]]
 file = "config/sg_economy-client.toml"
