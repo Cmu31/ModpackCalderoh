@@ -1,29 +1,29 @@
 ﻿{
-    "category": "02_gremio_aventureros",
-    "sub-category": "contratos_caza_mayor",
-    "id": "52_contrato_ghast",
-    "name": "Lagrimas Flotantes",
-    "icon": "minecraft:ghast_tear",
-    "description": "Los llantos de los ghasts resuenan en los techos del Nether mientras bombardean a los viajeros. Caza a estas bestias flotantes. (MisiÃ³n Repetible)",
-    "optional": "true",
-    "completion": {
-        "complete": [
-            {
-                "kill": "minecraft:ghast",
-                "count": 8
-            }
-        ]
-    },
-    "reward": {
-        "items": [
-            {
-                "item": "magic_coins:silver_coin",
-                "count": 75
-            }
-        ],
-        "exp": "points",
-        "count": 280
-    },
-    "dependencies": "",
-    "repeatable": "true"
+    "category":  "02_gremio_aventureros",
+    "sub-category":  "contratos_caza_mayor",
+    "id":  "52_contrato_ghast",
+    "name":  "Lagrimas Flotantes",
+    "icon":  "minecraft:ghast_tear",
+    "description":  "Los llantos de los ghasts resuenan en los techos del Nether mientras bombardean a los viajeros. Caza a estas bestias flotantes. (MisiÃ³n Repetible)",
+    "optional":  "true",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "submit":  "minecraft:ghast_tear",
+                                            "count":  4
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:silver_coin",
+                                     "count":  75
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  280
+               },
+    "dependencies":  "",
+    "repeatable":  "true"
 }

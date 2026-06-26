@@ -1,20 +1,20 @@
-{
+﻿{
     "category":  "02_gremio_aventureros",
     "sub-category":  "contratos_caza_menor",
     "id":  "03_control_de_plagas",
     "name":  "Contrato: Control de Plagas",
     "icon":  "minecraft:zombie_head",
-    "description":  "Las rutas comerciales están atestadas de muertos vivientes. Limpia los caminos eliminando a las hordas de Zombies y Esqueletos. (Misión Repetible) (Contrato Repetible)",
+    "description":  "Las rutas comerciales estÃ¡n atestadas de muertos vivientes. Limpia los caminos eliminando a las hordas de Zombies y Esqueletos. (MisiÃ³n Repetible) (Contrato Repetible)",
     "optional":  "true",
     "completion":  {
                        "complete":  [
                                         {
-                                            "kill":  "minecraft:zombie",
-                                            "count":  50
+                                            "submit":  "minecraft:rotten_flesh",
+                                            "count":  12
                                         },
                                         {
-                                            "kill":  "minecraft:skeleton",
-                                            "count":  50
+                                            "submit":  "minecraft:bone",
+                                            "count":  12
                                         }
                                     ]
                    },

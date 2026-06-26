@@ -98,7 +98,7 @@ hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
 file = "config/RuOK.toml"
-hash = "02f499fdb7959dd91f3397849cf3cd1dc5ed1dfeb853a1481965b2cb3e1e3f6e"
+hash = "48e0e24c163f8da7b374418595dbf57db134c0f48fd4f8f9a84aecfedf73c3b2"
 
 [[files]]
 file = "config/accessories.json5"
@@ -570,7 +570,7 @@ hash = "116a8cd77acdf6d165a41995b9031687cc667d6f3e310c1056ce9acc59e904f7"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
-hash = "4dbab2dc8ba8e43d14de6e1941c46f13388bf100ffec1c821836a5a3f9756736"
+hash = "b3af9064600cedcd4f33a6fc492de00e382d46f6e3fadc2f23b1b1162fee5bc0"
 
 [[files]]
 file = "config/apothic_spawners.cfg"
@@ -790,7 +790,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/boundless/quest_state/mp_CalderoH.mcserver.host.json"
-hash = "1eaacc16f24909a1867c26a35d3bb8747e8b82bbcee1569842a3cd96261f7a54"
+hash = "6f2bffa4872825dce6760734a84bf5ca4bedb7283c260f445c3c6709f6ffdb9b"
 
 [[files]]
 file = "config/boundless/quest_state/sp_Karmaland_version_queer.json"
@@ -970,15 +970,11 @@ hash = "e54c24cce1c4e13ffc674180d95ac516cf5c4a8c216816ee802643e25267a9e2"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/03_control_de_plagas.json"
-hash = "e6c9c72a85f450b2b93174ca7dd6cbcea8d7926dc8568ad084479df5d7b41c9f"
-
-[[files]]
-file = "config/boundless/questpacks/Ola/data/ola/quests/02/04_limpieza_saqueadores.json"
-hash = "2b08df12534130fb67057637cddbbbb57dba0773b33f1ed68bbe144f43ef07e7"
+hash = "7f9d07b8f640120621a1994cc7cec783ba3d3269958d411807ef0a6913942f7c"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/05_caceria_mutante.json"
-hash = "647b47e6d2f7b44bfb3f630334df38f1cd42be52cf3675ea16a7cd462e17b569"
+hash = "8a9da879525d5f8583a9a91832a5125a6250ab17e168a08b3d75ee11cee3081c"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/06_contrato_pesca.json"
@@ -990,19 +986,19 @@ hash = "e588df16f47859f0ed3189688380fae06d5917c4bbad3edbc9d61611b5302f46"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/08_contrato_espectros.json"
-hash = "b7a8615e8ce885cc32f35bdcd2df8a7efdcea49a5eec5474d849b7cbb1d002c4"
+hash = "3536ab2aa72fab31fed7763462d92c02a4419a5d07fd1dbbcb0553756493fd74"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/09_contrato_aranas.json"
-hash = "616486d6d7bdcc20916924edac69fe5d0cbbd099f89248b7028b04313e7e6268"
+hash = "ee8231c681c96761b603bf4d8f66da7903c5e633814600f1bdee35b8b2cc74f9"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/10_contrato_enderman.json"
-hash = "081d6fd3765085cdd3c6f976c4f67688070ba92e2117f71a88e48a43b59bb44e"
+hash = "4e6648a121660caea0858a89ad492e4b10529a2ed43efd1ddda6d124fd2e2127"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/11_contrato_evocador.json"
-hash = "0b53199c932e923d79dfe9de0aad8947539f471f820e95060e5285ba80dd4300"
+hash = "04afc568dde692d624e9cf4f7695abb3e5bff68ab7933e7e56e5af486df732f9"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/12_recolector_novato.json"
@@ -1018,7 +1014,7 @@ hash = "d7f44fd24969fdfd61285d31d89906a54a51ba7faf4847b3e1776713f6f2b321"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/15_cazador_zombie_novato.json"
-hash = "0dc80eeca7d0f45326524b74fd955aa0a9c59593b293f8540d89625d500aa1be"
+hash = "4d4419b4bcc584901c5a78eb80bf5f8d1eb98dc88ffa1de4fb82b808c42238ac"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/16_carbon_taberna.json"
@@ -1082,35 +1078,27 @@ hash = "94f84e39a9ad13e19bf08792386cc807020e34d72766a923b545364dc1e4626a"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/40_contrato_creepers.json"
-hash = "f5c256ca0431bb4ea5960845ea9721582213f86f9979172c35ba4820a89330fd"
+hash = "8b34470961ad5f5b781108d14a8c67367b8be671eb23eca0a152177646620892"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/41_contrato_slimes.json"
-hash = "851676311f64cdf6e16d595aa80d4b5f68b503fa79af513bdaf2139ee44deb33"
+hash = "846e1c330cc0a64be04b87b45e3d1e31f32eac921aea4001c874d52b9ea30203"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/42_contrato_esqueletos.json"
-hash = "e0cefaab8121cf45394f7f0a73c61282a68b6554288840729319a054111e7c13"
+hash = "830e25223f0345e3a8fe438e88ddfb9941bed5549a2acf29850458888ea7f444"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/43_contrato_ahogados.json"
-hash = "13771168a46b45d6c591b07560306a14edd08eadf559eb33752f147eb1857de7"
-
-[[files]]
-file = "config/boundless/questpacks/Ola/data/ola/quests/02/44_contrato_brujas.json"
-hash = "624e42b3daf8fea69b765a31913f323c975b8969af1a7b0b34637f565b5a098d"
+hash = "79878ce9e4db3eee28bb14e1063f4b47191d368a44866f655d99d3f9d82e3604"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/45_contrato_arañas_cueva.json"
-hash = "5cbe6a0a71ed93402511e486de7257b12f1e34161eadddde06fb83ae3064d7f7"
+hash = "52103d56fbf23f9a331dfc3369132b76a77e0eafe253ec7cbf8760d6d25d6540"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/46_contrato_cubos_magma.json"
-hash = "6b953ee892e633bd897c825e4a3fa0caa1fb4d0c79e32f901163d0cf2fa5e2f5"
-
-[[files]]
-file = "config/boundless/questpacks/Ola/data/ola/quests/02/47_contrato_peces_plata.json"
-hash = "6ad34cc45da241428fbbc190dafc4cc0177510ba44577efc4f6a7e8915a19098"
+hash = "09baa95a2ce90a7d2efa9ba361449a1e1204c75cefe231c6e9b7ba48b6819f2a"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/48_contrato_lana_oscura.json"
@@ -1121,28 +1109,20 @@ file = "config/boundless/questpacks/Ola/data/ola/quests/02/49_contrato_huesos.js
 hash = "515c7705d733ff61493aefcdddfa802aeb948bedde675019626d183bdca92fa6"
 
 [[files]]
-file = "config/boundless/questpacks/Ola/data/ola/quests/02/50_contrato_piglin_brute.json"
-hash = "54c452e839c7bcd7bb8ba6d4b9f98aa223caf6a12347f33f50b05a718f205360"
-
-[[files]]
-file = "config/boundless/questpacks/Ola/data/ola/quests/02/51_contrato_wither_skeleton.json"
-hash = "72af6da67be3f895ede5f5d6273f124cbd72a432e08d938218c5d0dde12d1438"
-
-[[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/52_contrato_ghast.json"
-hash = "ed18352e4bba9cd67ce8ca215bd30b7854fd8aa58d62c3a8726dc41b167cb347"
+hash = "1a2baaf0f976ea770b010d16453721ec40236f1be729d9631e878edc9b2e5e0e"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/53_contrato_warden.json"
-hash = "866808ff42579ddc7836ba45079f44926f2a0611e61cd9b40f5ce3025cfe3f2d"
+hash = "aecd45db33bf9aa0d1f7604e889310c2b3932ffa573a39b628dbf0fec2646491"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/54_contrato_blaze.json"
-hash = "435b78c7a6f033356b71a629d94b7d37ef570496f4b46629d0e14590dd3a5bd4"
+hash = "ae54cdb1c384a5290a7bb58a4c1720c60668470425a22c59ce2d79d70f660692"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/02/55_contrato_guardian.json"
-hash = "ecc4839835b82bb2e8656eea7b248b098017e8169fa775bbc8468d18b734048d"
+hash = "eb95e2826675c7195d28f3d7319f6bc033c89491b0d1161750db5decb2db2633"
 
 [[files]]
 file = "config/boundless/questpacks/Ola/data/ola/quests/03/01_bestiario_mitologico.json"
@@ -1534,7 +1514,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "cf0b0a20f39c5c58910f338abae54da6f97a06ea0922a2d720f5ef86826c7bda"
+hash = "6060d408b3f4d22106013784eb094eef9a408d2c688b549b3e67f6a2d7b47a80"
 
 [[files]]
 file = "config/crash_assistant/scripts/log_analysis/example.jexl"
@@ -2045,6 +2025,10 @@ file = "config/deathfinder-client.toml"
 hash = "805989f6cb34c8c5d8e554f28ebca0149ec97d432f2c0c13fc80a37a1cd1e2f2"
 
 [[files]]
+file = "config/decocraft-common.toml"
+hash = "4502bef407cdfb04f45ac1da3516bdc52014420e80fbc44b195ff061332cd953"
+
+[[files]]
 file = "config/deep_aether-client.toml"
 hash = "d66280cdaa1534caa48f9411999c5692c7bf0c0047cd96ef002b38ac1ef86320"
 
@@ -2125,120 +2109,128 @@ file = "config/easy_npc/preset/fairy/16_herborista_bosque.npc.snbt"
 hash = "625a8d3a385ecb01cc26c520f133f968d1f1b77671545707e95b106c236b03ea"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/10_panadero_pueblo.npc.snbt"
-hash = "8d3a9b362d23a8617d97308a5b89509a46860778538068781c7e12b60e9dcf53"
+file = "config/easy_npc/preset/humanoid/abastecedor_comida.npc.nbt"
+hash = "16d47a69bcbf370d8e146cd7f06fbd5a7cbae6b999303dbda9ca2e4da23da2e9"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/11_pescador_muelle.npc.snbt"
-hash = "e2f8e03cc1e9780dc6c2c033f28b8bf2f61a21f6d3a150961ec91e0003126d7e"
+file = "config/easy_npc/preset/humanoid/archimago_santuario.npc.nbt"
+hash = "919420f51a774e7e13a54790e27999212afba26fb9c6b70d648f841a67f9aa89"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/12_cazador_pieles.npc.snbt"
-hash = "c1e415d8dc9d8c64e010bbd9131feb4533dc9ab8224b89ef5b8d07e064e7dfc0"
+file = "config/easy_npc/preset/humanoid/armera_real.npc.nbt"
+hash = "ae54620fad57f9ee696d04b0b5a0b469225acd8885fbda8b08ee259b8181c2b9"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/13_archimago_santuario.npc.snbt"
-hash = "4a3b5dcee3fe9dd5d515a34a66cac8ac684a0d0c482b1deaaf60d2b2e5fadeac"
+file = "config/easy_npc/preset/humanoid/arquera_imperial.npc.nbt"
+hash = "fdfaf10811198d0eeab87ee5e10190613c08402a8c7eaa12872a17dc6256eab3"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/14_escriba_arcano.npc.snbt"
-hash = "25bc818a5265da0c8af3d6828328b2057c317dbd8c884295e4fdd8f0329b89c0"
+file = "config/easy_npc/preset/humanoid/boticario_real.npc.nbt"
+hash = "52027123d26fa2e2b35dbb19ba489f389099e05336a66b9dba22570da07b81de"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/15_boticario_real.npc.snbt"
-hash = "81d9448f3ac69cbea05f3bf3d83a5ffbd43595de4d0b3e17152cd96b360eff62"
+file = "config/easy_npc/preset/humanoid/cantero_plaza.npc.nbt"
+hash = "bf0270098aed7a8487be76a8fe7c89ee4f32f872335b75b19841ac734d1d6150"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/17_sacerdote_templo.npc.snbt"
-hash = "12517c37e969950f5bbd7019e406f8b9d52754d2907e0e2c2e3765ac70e6e4bd"
+file = "config/easy_npc/preset/humanoid/carnicero_local.npc.nbt"
+hash = "6dc0c65fa641547328362ec14524eb058c9c8a8938651e7f217971eedaa47433"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/18_encantador_errante.npc.snbt"
-hash = "00ba58afb3ad64a631394916063a3040ff3f20b5537648ffb610404a73c1acaf"
+file = "config/easy_npc/preset/humanoid/cartografo_real.npc.nbt"
+hash = "4125721107dfdebecfd5b76c3a1527485dad22922e2d9c95e1b9faa06708c492"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/19_joyero_lobby.npc.snbt"
-hash = "f1df73f074b0031ca3afe078235b8121659e395511251ee2d6c8de8da5336349"
+file = "config/easy_npc/preset/humanoid/cazador_kaelen.npc.nbt"
+hash = "6f54e23a75755e7d4c82b1de553af2b7f03ecae91454e452e222bca8f8c49a16"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/1_forjador_espadas.npc.snbt"
-hash = "3a62b81915425be925cc534fabcfd5614a4e3e9a1a14d9ca7f3613e5409ea4af"
+file = "config/easy_npc/preset/humanoid/cazador_pieles.npc.nbt"
+hash = "d16dc93d45d0f8a3477cc9299cd20ebda09fc7325be836dc3792cba4bc5cf91d"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/20_cartografo_real.npc.snbt"
-hash = "efa23803a6e27551cb9e8a03851c162fc53cdaed5a844c9380145f70a72b8680"
+file = "config/easy_npc/preset/humanoid/chef_taberna.npc.nbt"
+hash = "b7cc042b9ab58f8a04c0adbf755e24854412e347184f92a48ab78bac12c03c6e"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/21_mensajero_lobby.npc.snbt"
-hash = "09efee3b336927acef5e668c5f587dd031e96b4c11a71d8880865954d7a5c44f"
+file = "config/easy_npc/preset/humanoid/ejemplo.npc.nbt"
+hash = "3ed13806dece5ab12a94b022a512b0e3ab895b01dc5c35ab95f49605d9dea36e"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/22_cantero_plaza.npc.snbt"
-hash = "4381f6aabc7e6f4f6a21d86b306f4195404ed911e9bb5e348e6c22997d40e1e4"
+file = "config/easy_npc/preset/humanoid/encantador_errante.npc.nbt"
+hash = "a4f6db654469f57b2a6357894e5da0a356c309719be1c35abe3015212915b743"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/23_lenador_bosque.npc.snbt"
-hash = "5f661a73eb21252725a1aabeb66a0deeaefb4dc06e4fecaace9b8e91fa641a0c"
+file = "config/easy_npc/preset/humanoid/escriba_arcano.npc.nbt"
+hash = "07d11d128b715d9ac45947f38e188aa2f8074586f0f1783e9dce90a03fad55fd"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/25_sastre_pueblo.npc.snbt"
-hash = "b0e8d8ebfe4ec8712691ee2eb6b82867b88bec0e6d11fd73d826a108d6c4ec61"
+file = "config/easy_npc/preset/humanoid/fabricante_escudos.npc.nbt"
+hash = "cb2bcd5cb637fa95c49c1ea22b99164c131d725de8aeca1aef636632232b723a"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/336ec940-7477-4f74-bc51-ce7747a76ae6.npc.snbt"
-hash = "f1ed8c542a664d6802223bce8a9d5848a53ad4f8428a89838881ff8a518dac5a"
+file = "config/easy_npc/preset/humanoid/forjador_espadas.npc.nbt"
+hash = "855f7aa58392cc1f0c1644ebaa9203835ab5852380f286da04bc3c3473ed543a"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/3_fabricante_escudos.npc.snbt"
-hash = "d3752ecc4b95984d87106fb815a6ce01e11e481cce00de252038eb30d681dbd6"
+file = "config/easy_npc/preset/humanoid/fundidor_metal.npc.nbt"
+hash = "2d10a20d1d5730d7e08f8b8483accbb4ec10bb19afc6decd193fc5273e1959e6"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/4_armera_real.npc.snbt"
-hash = "eda99f8a4f6c27a356139917ba53a8032cec93514ef8416f0405240378b382ce"
+file = "config/easy_npc/preset/humanoid/guia_servidor.npc.nbt"
+hash = "9be3c4d8bc10d3bd584b21383f691571802de2f35e15624cb97b0d228773e2f6"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/5_arquera_imperial.npc.snbt"
-hash = "cf8174263af291133b50a0e9e8c7d10456f91c2c4793828557cc488132ea7d0f"
+file = "config/easy_npc/preset/humanoid/hans_panadero_del_pueblo.npc.nbt"
+hash = "3cf45ac361c65ef1830cf1c72db7dad4a226bd2f8fe56507bff1e841f64f8d63"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/6_fundidor_metal.npc.snbt"
-hash = "8b0fe816c7200db0919e565270a9c2e64b843afbb5ada7543243acd360e2b567"
+file = "config/easy_npc/preset/humanoid/joyero_lobby.npc.nbt"
+hash = "a82e4fb6b1fb756e844148fe8da95734979b92e04ab5227a97b9ec5f2b1a514c"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/7_chef_taberna.npc.snbt"
-hash = "d006cb78b8bd40677a65f563621a01912d755f123e3b08622b206b7477ced3cc"
+file = "config/easy_npc/preset/humanoid/lenador_bosque.npc.nbt"
+hash = "4b82f4531365fa10a0f8b7c99913a5d9d97d8882715adaea4d7bc14e9cf2ef83"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/8_carnicero_local.npc.snbt"
-hash = "ccc671e5baee20adc8970af5bbfa46227b747d12a1b0547d58906775ef184a8b"
+file = "config/easy_npc/preset/humanoid/mensajero_lobby.npc.nbt"
+hash = "4d53f1d1785191de63ed1f490a2710b25abaca9916cc46ed6e70b1d22a1f84a4"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/9_verdulera_plaza.npc.snbt"
-hash = "af540b831e198b4cd65d4481e9b043e468fcb17790d4c15fc706286d6a09dd63"
+file = "config/easy_npc/preset/humanoid/panadero_de_prueba_ia_.npc.nbt"
+hash = "865f6d4f10b2ddbed0d334914207f12f12a1f7fb7c3478b4308e7c0261c913fa"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/abastecedor_comida.npc.snbt"
-hash = "4570f2310ae4fcf89f04ddcc6996b5f7f6f477bbb95bf37e38da59db06283a1e"
+file = "config/easy_npc/preset/humanoid/panadero_pueblo.npc.nbt"
+hash = "ffe0d566483d3c0b4b4d694139e44c2780634da9e1ef833b276d61afbfc0b6d8"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/cazador_kaelen.npc.snbt"
-hash = "fe35aba6faf375334510ae44e40d4ff87d9ed27080a4cae40fcd0c9452b12819"
-
-[[files]]
-file = "config/easy_npc/preset/humanoid/chef_taverna.npc.snbt"
-hash = "ba9eb4d574843ec3e408c8d8a17bf8778322c1abc93bae8e6a0ad322a5e0b3ea"
-
-[[files]]
-file = "config/easy_npc/preset/humanoid/guia_servidor.npc.snbt"
-hash = "5a086fd97e677c1d5c3ee54ff10bf56d09477b3e155e0afb8faf22c0ec2e7078"
+file = "config/easy_npc/preset/humanoid/pescador_muelle.npc.nbt"
+hash = "0dca5851cb240633b5023c97061f870d3f2eebbffbd09f121d4537ccd3a4d8cb"
 
 [[files]]
 file = "config/easy_npc/preset/humanoid/prueba.npc.nbt"
-hash = "a119320bace07d664f7fd0aea815537acd35e00bc8972b360de7f3bd43cec82d"
+hash = "1f025a88f2f70dc43b485eaf71d6f7836bf2e17c28b368403d25f6ede8ec73f6"
 
 [[files]]
-file = "config/easy_npc/preset/humanoid/viajero_comerciante.npc.snbt"
-hash = "dea840fb63d79506f9404f904fb1cda853ca13b95782b540040282457dec7dcc"
+file = "config/easy_npc/preset/humanoid/prueba_leador_skin.npc.nbt"
+hash = "4278a0bf3840b408bf9a583141421ceecda772fc2fb2a3b20b49ccbbcb8d1db9"
+
+[[files]]
+file = "config/easy_npc/preset/humanoid/sacerdote_templo.npc.nbt"
+hash = "452efb4525a105cf4f7f3307955631de68992a6513aa8d21d6b1c37a82f8a6da"
+
+[[files]]
+file = "config/easy_npc/preset/humanoid/sastre_pueblo.npc.nbt"
+hash = "030769e9e3b27918484f4ce33e9d911c0314c1dd69530a7f87ad767487c6de7b"
+
+[[files]]
+file = "config/easy_npc/preset/humanoid/verdulera_plaza.npc.nbt"
+hash = "314baa172e43297e4726778454c8c33de95b4ba67964b9ca6112f8e98f33e5ab"
+
+[[files]]
+file = "config/easy_npc/preset/humanoid/viajero_comerciante.npc.nbt"
+hash = "4abd0904a5508949bd6ddae86fb18ec9b6733133a0f85e175ca1249e66a6fe21"
 
 [[files]]
 file = "config/easy_npc/preset/orc/24_chatarrero_plaza.npc.snbt"
@@ -2289,8 +2281,204 @@ file = "config/easy_npc/skin/fox/fox_template.png"
 hash = "8cce109a5322cff97d82ea51c2c50d54d4486e57d48d72f20354d0e2e7aaf9a6"
 
 [[files]]
+file = "config/easy_npc/skin/humanoid/10_panadero_pueblo.png"
+hash = "e3889d4dde550cd25553b8d85a3e2dc35f91e3cee0f0b51964eceb5c311f5330"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/10_panadero_test.png"
+hash = "e3889d4dde550cd25553b8d85a3e2dc35f91e3cee0f0b51964eceb5c311f5330"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/11_pescador_muelle.png"
+hash = "f07000469337053144b27ec719421036d980121d64c49f427071a54f0fd60ee2"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/12_cazador_pieles.png"
+hash = "ff1fd0d7308cbc00b10bbb9dcb8842ff1d06d23e4d2869a5ee17336a3f4cebd3"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/13_archimago_santuario.png"
+hash = "de91b3eeb031c4b93ef91d8f1cb528c8bc19be417557f3a253e01590cd3c546c"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/14_escriba_arcano.png"
+hash = "6eb03b3edd107f135342798cb7602dafca784a08d246e83deefe2acfa20ae193"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/15_boticario_real.png"
+hash = "c627d8659720b4cb81c62c8268bf2a7ea63f72fe3979a268ba0f88f804649150"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/17_sacerdote_templo.png"
+hash = "77b520276d63aaa91df1c1b770f9f9379893b04f14a7c06df615e12d9bcb558c"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/18_encantador_errante.png"
+hash = "47a805c2ef7051c9f1d5b26326ba4594e2016cf0e37aeee7482a2c32960726c2"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/19_joyero_lobby.png"
+hash = "53a7c69d0ef75d1f816baa8a62c2172bc7cf367ef5c23989a58c2ad4edd19c4d"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/1_forjador_espadas.png"
+hash = "6e1e1bc17d0e80efd779f6131420ea1abbec5e54e459ee6c4be096f6ba427d2b"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/20_cartografo_real.png"
+hash = "21cab315d8e6cd1a70b56cf6ae06758bb3eb12c073c7bb29bb27559f2fda0dcf"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/21_mensajero_lobby.png"
+hash = "352d277e6e7208495c4df4205424110f3d95890484d383409f12ef985aa6c06c"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/22_cantero_plaza.png"
+hash = "373ee144eb1e8167bbfc56024409ab6d9f36d216c5398e710ed60fcb4547da37"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/23_lenador_bosque.png"
+hash = "9855ecffaa11c3ee6f17d00766f521c93987cd0dc3ea2b8859679cad68a2bce8"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/25_sastre_pueblo.png"
+hash = "0b7226cc8f2d2f8e818bd59db3e2865e6d7a70d2227c5cd0b813f0abde81cc4d"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/3_fabricante_escudos.png"
+hash = "d368ca40a812ac78feb5b9446e7c1be00b6bbaa0823917cb93dc7c36b50b01c1"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/4_armera_real.png"
+hash = "72afba19bee703062fbca2f65bfe2814f8056faca55cc3a4cabe25e2a9333149"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/5_arquera_imperial.png"
+hash = "9d5133cdb9c54bbd8bfe47bd2d5f29af483c00e70444f8622d9734872dbd07a9"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/6_fundidor_metal.png"
+hash = "c593a58d6868c2da44a3844456cfc7f79d6257297c33a203157b632989cfa66a"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/7_chef_taberna.png"
+hash = "d95151f2aea834700b2be027ebba69f197e5d3ee6a0d804fe7c1f710736030f5"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/8_carnicero_local.png"
+hash = "4b20dfaf9c64e1c6cec9c41f52a932dff480605e0ebb66b08029e73390162fae"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/9_verdulera_plaza.png"
+hash = "27a6f45bef878c6c09e8a21192083c7ebbad2a54e3a58054babe5ec948382915"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/abastecedor_comida.png"
+hash = "4994f96139fe490204ebf87ee9fd3a365cc834106922fed310c3b082be195aa1"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/archimago_santuario.png"
+hash = "de91b3eeb031c4b93ef91d8f1cb528c8bc19be417557f3a253e01590cd3c546c"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/armera_real.png"
+hash = "72afba19bee703062fbca2f65bfe2814f8056faca55cc3a4cabe25e2a9333149"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/arquera_imperial.png"
+hash = "9d5133cdb9c54bbd8bfe47bd2d5f29af483c00e70444f8622d9734872dbd07a9"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/boticario_real.png"
+hash = "c627d8659720b4cb81c62c8268bf2a7ea63f72fe3979a268ba0f88f804649150"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/cantero_plaza.png"
+hash = "373ee144eb1e8167bbfc56024409ab6d9f36d216c5398e710ed60fcb4547da37"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/carnicero_local.png"
+hash = "4b20dfaf9c64e1c6cec9c41f52a932dff480605e0ebb66b08029e73390162fae"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/cartografo_real.png"
+hash = "21cab315d8e6cd1a70b56cf6ae06758bb3eb12c073c7bb29bb27559f2fda0dcf"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/cazador_kaelen.png"
+hash = "343470fd1da2406570cb1b4dc4eaf7062a04a31d12e779985b8d2044b23a733f"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/cazador_pieles.png"
+hash = "ff1fd0d7308cbc00b10bbb9dcb8842ff1d06d23e4d2869a5ee17336a3f4cebd3"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/chef_taberna.png"
+hash = "d95151f2aea834700b2be027ebba69f197e5d3ee6a0d804fe7c1f710736030f5"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/encantador_errante.png"
+hash = "47a805c2ef7051c9f1d5b26326ba4594e2016cf0e37aeee7482a2c32960726c2"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/escriba_arcano.png"
+hash = "6eb03b3edd107f135342798cb7602dafca784a08d246e83deefe2acfa20ae193"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/fabricante_escudos.png"
+hash = "d368ca40a812ac78feb5b9446e7c1be00b6bbaa0823917cb93dc7c36b50b01c1"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/forjador_espadas.png"
+hash = "6e1e1bc17d0e80efd779f6131420ea1abbec5e54e459ee6c4be096f6ba427d2b"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/fundidor_metal.png"
+hash = "c593a58d6868c2da44a3844456cfc7f79d6257297c33a203157b632989cfa66a"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/hans_panadero_del_pueblo.png"
+hash = "e3889d4dde550cd25553b8d85a3e2dc35f91e3cee0f0b51964eceb5c311f5330"
+
+[[files]]
 file = "config/easy_npc/skin/humanoid/humanoid_template.png"
 hash = "b96aee293379a6a60a0e862dc338eb6a14ea31929b4f78d9923eb6b60940106c"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/joyero_lobby.png"
+hash = "53a7c69d0ef75d1f816baa8a62c2172bc7cf367ef5c23989a58c2ad4edd19c4d"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/lenador_bosque.png"
+hash = "9855ecffaa11c3ee6f17d00766f521c93987cd0dc3ea2b8859679cad68a2bce8"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/mensajero_lobby.png"
+hash = "352d277e6e7208495c4df4205424110f3d95890484d383409f12ef985aa6c06c"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/panadero_pueblo.png"
+hash = "e3889d4dde550cd25553b8d85a3e2dc35f91e3cee0f0b51964eceb5c311f5330"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/pescador_muelle.png"
+hash = "f07000469337053144b27ec719421036d980121d64c49f427071a54f0fd60ee2"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/sacerdote_templo.png"
+hash = "77b520276d63aaa91df1c1b770f9f9379893b04f14a7c06df615e12d9bcb558c"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/sastre_pueblo.png"
+hash = "0b7226cc8f2d2f8e818bd59db3e2865e6d7a70d2227c5cd0b813f0abde81cc4d"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/verdulera_plaza.png"
+hash = "27a6f45bef878c6c09e8a21192083c7ebbad2a54e3a58054babe5ec948382915"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/viajero_comerciante.png"
+hash = "b507f4bfc7f4609b72a6125ca4c5412d4873766ce2134c134eebe173c9ba3885"
 
 [[files]]
 file = "config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png"
@@ -2390,7 +2578,7 @@ hash = "7a897284d9f78c24cc94673a45888f60a57c00b465d7650ba6dafe3502616cf2"
 
 [[files]]
 file = "config/entityculling.json"
-hash = "35004f3d1df2d3b758b6e7e346a9b1f6e903c9258f1bbd10e8979345af44c60e"
+hash = "013a59b6ae5fc89ad9e65d01a65c6e7fc5d84a032709ce6cacbbad9da48277db"
 
 [[files]]
 file = "config/epicknights/armor.json5"
@@ -2413,12 +2601,20 @@ file = "config/epicknights/weapons.json5"
 hash = "134eca5eafff0ffe0d52cf8774dd02fb247a6e2f6ca617f0acac396c9565ebd6"
 
 [[files]]
+file = "config/essential-mod-partner/config.json"
+hash = "59c5d24b4337eaed9996a6fd8e3e5db897a6254aadb8f43efd96a6ff67c186c6"
+
+[[files]]
+file = "config/essential-mod-partner/data.cache.json"
+hash = "d94e7815bb226b01f49cb74c7a361655e35822828119a238d41b6d294652dabe"
+
+[[files]]
 file = "config/etf_warnings.json"
 hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "37209dc95cb6e9451c4fb07faf8f480effccb14dad45c93cd92af4559d0d0b0f"
+hash = "277ad34824397d6df45a7229eaea8e04e12e40f06008ba092621ff012c164271"
 
 [[files]]
 file = "config/fallingleaves-client.toml"
@@ -2774,7 +2970,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "cd1f7522b6baea32750c9f5dc2c7b5606e6fdefd8c6a896647907ef3b0bc978a"
+hash = "d99bc5b2ffbc4b6dd0a17c251078b15d7a340816b5719ca022efae7abb196f28"
 
 [[files]]
 file = "config/irisflw-client.toml"
@@ -2818,15 +3014,15 @@ hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "1b9faa0637ce35640b258cb9a6ede6d7fbe23f3138e1f3e04167caef4f204ecc"
+hash = "ea577e8fd077936bfb8490d40e985086ba64647bffa5f50dd9d25d0dee2d09af"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "831f78b4f36200359df8a8ed9012caa4aa9c7e4101097f77eb61afb24bd44d39"
+hash = "2d584c8719980ccb727946b9d984a0234ba6d2f5392d7bf2bb4f21a2edb97e73"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "ed9359593092c38a466f241fa4522b72a273f92a5949bcd9b24d53d4999a8b68"
+hash = "960ccc72e10c6fca7e5a6ca4f2c5e31f2d546ff67cee5832829f7f26a3b1f8f5"
 
 [[files]]
 file = "config/jei-server.toml"
@@ -2838,7 +3034,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "52be3d3590ef3389b49d84aa4d07c78df66885181779a58155d14f203951e49e"
+hash = "d205e53217976508afd096fbcef8530df48b2ab7f1bb8ccacd7991d472923f0b"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -2947,6 +3143,10 @@ hash = "85579d156b496d376840a58a65a99e3563a163a1c02e587aa31c1e67df6683ec"
 [[files]]
 file = "config/levelup-common.toml"
 hash = "018d2ff1e95da4182fbfdabccf281ada72650e06ff5ef7d9061999ba9a04de6d"
+
+[[files]]
+file = "config/lingua_bib.json"
+hash = "986ed19ef024b1c4dd2ff7b31bef04eb5609bfa23bf1fa2b319258513c80e44a"
 
 [[files]]
 file = "config/litematica.json"
@@ -3254,7 +3454,7 @@ hash = "03bb2600571f5b53043becdec8d58552fde2b95243ffae2d05ac013c1fd066b8"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "3f6e09ce2f1ffabc9362eda5995389453b500b6cfad383dcb3ad63ffe5fdb31f"
+hash = "065acffdf93d52506bc865992c23e5472a498c90760d4b0219547e2b386e92fa"
 
 [[files]]
 file = "config/paraglider-common.toml"
@@ -3434,7 +3634,11 @@ hash = "4e71aa46661b461100c7f71fc134213a167ab2b2c9fc5d8f20d46feeb48077b6"
 
 [[files]]
 file = "config/scalablelux.properties"
-hash = "2c01e49a6364cf5668a01f9a913bb28db43e455da4b1ddd55f9f6e9fe11fefc1"
+hash = "f2e525e58b9bb195a5335c1347c1e4c747d77a68583e79a7c809e2a3135cd513"
+
+[[files]]
+file = "config/securitycraft-client.toml"
+hash = "dc0f460e3b03d8ef179222abf259c92469bb994c7522398389d43b156a7171d6"
 
 [[files]]
 file = "config/servercore/config.yml"
@@ -4689,8 +4893,8 @@ file = "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar"
 hash = "9fbb8dce1bb72feacdc3b75c6fcbf689865ad3793a19649443d76be20993ddd0"
 
 [[files]]
-file = "mods/Ixeris-4.4.1+1.21.1-neoforge.jar"
-hash = "5b71119d3e6aa4112284570885269d64f14b9d0ed9ed0c24c64cfbc68f3ee7bb"
+file = "mods/Ixeris-4.5.1+1.21.1-neoforge.jar"
+hash = "6a8c36886689f033a563bbab04e0657207731ca1475653c870a739c4e85b279f"
 
 [[files]]
 file = "mods/Jade-1.21.1-NeoForge-15.10.5.jar"
@@ -4843,6 +5047,10 @@ hash = "888b1e6d1ada21982a75abfb4afb040c9bc2cc68777ec5fcd1199b978e3d4f8d"
 [[files]]
 file = "mods/Zeta-1.1-40.jar"
 hash = "4f17d1a2b9fd6d18ddb7697aa451db7fb154053b8648f79de279ae0d7e68a2fa"
+
+[[files]]
+file = "mods/[1.21.1] SecurityCraft v1.10.1.jar"
+hash = "cce82e9f2b74b2c678241a24eeca6c656a07f55f73e16d4d860591db5ed4435f"
 
 [[files]]
 file = "mods/adventuredungeons-neoforge-1.21-1.3.1.jar"
@@ -5101,8 +5309,8 @@ file = "mods/entity_texture_features_1.21-neoforge-7.1.jar"
 hash = "b2e396543c678b8378a2d5557a0cd3d24790364bff7e96edaf17921112d6176b"
 
 [[files]]
-file = "mods/entityculling-neoforge-1.10.2-mc1.21.1.jar"
-hash = "20014df18edb983b2c8eb764e70209ef84a4ac5aefd29ef25502fb102b0306cd"
+file = "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar"
+hash = "2eacd2bada39bf1d1ef695736646790c619c0e6cdeaf3d7e3cfc9139d26fae02"
 
 [[files]]
 file = "mods/epic-knights-1.21.1-neoforge-10.12.jar"
@@ -5133,8 +5341,16 @@ file = "mods/ferritecore-7.0.3-neoforge.jar"
 hash = "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
 
 [[files]]
-file = "mods/flerovium-neoforge-1.21.1-1.0.18-all.jar"
-hash = "653914a858dabd05bfa271b5605ac65aca8abe22d034bd2672c08a28c52691cb"
+file = "mods/fism+1.21.1-neoforge-1.0.5.jar"
+hash = "c06bf21919ecde60b8b4f001cae7bf4bd087c4384e6b217109d77dd5575b3491"
+
+[[files]]
+file = "mods/flan-1.21.1-1.12.7-neoforge.jar"
+hash = "3c17767c60381c5ef1eb9e1549bf77d68ca299ccc7ef44ef998f42fff41a0de3"
+
+[[files]]
+file = "mods/flerovium-neoforge-1.21.1-1.1.1-all.jar"
+hash = "2ceac9a74e4f715e242ea710a7e5e226601efc0b00aae6ad0d55ccbd9fb6bc00"
 
 [[files]]
 file = "mods/fluidium-1.21.1-1.4.0.jar"
@@ -5449,10 +5665,6 @@ file = "mods/ruok-neoforge_1.21.1-1.7.2fix.jar"
 hash = "73cbca1f12d6e160851e2d136c45077f52bb2c1dd798a0b7e3ca98d8506bfd5a"
 
 [[files]]
-file = "mods/safezone light 1.4 1.21.1.jar"
-hash = "fcb0f8891646d6d9897753a6c5e9b17da951e26ecbe2fb54a05216f2dc78b122"
-
-[[files]]
 file = "mods/saturn-mc1.21.1-0.1.5.jar"
 hash = "f49f4b51faeb4e9eb7568723fa259c0da1c3460f8019597f04a54c2137b76c32"
 
@@ -5613,6 +5825,10 @@ file = "mods/youre-in-grave-danger-neoforge-2.0.13.jar"
 hash = "dd2142a3c6a9d5b990ab36220be482f7aa9f528755f93b8fef8996f509ddcda2"
 
 [[files]]
+file = "mods/zfastnoise-1.0.12+1.21.1+neoforge.jar"
+hash = "e38db8cd22a75d2a1714fff8c4d4f1e80da53f2fab3261af847c855ad26c2cca"
+
+[[files]]
 file = "resourcepacks/-1.21.2 Fresh Moves v3.1 (No Animated Eyes).zip"
 hash = "91c2549cb3a462ca3d493a72a0ab478dc5fa74b047ac1b2a664d86a0f6f51f2d"
 
@@ -5686,7 +5902,7 @@ hash = "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
-hash = "700030071c1c21e4704f7ff966f3f58049464aef30331eb496e0e2a481687d18"
+hash = "0ba55b073184c60a33ee16f943c001b9eaf0fd1a51594856af7141c4e3a523da"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.7.1.zip"

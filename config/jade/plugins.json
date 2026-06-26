@@ -105,15 +105,11 @@
   "waystones": {
     "waystone": true
   },
-  "corpse": {
-    "corpse": true
-  },
-  "reskillable": {
-    "requirements_entity": true,
-    "requirements_block": true
-  },
-  "powerscale": {
-    "mob": true,
-    "alchemy_set": true
+  "securitycraft": {
+    "showowner": true,
+    "showmodules": true,
+    "entity_info": true,
+    "block_info": true,
+    "showcustomname": true
   }
 }

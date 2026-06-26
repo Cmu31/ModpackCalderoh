@@ -1,29 +1,29 @@
 ﻿{
-    "category": "02_gremio_aventureros",
-    "sub-category": "contratos_principiantes",
-    "id": "15_cazador_zombie_novato",
-    "name": "Caceria bajo la Luna",
-    "icon": "minecraft:rotten_flesh",
-    "description": "Protege los alrededores de la aldea eliminando zombis comunes durante la noche. (FÃ¡cil para empezar)",
-    "optional": "true",
-    "completion": {
-        "complete": [
-            {
-                "kill": "minecraft:zombie",
-                "count": 5
-            }
-        ]
-    },
-    "reward": {
-        "items": [
-            {
-                "item": "magic_coins:silver_coin",
-                "count": 1
-            }
-        ],
-        "exp": "points",
-        "count": 25
-    },
-    "dependencies": "",
-    "repeatable": "true"
+    "category":  "02_gremio_aventureros",
+    "sub-category":  "contratos_principiantes",
+    "id":  "15_cazador_zombie_novato",
+    "name":  "Caceria bajo la Luna",
+    "icon":  "minecraft:rotten_flesh",
+    "description":  "Protege los alrededores de la aldea eliminando zombis comunes durante la noche. (FÃ¡cil para empezar)",
+    "optional":  "true",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "submit":  "minecraft:rotten_flesh",
+                                            "count":  12
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:silver_coin",
+                                     "count":  1
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  25
+               },
+    "dependencies":  "",
+    "repeatable":  "true"
 }

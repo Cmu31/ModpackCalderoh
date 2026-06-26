@@ -1,16 +1,16 @@
-{
+﻿{
     "category":  "02_gremio_aventureros",
     "sub-category":  "contratos_caza_mayor",
     "id":  "10_contrato_enderman",
-    "name":  "Contrato de Élite: Cazador del End",
+    "name":  "Contrato de Ã‰lite: Cazador del End",
     "icon":  "minecraft:ender_eye",
-    "description":  "Los hombres del End acechan en las sombras y roban bloques vitales. Neutraliza a los Endermans que rondan la zona. (Misión Repetible) (Contrato Repetible)",
+    "description":  "Los hombres del End acechan en las sombras y roban bloques vitales. Neutraliza a los Endermans que rondan la zona. (MisiÃ³n Repetible) (Contrato Repetible)",
     "optional":  "true",
     "completion":  {
                        "complete":  [
                                         {
-                                            "kill":  "minecraft:enderman",
-                                            "count":  20
+                                            "submit":  "minecraft:ender_pearl",
+                                            "count":  4
                                         }
                                     ]
                    },

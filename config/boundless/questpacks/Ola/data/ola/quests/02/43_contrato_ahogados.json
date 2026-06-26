@@ -1,29 +1,29 @@
 ﻿{
-    "category": "02_gremio_aventureros",
-    "sub-category": "contratos_caza_menor",
-    "id": "43_contrato_ahogados",
-    "name": "Limpieza de las Profundidades",
-    "icon": "minecraft:heart_of_the_sea",
-    "description": "Los rÃ­os y lagos cercanos se han vuelto peligrosos debido a la presencia de ahogados. Restablece la seguridad del agua. (MisiÃ³n Repetible)",
-    "optional": "true",
-    "completion": {
-        "complete": [
-            {
-                "kill": "minecraft:drowned",
-                "count": 20
-            }
-        ]
-    },
-    "reward": {
-        "items": [
-            {
-                "item": "magic_coins:silver_coin",
-                "count": 30
-            }
-        ],
-        "exp": "points",
-        "count": 130
-    },
-    "dependencies": "",
-    "repeatable": "true"
+    "category":  "02_gremio_aventureros",
+    "sub-category":  "contratos_caza_menor",
+    "id":  "43_contrato_ahogados",
+    "name":  "Limpieza de las Profundidades",
+    "icon":  "minecraft:heart_of_the_sea",
+    "description":  "Los rÃ­os y lagos cercanos se han vuelto peligrosos debido a la presencia de ahogados. Restablece la seguridad del agua. (MisiÃ³n Repetible)",
+    "optional":  "true",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "submit":  "minecraft:rotten_flesh",
+                                            "count":  16
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:silver_coin",
+                                     "count":  30
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  130
+               },
+    "dependencies":  "",
+    "repeatable":  "true"
 }

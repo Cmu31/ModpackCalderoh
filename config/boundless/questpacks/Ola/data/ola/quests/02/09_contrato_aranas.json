@@ -1,16 +1,16 @@
-{
+﻿{
     "category":  "02_gremio_aventureros",
     "sub-category":  "contratos_caza_menor",
     "id":  "09_contrato_aranas",
     "name":  "Contrato: Veneno y Seda",
     "icon":  "minecraft:spider_eye",
-    "description":  "Los pozos y cuevas están repletos de arañas venenosas. Adéntrate en el subsuelo y limpia el nido de Arañas de Cueva. (Misión Repetible) (Contrato Repetible)",
+    "description":  "Los pozos y cuevas estÃ¡n repletos de araÃ±as venenosas. AdÃ©ntrate en el subsuelo y limpia el nido de AraÃ±as de Cueva. (MisiÃ³n Repetible) (Contrato Repetible)",
     "optional":  "true",
     "completion":  {
                        "complete":  [
                                         {
-                                            "kill":  "minecraft:cave_spider",
-                                            "count":  15
+                                            "submit":  "minecraft:spider_eye",
+                                            "count":  12
                                         }
                                     ]
                    },

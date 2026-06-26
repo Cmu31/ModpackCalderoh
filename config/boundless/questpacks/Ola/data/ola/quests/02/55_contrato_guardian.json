@@ -1,29 +1,29 @@
 ﻿{
-    "category": "02_gremio_aventureros",
-    "sub-category": "contratos_caza_mayor",
-    "id": "55_contrato_guardian",
-    "name": "Espinas Prismaticas",
-    "icon": "minecraft:prismarine_crystals",
-    "description": "Los templos oceÃ¡nicos estÃ¡n fuertemente protegidos por centinelas prismÃ¡ticos espinosos. Caza guardianes en las profundidades del ocÃ©ano. (MisiÃ³n Repetible)",
-    "optional": "true",
-    "completion": {
-        "complete": [
-            {
-                "kill": "minecraft:guardian",
-                "count": 3
-            }
-        ]
-    },
-    "reward": {
-        "items": [
-            {
-                "item": "magic_coins:silver_coin",
-                "count": 70
-            }
-        ],
-        "exp": "points",
-        "count": 270
-    },
-    "dependencies": "",
-    "repeatable": "true"
+    "category":  "02_gremio_aventureros",
+    "sub-category":  "contratos_caza_mayor",
+    "id":  "55_contrato_guardian",
+    "name":  "Espinas Prismaticas",
+    "icon":  "minecraft:prismarine_crystals",
+    "description":  "Los templos oceÃ¡nicos estÃ¡n fuertemente protegidos por centinelas prismÃ¡ticos espinosos. Caza guardianes en las profundidades del ocÃ©ano. (MisiÃ³n Repetible)",
+    "optional":  "true",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "submit":  "minecraft:prismarine_crystals",
+                                            "count":  8
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:silver_coin",
+                                     "count":  70
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  270
+               },
+    "dependencies":  "",
+    "repeatable":  "true"
 }
