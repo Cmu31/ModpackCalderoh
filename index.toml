@@ -5813,10 +5813,6 @@ file = "mods/worldedit-mod-7.3.8.jar"
 hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
 
 [[files]]
-file = "mods/worldguard-neoforge-1.21.1-1.0.5.jar"
-hash = "8af400db6b73b776193dfbc11f12fb7fe5adc593b09f3038446d40e2f8597b5f"
-
-[[files]]
 file = "mods/yeetusexperimentus-neoforge-87.0.0.jar"
 hash = "9117db8b5905abf18f64fdf8f8d8ca5a91c23abd0a7fa2c9986c21aa17d74e75"
 
