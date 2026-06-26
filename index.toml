@@ -5373,24 +5373,12 @@ file = "mods/friendsandfoes-neoforge-4.0.26+mc1.21.1.jar"
 hash = "dda1240b97a93dc109f95d5cf58b836bca0cab1ab9aa263787038e3c708ee09c"
 
 [[files]]
-file = "mods/ftb-chunks-neoforge-2101.1.20.jar"
-hash = "3bcd6f0032cec7310dc90b02b5a00e4cf1dd7a507f758bb353de864cb5e9241e"
-
-[[files]]
 file = "mods/ftb-essentials-neoforge-2101.1.9.jar"
 hash = "4da8e4d461ceef1a5e6f6705265fe24239b132cdc408eb77787231cb56c219bf"
 
 [[files]]
 file = "mods/ftb-library-neoforge-2101.1.31.jar"
 hash = "3d44705187cf938842e06d484a93e0491b82b0689785e6da4f7cabe40bd88aeb"
-
-[[files]]
-file = "mods/ftb-teams-neoforge-2101.1.10.jar"
-hash = "a656f2aa0e11a933aab3ba697690aa0eb2041f65e6c5daa448897ee0a6d37a6c"
-
-[[files]]
-file = "mods/ftb_chunks_mob_spawn_fix-1.jar"
-hash = "7513b9502decb47848d7c9baa4fdc6beda902b58f0228fcb85de5031f6067670"
 
 [[files]]
 file = "mods/fusion-1.2.12-neoforge-mc1.21.1.jar"
@@ -5823,6 +5811,10 @@ hash = "1d9e5292ec49d99af9d3a420de2f3df847816aec081d2068c9e6017e4e6bfc32"
 [[files]]
 file = "mods/worldedit-mod-7.3.8.jar"
 hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
+
+[[files]]
+file = "mods/worldguard-neoforge-1.21.1-1.0.5.jar"
+hash = "7e9bce53c4349e456ecb826909fce0a85f10e111ae3b948201008410c7fb908c"
 
 [[files]]
 file = "mods/yeetusexperimentus-neoforge-87.0.0.jar"
