@@ -3497,6 +3497,18 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/datapacks/better_tower_loot/data/new_classic_battle_towers/loot_table/towerloot_1.json"
+hash = "9b5a8b3454adcd42a13c29de6521508380f03b287462e35a4412338b4e6ded64"
+
+[[files]]
+file = "config/paxi/datapacks/better_tower_loot/data/new_classic_battle_towers/loot_table/towerloot_2.json"
+hash = "750c1f81b084f54770a3d93ffb61f5272c611b5d162655f11db46dcba9f1861c"
+
+[[files]]
+file = "config/paxi/datapacks/better_tower_loot/pack.mcmeta"
+hash = "95e3007b72764200991ab59420080df3939cf0eaa29b0376f782cc16d10c9773"
+
+[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -5815,6 +5827,10 @@ hash = "1d9e5292ec49d99af9d3a420de2f3df847816aec081d2068c9e6017e4e6bfc32"
 [[files]]
 file = "mods/worldedit-mod-7.3.8.jar"
 hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
+
+[[files]]
+file = "mods/yawp-1.21.1-neoforge-0.6.3-beta3.jar"
+hash = "2211f690d8d34500f4dd6a183fb0dff2749357c870baa9d98799be21d4d2a244"
 
 [[files]]
 file = "mods/yeetusexperimentus-neoforge-87.0.0.jar"

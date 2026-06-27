@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 4,
+        "max": 8
+      },
+      "entries": [
+        {"type": "minecraft:item", "name": "minecraft:gold_ingot", "weight": 10, "functions": [{"function": "minecraft:set_count", "count": {"min": 2, "max": 6}}]},
+        {"type": "minecraft:item", "name": "minecraft:diamond", "weight": 5, "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 3}}]},
+        {"type": "minecraft:item", "name": "minecraft:emerald", "weight": 6, "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 4}}]},
+        {"type": "minecraft:item", "name": "minecraft:lapis_lazuli", "weight": 8, "functions": [{"function": "minecraft:set_count", "count": {"min": 3, "max": 8}}]},
+        {"type": "minecraft:item", "name": "minecraft:amethyst_shard", "weight": 5, "functions": [{"function": "minecraft:set_count", "count": {"min": 2, "max": 5}}]},
+        {"type": "minecraft:item", "name": "minecraft:obsidian", "weight": 5, "functions": [{"function": "minecraft:set_count", "count": {"min": 2, "max": 5}}]},
+        {"type": "minecraft:item", "name": "minecraft:ender_pearl", "weight": 4, "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 3}}]},
+        {"type": "minecraft:item", "name": "minecraft:blaze_rod", "weight": 3, "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 2}}]},
+        {"type": "minecraft:item", "name": "minecraft:ghast_tear", "weight": 2, "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 1}}]},
+        {"type": "minecraft:item", "name": "minecraft:golden_apple", "weight": 3, "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 2}}]},
+        {"type": "minecraft:item", "name": "minecraft:enchanted_golden_apple", "weight": 1, "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 1}}]},
+        {"type": "minecraft:item", "name": "minecraft:experience_bottle", "weight": 5, "functions": [{"function": "minecraft:set_count", "count": {"min": 2, "max": 6}}]},
+        {"type": "minecraft:item", "name": "minecraft:diamond_horse_armor", "weight": 2, "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 1}}]},
+        {"type": "minecraft:item", "name": "simplyswords:diamond_katana", "weight": 2, "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 1}}]},
+        {"type": "minecraft:item", "name": "simplyswords:diamond_longsword", "weight": 2, "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 1}}]},
+        {"type": "minecraft:item", "name": "simplyswords:netherite_glaive", "weight": 1, "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 1}}]},
+        {"type": "minecraft:item", "name": "simplyswords:runic_tablet", "weight": 2, "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 1}}]},
+        {"type": "minecraft:item", "name": "irons_spellbooks:scroll", "weight": 2, "functions": [{"function": "irons_spellbooks:randomize_spell", "quality": {"min": 0.3, "max": 0.8}}]},
+        {"type": "minecraft:item", "name": "irons_spellbooks:blood_vial", "weight": 2, "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 2}}]},
+        {"type": "minecraft:item", "name": "irons_spellbooks:blank_rune", "weight": 2, "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 1}}]},
+        {"type": "minecraft:item", "name": "waystones:waystone", "weight": 2, "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 1}}]},
+        {"type": "minecraft:item", "name": "map_atlases:atlas", "weight": 2, "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 1}}]},
+        {"type": "minecraft:item", "name": "sophisticatedbackpacks:backpack", "weight": 2, "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 1}}]},
+        {"type": "minecraft:item", "name": "sophisticatedbackpacks:iron_backpack", "weight": 1, "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 1}}]},
+        {"type": "minecraft:item", "name": "born_in_chaos_v1:dark_metal_ingot", "weight": 2, "functions": [{"function": "minecraft:set_count", "count": {"min": 1, "max": 3}}]}
+      ]
+    }
+  ],
+  "random_sequence": "new_classic_battle_towers:towerloot_2"
+}
