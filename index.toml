@@ -5085,6 +5085,10 @@ file = "mods/appleskin-neoforge-mc1.21-3.0.9.jar"
 hash = "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"
 
 [[files]]
+file = "mods/arcadiaguard-1.5.7.jar"
+hash = "3cc4c627ef54c11cf4367cc7fbc81caf19b081b5b4ab3cdd3a100ec4a4525f8a"
+
+[[files]]
 file = "mods/architectury-13.0.8-neoforge.jar"
 hash = "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
 
@@ -5125,8 +5129,8 @@ file = "mods/borninconfiguration-3.2.2.jar"
 hash = "ae0370b27920830dab39972385c938e13838a6f7f2adc61bdb00b13b0dbd3885"
 
 [[files]]
-file = "mods/boundless-9.2.jar"
-hash = "b54aafe6d96088682cec9338d1354bd5c3dedb1f794a87ce11a631b3069b33d2"
+file = "mods/boundless-10.0.2.jar"
+hash = "2fc0a847b04ae239d3a82438e99f91a4531c1bbb49ff1d60938469148513bd7c"
 
 [[files]]
 file = "mods/bountiful-neoforge-8.0.0-beta.2.jar"
@@ -5181,8 +5185,8 @@ file = "mods/comforts-neoforge-9.0.5+1.21.1.jar"
 hash = "6b0fd35a1349107e08a45539adbde9683bb203febc43a3305f6fc4ac73e59615"
 
 [[files]]
-file = "mods/companions-neoforge-1.21.1-1.2.3.jar"
-hash = "af673e8d09366fbac2a148024a79b0edb9b33bdabb9392a9af388db7f0dff452"
+file = "mods/companions-neoforge-1.21.1-1.2.4.jar"
+hash = "8616a9f50b343be4a0ce7195ac02898fadda853237072a551306a87d3f2df94b"
 
 [[files]]
 file = "mods/configurable-3.5.1+1.21.1-neoforge.jar"
@@ -5811,10 +5815,6 @@ hash = "1d9e5292ec49d99af9d3a420de2f3df847816aec081d2068c9e6017e4e6bfc32"
 [[files]]
 file = "mods/worldedit-mod-7.3.8.jar"
 hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
-
-[[files]]
-file = "mods/yawp-1.21.1-neoforge-0.6.3-beta3.jar"
-hash = "2211f690d8d34500f4dd6a183fb0dff2749357c870baa9d98799be21d4d2a244"
 
 [[files]]
 file = "mods/yeetusexperimentus-neoforge-87.0.0.jar"
