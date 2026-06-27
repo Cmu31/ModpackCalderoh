@@ -1,0 +1,33 @@
+﻿{
+    "category": "02_gremio_aventureros",
+    "sub-category": "contratos_principiantes",
+    "id": "16_carbon_taberna",
+    "name": "Fuego para el Caldero",
+    "icon": "minecraft:coal",
+    "description": "El cocinero de la taberna necesita carbÃ³n para mantener las cocinas encendidas y preparar sopa. Entrega un lote pequeÃ±o de carbÃ³n. (FÃ¡cil para empezar)",
+    "optional": "true",
+    "completion": {
+        "complete": [
+            {
+                "submit": "minecraft:coal",
+                "count": 8
+            }
+        ]
+    },
+    "reward": {
+        "items": [
+            {
+                "item": "magic_coins:silver_coin",
+                "count": 1
+            },
+            {
+                "item": "minecraft:torch",
+                "count": 4
+            }
+        ],
+        "exp": "points",
+        "count": 15
+    },
+    "dependencies": "",
+    "repeatable": "true"
+}

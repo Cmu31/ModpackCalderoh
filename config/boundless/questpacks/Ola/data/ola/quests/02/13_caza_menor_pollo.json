@@ -1,0 +1,33 @@
+﻿{
+    "category": "02_gremio_aventureros",
+    "sub-category": "contratos_principiantes",
+    "id": "13_caza_menor_pollo",
+    "name": "Plumas para el Vuelo",
+    "icon": "minecraft:feather",
+    "description": "Los arqueros del gremio necesitan plumas para fabricar flechas. Consigue plumas limpias de aves de los alrededores. (FÃ¡cil para empezar)",
+    "optional": "true",
+    "completion": {
+        "complete": [
+            {
+                "submit": "minecraft:feather",
+                "count": 16
+            }
+        ]
+    },
+    "reward": {
+        "items": [
+            {
+                "item": "magic_coins:silver_coin",
+                "count": 3
+            },
+            {
+                "item": "minecraft:arrow",
+                "count": 8
+            }
+        ],
+        "exp": "points",
+        "count": 10
+    },
+    "dependencies": "",
+    "repeatable": "true"
+}

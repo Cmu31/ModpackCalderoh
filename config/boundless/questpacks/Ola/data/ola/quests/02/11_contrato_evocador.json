@@ -1,0 +1,33 @@
+﻿{
+    "category":  "02_gremio_aventureros",
+    "sub-category":  "contratos_caza_mayor",
+    "id":  "11_contrato_evocador",
+    "name":  "Contrato de Ã‰lite: Rompehechizos",
+    "icon":  "minecraft:totem_of_undying",
+    "description":  "Los Evocadores dirigen los asaltos oscuros con su magia arcana y sus duendes molestos. Derrota a los lÃ­deres de los saqueadores para reclamar una gran recompensa. (MisiÃ³n Repetible) (Contrato Repetible)",
+    "optional":  "true",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "submit":  "minecraft:totem_of_undying",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:gold_coin",
+                                     "count":  2
+                                 },
+                                 {
+                                     "item":  "minecraft:emerald",
+                                     "count":  8
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  100
+               },
+    "dependencies":  "",
+    "repeatable":  "true"
+}

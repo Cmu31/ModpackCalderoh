@@ -1,0 +1,33 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "equipamiento_aventura",
+    "id":  "05_corazon_viajero",
+    "name":  "El Corazón del Viajero",
+    "icon":  "waystones:warp_stone",
+    "description":  "Las Waystones te permiten viajar de un punto a otro, pero requieren que estés frente a una de ellas. Confecciona una Piedra de Teletransporte para viajar a cualquier Waystone activa desde cualquier parte del mundo.",
+    "dependencies":  "01_la_senda_del_viajero",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "collect":  "waystones:warp_stone",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "minecraft:ender_pearl",
+                                     "count":  2
+                                 },
+                                 {
+                                     "item":  "magic_coins:silver_coin",
+                                     "count":  20
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  30
+               }
+}
+

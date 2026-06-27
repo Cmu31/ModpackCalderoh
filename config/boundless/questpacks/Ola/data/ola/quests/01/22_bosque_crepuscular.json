@@ -1,0 +1,33 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "nuevos_mundos",
+    "id":  "22_bosque_crepuscular",
+    "name":  "El Bosque Crepuscular",
+    "icon":  "twilightforest:naga_banner_pattern",
+    "description":  "Una dimensión envuelta en un ocaso eterno te aguarda. Busca a la Naga, la colosal serpiente que custodia el laberinto, y demuéstrale tu valía.",
+    "dependencies":  "21_ascenso_celestial",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "kill":  "twilightforest:naga",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:gold_coin",
+                                     "count":  4
+                                 },
+                                 {
+                                     "item":  "minecraft:enchanted_golden_apple",
+                                     "count":  1
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  50
+               }
+}
+

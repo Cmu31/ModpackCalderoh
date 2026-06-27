@@ -1,0 +1,33 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "equipamiento_aventura",
+    "id":  "02_el_acero_del_guerrero",
+    "name":  "El Acero del Guerrero",
+    "icon":  "minecraft:iron_sword",
+    "description":  "Un aventurero con herramientas de piedra es una presa fácil en estos bosques oscuros. Forja una espada de hierro; el peso del metal en tu mano es la única garantía de justicia y supervivencia en este reino.",
+    "dependencies":  "01_la_senda_del_viajero",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "collect":  "minecraft:iron_sword",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "minecraft:iron_ingot",
+                                     "count":  4
+                                 },
+                                 {
+                                     "item":  "minecraft:cooked_beef",
+                                     "count":  8
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  30
+               }
+}
+

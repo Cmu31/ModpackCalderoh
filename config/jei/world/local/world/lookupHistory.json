@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:golden_apple"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simplyswords:arcanethyst"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"quark:smithing_template_rune"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simplyswords:runefused_gem"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simplyswords:runic_tablet"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

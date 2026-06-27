@@ -1,0 +1,29 @@
+﻿{
+    "category": "02_gremio_aventureros",
+    "sub-category": "contratos_principiantes",
+    "id": "18_abasto_flores",
+    "name": "Esencias Silvestres",
+    "icon": "minecraft:dandelion",
+    "description": "El boticario del pueblo necesita flores silvestres comunes para moler pigmentos y ensayar remedios menores. Entrega flores de diente de leÃ³n o amapolas. (FÃ¡cil para empezar)",
+    "optional": "true",
+    "completion": {
+        "complete": [
+            {
+                "submit": "minecraft:dandelion",
+                "count": 8
+            }
+        ]
+    },
+    "reward": {
+        "items": [
+            {
+                "item": "magic_coins:silver_coin",
+                "count": 1
+            }
+        ],
+        "exp": "points",
+        "count": 10
+    },
+    "dependencies": "",
+    "repeatable": "true"
+}

@@ -1,0 +1,28 @@
+{
+    "category": "03_bestiario_mitologico",
+    "sub-category":  "bestias_cielo_tierra",
+    "id":  "01_bestiario_mitologico",
+    "name":  "El Bestiario Mitológico",
+    "icon":  "iceandfire:bestiary",
+    "description":  "Un buen cazador necesita conocer a su presa. Obtén o fabrica el Bestiario para estudiar los mitos y leyendas del mundo.",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "collect":  "iceandfire:bestiary",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:silver_coin",
+                                     "count":  5
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  10
+               }
+}
+

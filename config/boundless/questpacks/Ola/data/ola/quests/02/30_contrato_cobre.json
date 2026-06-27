@@ -1,0 +1,29 @@
+﻿{
+    "category": "02_gremio_aventureros",
+    "sub-category": "contratos_recoleccion",
+    "id": "30_contrato_cobre",
+    "name": "Conductores de Tormentas",
+    "icon": "minecraft:copper_ingot",
+    "description": "Los ingenieros del gremio necesitan cobre para cableado y pararrayos en las nuevas torres de defensa. Entrega bloques o lingotes. (MisiÃ³n Repetible)",
+    "optional": "true",
+    "completion": {
+        "complete": [
+            {
+                "submit": "minecraft:copper_ingot",
+                "count": 64
+            }
+        ]
+    },
+    "reward": {
+        "items": [
+            {
+                "item": "magic_coins:silver_coin",
+                "count": 15
+            }
+        ],
+        "exp": "points",
+        "count": 100
+    },
+    "dependencies": "",
+    "repeatable": "true"
+}

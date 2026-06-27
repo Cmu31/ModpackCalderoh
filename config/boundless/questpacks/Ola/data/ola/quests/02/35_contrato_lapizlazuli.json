@@ -1,0 +1,29 @@
+﻿{
+    "category": "02_gremio_aventureros",
+    "sub-category": "contratos_recoleccion",
+    "id": "35_contrato_lapizlazuli",
+    "name": "Polvo de Estrellas",
+    "icon": "minecraft:lapis_lazuli",
+    "description": "Los encantadores de la academia necesitan lapislÃ¡zuli fresco para imbuir los libros y herramientas de los defensores. Entrega gemas de lapislÃ¡zuli. (MisiÃ³n Repetible)",
+    "optional": "true",
+    "completion": {
+        "complete": [
+            {
+                "submit": "minecraft:lapis_lazuli",
+                "count": 32
+            }
+        ]
+    },
+    "reward": {
+        "items": [
+            {
+                "item": "magic_coins:silver_coin",
+                "count": 18
+            }
+        ],
+        "exp": "points",
+        "count": 110
+    },
+    "dependencies": "",
+    "repeatable": "true"
+}

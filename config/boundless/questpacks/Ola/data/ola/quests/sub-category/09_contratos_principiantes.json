@@ -1,0 +1,8 @@
+{
+  "id": "contratos_principiantes",
+  "name": "📜 Contratos para Principiantes",
+  "icon": "minecraft:stone_axe",
+  "order": 9,
+  "default_open": true,
+  "parent": "02_gremio_aventureros"
+}

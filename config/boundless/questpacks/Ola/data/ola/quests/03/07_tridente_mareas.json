@@ -1,0 +1,29 @@
+{
+    "category": "03_bestiario_mitologico",
+    "sub-category":  "terrores_profundidades",
+    "id":  "07_tridente_mareas",
+    "name":  "El Tridente de las Mareas",
+    "icon":  "iceandfire:tide_trident",
+    "description":  "Forja el legendario Tridente de las Mareas utilizando las escamas brillantes de las serpientes y colmillos marinos para dominar las tormentas.",
+    "dependencies":  "06_devorador_mares",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "collect":  "iceandfire:tide_trident",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:gold_coin",
+                                     "count":  4
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  60
+               }
+}
+

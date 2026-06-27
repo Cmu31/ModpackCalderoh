@@ -1,0 +1,29 @@
+﻿{
+    "category":  "02_gremio_aventureros",
+    "sub-category":  "contratos_caza_menor",
+    "id":  "45_contrato_araÃ±as_cueva",
+    "name":  "Nido de Colmillos",
+    "icon":  "minecraft:spider_eye",
+    "description":  "Los pozos mineros abandonados estÃ¡n infestados de araÃ±as de cueva venenosas. Despeja los tÃºneles para reabrir las rutas de extracciÃ³n. (MisiÃ³n Repetible)",
+    "optional":  "true",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "submit":  "minecraft:spider_eye",
+                                            "count":  12
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:silver_coin",
+                                     "count":  28
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  120
+               },
+    "dependencies":  "",
+    "repeatable":  "true"
+}

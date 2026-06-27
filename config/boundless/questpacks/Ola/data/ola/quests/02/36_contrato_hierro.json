@@ -1,0 +1,29 @@
+﻿{
+    "category": "02_gremio_aventureros",
+    "sub-category": "contratos_recoleccion",
+    "id": "36_contrato_hierro",
+    "name": "Acero para la Guardia",
+    "icon": "minecraft:iron_ingot",
+    "description": "Las reservas de hierro de la armerÃ­a real estÃ¡n bajo mÃ­nimos tras las Ãºltimas invasiones. Entrega lingotes de hierro para forjar escudos y espadas. (MisiÃ³n Repetible)",
+    "optional": "true",
+    "completion": {
+        "complete": [
+            {
+                "submit": "minecraft:iron_ingot",
+                "count": 64
+            }
+        ]
+    },
+    "reward": {
+        "items": [
+            {
+                "item": "magic_coins:silver_coin",
+                "count": 40
+            }
+        ],
+        "exp": "points",
+        "count": 150
+    },
+    "dependencies": "",
+    "repeatable": "true"
+}

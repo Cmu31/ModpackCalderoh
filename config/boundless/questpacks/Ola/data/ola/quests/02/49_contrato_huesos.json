@@ -1,0 +1,29 @@
+﻿{
+    "category": "02_gremio_aventureros",
+    "sub-category": "contratos_recoleccion",
+    "id": "49_contrato_huesos",
+    "name": "Polvo de Huesos",
+    "icon": "minecraft:bone",
+    "description": "Los alquimistas y agricultores del gremio necesitan grandes cantidades de hueso molido para fertilizantes e investigaciÃ³n mÃ¡gica. Entrega huesos recolectados. (MisiÃ³n Repetible)",
+    "optional": "true",
+    "completion": {
+        "complete": [
+            {
+                "submit": "minecraft:bone",
+                "count": 64
+            }
+        ]
+    },
+    "reward": {
+        "items": [
+            {
+                "item": "magic_coins:silver_coin",
+                "count": 22
+            }
+        ],
+        "exp": "points",
+        "count": 110
+    },
+    "dependencies": "",
+    "repeatable": "true"
+}

@@ -1,0 +1,33 @@
+﻿{
+    "category": "02_gremio_aventureros",
+    "sub-category": "contratos_recoleccion",
+    "id": "38_contrato_materiales_construccion",
+    "name": "Mezcla de Obra",
+    "icon": "minecraft:gravel",
+    "description": "Se necesitan agregados bÃ¡sicos para mezclar concreto y vidrio para los ventanales de la catedral. Entrega un cargamento mixto. (MisiÃ³n Repetible)",
+    "optional": "true",
+    "completion": {
+        "complete": [
+            {
+                "submit": "minecraft:sand",
+                "count": 64
+            },
+            {
+                "submit": "minecraft:gravel",
+                "count": 64
+            }
+        ]
+    },
+    "reward": {
+        "items": [
+            {
+                "item": "magic_coins:silver_coin",
+                "count": 15
+            }
+        ],
+        "exp": "points",
+        "count": 90
+    },
+    "dependencies": "",
+    "repeatable": "true"
+}

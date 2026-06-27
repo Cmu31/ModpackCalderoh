@@ -1,0 +1,33 @@
+{
+    "category":  "02_gremio_aventureros",
+    "sub-category":  "contratos_recoleccion",
+    "id":  "07_contrato_carbon",
+    "name":  "Contrato: Suministro de Carbón",
+    "icon":  "minecraft:coal",
+    "description":  "La fragua del Gremio nunca duerme. Entrega un cargamento completo de carbón para mantener los hornos encendidos. (Misión Repetible) (Contrato Repetible)",
+    "optional":  "true",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "submit":  "minecraft:coal",
+                                            "count":  64
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:silver_coin",
+                                     "count":  4
+                                 },
+                                 {
+                                     "item":  "minecraft:iron_ingot",
+                                     "count":  2
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  10
+               },
+    "dependencies":  "",
+    "repeatable":  "true"
+}

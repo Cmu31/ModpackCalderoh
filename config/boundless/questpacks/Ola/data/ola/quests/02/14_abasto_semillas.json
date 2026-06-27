@@ -1,0 +1,33 @@
+﻿{
+    "category": "02_gremio_aventureros",
+    "sub-category": "contratos_principiantes",
+    "id": "14_abasto_semillas",
+    "name": "Sembrando el Futuro",
+    "icon": "minecraft:wheat_seeds",
+    "description": "Los granjeros del gremio buscan iniciar nuevas parcelas. Entrega semillas de trigo comunes acumuladas. (FÃ¡cil para empezar)",
+    "optional": "true",
+    "completion": {
+        "complete": [
+            {
+                "submit": "minecraft:wheat_seeds",
+                "count": 32
+            }
+        ]
+    },
+    "reward": {
+        "items": [
+            {
+                "item": "magic_coins:silver_coin",
+                "count": 2
+            },
+            {
+                "item": "minecraft:bone_meal",
+                "count": 4
+            }
+        ],
+        "exp": "points",
+        "count": 10
+    },
+    "dependencies": "",
+    "repeatable": "true"
+}

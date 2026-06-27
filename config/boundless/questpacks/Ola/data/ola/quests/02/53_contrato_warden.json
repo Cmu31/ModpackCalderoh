@@ -1,0 +1,29 @@
+﻿{
+    "category":  "02_gremio_aventureros",
+    "sub-category":  "contratos_caza_mayor",
+    "id":  "53_contrato_warden",
+    "name":  "Cazador en la Oscuridad",
+    "icon":  "minecraft:echo_shard",
+    "description":  "Una recompensa masiva se ha ofrecido por derrotar a la pesadilla de las profundidades del subsuelo. Caza al Warden en el abismo oscuro. Solo para los guerreros mÃ¡s experimentados y equipados del servidor. (MisiÃ³n Repetible)",
+    "optional":  "true",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "submit":  "minecraft:sculk_catalyst",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:gold_coin",
+                                     "count":  3
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  1000
+               },
+    "dependencies":  "",
+    "repeatable":  "true"
+}

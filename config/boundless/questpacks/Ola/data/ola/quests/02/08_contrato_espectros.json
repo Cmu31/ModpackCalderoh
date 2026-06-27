@@ -1,0 +1,33 @@
+﻿{
+    "category":  "02_gremio_aventureros",
+    "sub-category":  "contratos_caza_menor",
+    "id":  "08_contrato_espectros",
+    "name":  "Contrato: Purga del Cielo",
+    "icon":  "minecraft:phantom_membrane",
+    "description":  "Las bestias voladoras de la noche aterrorizan a los viajeros y aldeanos. Caza Fantasmas para limpiar los cielos nocturnos. (MisiÃ³n Repetible) (Contrato Repetible)",
+    "optional":  "true",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "submit":  "minecraft:phantom_membrane",
+                                            "count":  8
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "magic_coins:silver_coin",
+                                     "count":  5
+                                 },
+                                 {
+                                     "item":  "minecraft:phantom_membrane",
+                                     "count":  2
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  20
+               },
+    "dependencies":  "",
+    "repeatable":  "true"
+}

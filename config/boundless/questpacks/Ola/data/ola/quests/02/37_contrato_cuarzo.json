@@ -1,0 +1,29 @@
+﻿{
+    "category": "02_gremio_aventureros",
+    "sub-category": "contratos_recoleccion",
+    "id": "37_contrato_cuarzo",
+    "name": "Cristales del Inframundo",
+    "icon": "minecraft:quartz",
+    "description": "Se necesita cuarzo del nether para fabricar componentes de redstone de precisiÃ³n y elementos de decoraciÃ³n fina. Entrega cristales de cuarzo limpios. (MisiÃ³n Repetible)",
+    "optional": "true",
+    "completion": {
+        "complete": [
+            {
+                "submit": "minecraft:quartz",
+                "count": 48
+            }
+        ]
+    },
+    "reward": {
+        "items": [
+            {
+                "item": "magic_coins:silver_coin",
+                "count": 25
+            }
+        ],
+        "exp": "points",
+        "count": 120
+    },
+    "dependencies": "",
+    "repeatable": "true"
+}

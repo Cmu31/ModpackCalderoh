@@ -1,0 +1,29 @@
+﻿{
+    "category": "02_gremio_aventureros",
+    "sub-category": "contratos_recoleccion",
+    "id": "31_contrato_cuero",
+    "name": "Curtidor Aventurero",
+    "icon": "minecraft:leather",
+    "description": "Se necesita cuero de alta calidad para encuadernar libros de hechizos y fabricar monturas de repuesto. Entrega un lote de cuero. (MisiÃ³n Repetible)",
+    "optional": "true",
+    "completion": {
+        "complete": [
+            {
+                "submit": "minecraft:leather",
+                "count": 32
+            }
+        ]
+    },
+    "reward": {
+        "items": [
+            {
+                "item": "magic_coins:silver_coin",
+                "count": 20
+            }
+        ],
+        "exp": "points",
+        "count": 120
+    },
+    "dependencies": "",
+    "repeatable": "true"
+}

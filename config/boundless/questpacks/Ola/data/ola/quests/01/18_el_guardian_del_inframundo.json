@@ -1,0 +1,37 @@
+{
+    "category": "01_minecraft_introductorio",
+    "sub-category":  "desafios_mayores",
+    "id":  "18_el_guardian_del_inframundo",
+    "name":  "El Guardián del Inframundo",
+    "icon":  "block_factorys_bosses:knight_sword",
+    "description":  "Adéntrate en las profundidades del NETHER. El Underworld Knight custodia los bastiones olvidados. Es un desafío de alto riesgo, pero necesario para purificar estas tierras prohibidas.",
+    "dependencies":  "17_la_furia_del_dragon",
+    "optional":  "false",
+    "completion":  {
+                       "complete":  [
+                                        {
+                                            "kill":  "block_factorys_bosses:underworld_knight",
+                                            "count":  1
+                                        }
+                                    ]
+                   },
+    "reward":  {
+                   "items":  [
+                                 {
+                                     "item":  "minecraft:netherite_ingot",
+                                     "count":  1
+                                 },
+                                 {
+                                     "item":  "minecraft:diamond_block",
+                                     "count":  1
+                                 },
+                                 {
+                                     "item":  "magic_coins:gold_coin",
+                                     "count":  5
+                                 }
+                             ],
+                   "exp":  "points",
+                   "count":  80
+               }
+}
+
