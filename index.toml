@@ -5141,8 +5141,8 @@ file = "mods/borninconfiguration-3.2.2.jar"
 hash = "ae0370b27920830dab39972385c938e13838a6f7f2adc61bdb00b13b0dbd3885"
 
 [[files]]
-file = "mods/boundless-10.0.2.jar"
-hash = "2fc0a847b04ae239d3a82438e99f91a4531c1bbb49ff1d60938469148513bd7c"
+file = "mods/boundless-9.2.jar"
+hash = "b54aafe6d96088682cec9338d1354bd5c3dedb1f794a87ce11a631b3069b33d2"
 
 [[files]]
 file = "mods/bountiful-neoforge-8.0.0-beta.2.jar"
