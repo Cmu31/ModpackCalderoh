@@ -1414,7 +1414,7 @@ hash = "95d2d649bb8fbc282b539ae01db3e2a37b3c68aa998a1e7ce60fa8732748e1f7"
 
 [[files]]
 file = "config/clavis.yaml"
-hash = "3d783af59134dd957a81977c6d1d0d4e4a82c4c9546cf71743f2c3305247ed2b"
+hash = "b4fd024a7a0923c7a08e73bc5eb6f10a9e0fc3c96ccf5ff3677c36c65e8d635d"
 
 [[files]]
 file = "config/collective.json5"
@@ -5361,10 +5361,6 @@ file = "mods/ferritecore-7.0.3-neoforge.jar"
 hash = "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
 
 [[files]]
-file = "mods/fism+1.21.1-neoforge-1.0.5.jar"
-hash = "c06bf21919ecde60b8b4f001cae7bf4bd087c4384e6b217109d77dd5575b3491"
-
-[[files]]
 file = "mods/flerovium-neoforge-1.21.1-1.1.1-all.jar"
 hash = "2ceac9a74e4f715e242ea710a7e5e226601efc0b00aae6ad0d55ccbd9fb6bc00"
 
@@ -5827,10 +5823,6 @@ hash = "1d9e5292ec49d99af9d3a420de2f3df847816aec081d2068c9e6017e4e6bfc32"
 [[files]]
 file = "mods/worldedit-mod-7.3.8.jar"
 hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
-
-[[files]]
-file = "mods/yawp-1.21.1-neoforge-0.6.3-beta3.jar"
-hash = "2211f690d8d34500f4dd6a183fb0dff2749357c870baa9d98799be21d4d2a244"
 
 [[files]]
 file = "mods/yeetusexperimentus-neoforge-87.0.0.jar"
