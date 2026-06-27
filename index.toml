@@ -782,7 +782,7 @@ hash = "d691c074802b04e6d89da8fcf430870ce3294578b78f84987a448836eea4e80a"
 
 [[files]]
 file = "config/boundless-common.toml"
-hash = "5ca543831220cb4fafcac3ea4153ef1d67ca839cbde29489be64057eaecc6e6c"
+hash = "78443d57b937a5299decc32f7c1a9a30e3017dc0176bc401bdeb172b96c2757c"
 
 [[files]]
 file = "config/boundless/quest_state/default.json"
@@ -5399,10 +5399,6 @@ hash = "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9"
 [[files]]
 file = "mods/gml-6.0.2.jar"
 hash = "c508464433fc7739c1aa6a7208c5dbf2c02038fe9813f98187b3fb10e457d2bd"
-
-[[files]]
-file = "mods/gnetum-3.3.4.jar"
-hash = "ff0d54a1d6875eab2c541be8e44b7ecd3ea32dda249ed683d7ff644debc24d0a"
 
 [[files]]
 file = "mods/goblintraders-neoforge-1.21.1-1.11.2.jar"

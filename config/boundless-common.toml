@@ -5,7 +5,7 @@ disabledQuestCategories = []
 	#Pin the Quest hud to the: bottom_left, bottom_right, top_left, top_right
 	pinnedQuestHudPosition = "bottom_left"
 	#If true, hides the quest book button in the inventory screen.
-	hideQuestBookInInventory = false
+	hideQuestBookInInventory = true
 	#Quest book button position in inventory: beside_recipe_book, above_offhand_slot
 	questBookInventoryButtonPosition = "beside_recipe_book"
 	#If true, centers inventory and quest panel together when the quest panel is open.
