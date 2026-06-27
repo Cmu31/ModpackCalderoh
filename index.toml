@@ -5289,16 +5289,16 @@ file = "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar"
 hash = "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e"
 
 [[files]]
-file = "mods/easy_npc-neoforge-1.21.1-6.17.0.jar"
-hash = "d2904ef01af86847c64f537a8624c74351de2134f4c2da72c4b82f48b21cfb5d"
+file = "mods/easy_npc-neoforge-1.21.1-6.23.0.jar"
+hash = "927791238e588145ce6c2a32bfda5d8311e880234ef42d1e72af7a4609fda04c"
 
 [[files]]
-file = "mods/easy_npc_bundle-neoforge-1.21.1-6.17.0.jar"
-hash = "6186e863ed5c9afa7dedbae027acb238fcc1eea1a04274274c01ce61811d3852"
+file = "mods/easy_npc_bundle-neoforge-1.21.1-6.23.0.jar"
+hash = "a0358b2f10a2d6e99805e1af1196e6ba3202329d083e8a67c6aeb8cd864f629f"
 
 [[files]]
-file = "mods/easy_npc_config_ui-neoforge-1.21.1-6.17.0.jar"
-hash = "0c4fa969203b2880f41ac8eb18ed00a7e0e62bec730ab787668c04dbc7ea599c"
+file = "mods/easy_npc_config_ui-neoforge-1.21.1-6.23.0.jar"
+hash = "6945a55e9b032b12d1ada74263380ab53a8037a0b8644eef6d9b75777d51e594"
 
 [[files]]
 file = "mods/eatinganimation-1.21.0-6.0.1.jar"
@@ -5689,8 +5689,8 @@ file = "mods/simplyswords-neoforge-1.63.0-1.21.1.jar"
 hash = "4619dcf1501fc82c1a52acd4c88a466436f5c1d7d2bccc0932912a12b0bc5198"
 
 [[files]]
-file = "mods/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar"
-hash = "c825d6acd41a983217f410c6d51c6557e3afc35131f6da0aa6dcd07e67cfa52c"
+file = "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar"
+hash = "21724b7f676696f8d3716142406440adba9e63fc6519eeadc2b7ee8aae64c760"
 
 [[files]]
 file = "mods/slot_machine-1.0.0.jar"
