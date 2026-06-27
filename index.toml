@@ -5385,14 +5385,6 @@ file = "mods/friendsandfoes-neoforge-4.0.26+mc1.21.1.jar"
 hash = "dda1240b97a93dc109f95d5cf58b836bca0cab1ab9aa263787038e3c708ee09c"
 
 [[files]]
-file = "mods/ftb-essentials-neoforge-2101.1.9.jar"
-hash = "4da8e4d461ceef1a5e6f6705265fe24239b132cdc408eb77787231cb56c219bf"
-
-[[files]]
-file = "mods/ftb-library-neoforge-2101.1.31.jar"
-hash = "3d44705187cf938842e06d484a93e0491b82b0689785e6da4f7cabe40bd88aeb"
-
-[[files]]
 file = "mods/fusion-1.2.12-neoforge-mc1.21.1.jar"
 hash = "5961f78d85b7bd88205bc65c9f8182bc041646aa3579fa39810878d9b5b87c0c"
 
