@@ -5685,10 +5685,6 @@ file = "mods/simplyswords-neoforge-1.63.0-1.21.1.jar"
 hash = "4619dcf1501fc82c1a52acd4c88a466436f5c1d7d2bccc0932912a12b0bc5198"
 
 [[files]]
-file = "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar"
-hash = "21724b7f676696f8d3716142406440adba9e63fc6519eeadc2b7ee8aae64c760"
-
-[[files]]
 file = "mods/slot_machine-1.0.0.jar"
 hash = "f839d7c3decdde941f5290f9a245e9c84a4e3777e025b024eb018c367ac18d67"
 
