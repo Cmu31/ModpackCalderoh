@@ -533,10 +533,6 @@ file = "mods/ApothicSpawners-1.21.1-1.3.4.jar"
 hash = "df6e176d9b00593ae6e712f8440ee75ffe8b1fc5af39f77970e8a0255a193e15"
 
 [[files]]
-file = "mods/AsyncParticles-3.3.11+1.21.1.jar"
-hash = "7d80828d9f479a70c354882a5ec505342157cea0ea54820904d255c87ee077a6"
-
-[[files]]
 file = "mods/Atlas-Lib-1.21.0-1.1.14.jar"
 hash = "d802ec4e382f46378ec75d763e4c5727f29ddbe26bba247605cd7ffcd4ea88a5"
 
