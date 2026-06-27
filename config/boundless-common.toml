@@ -5,7 +5,7 @@ disabledQuestCategories = []
 	#Pin the Quest hud to the: bottom_left, bottom_right, top_left, top_right
 	pinnedQuestHudPosition = "bottom_left"
 	#If true, hides the quest book button in the inventory screen.
-	hideQuestBookInInventory = true
+	hideQuestBookInInventory = false
 	#Quest book button position in inventory: beside_recipe_book, above_offhand_slot
 	questBookInventoryButtonPosition = "beside_recipe_book"
 	#If true, centers inventory and quest panel together when the quest panel is open.
@@ -29,7 +29,7 @@ disabledQuestCategories = []
 
 [Functionality]
 	#If true, quest pinning and pinned HUD are disabled.
-	disableQuestPinning = true
+	disableQuestPinning = false
 	#If true, quest rewards are automatically claimed when a quest becomes complete.
 	autoClaimQuestRewards = false
 	#If true, quest completion scrolls can be created and used.
