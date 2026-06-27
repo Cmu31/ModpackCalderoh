@@ -1,9 +1,0 @@
-{
-  "id": "reinado_dragones",
-  "name": "IV. El Reinado de los Dragones",
-  "icon": "iceandfire:dragonbone",
-  "order": 33,
-  "default_open": false,
-  "parent": "03_bestiario_mitologico"
-}
-

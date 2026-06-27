@@ -1,9 +1,0 @@
-{
-  "id": "contratos_caza_menor",
-  "name": "II. Contratos de Caza Menor",
-  "icon": "minecraft:skeleton_skull",
-  "order": 11,
-  "default_open": false,
-  "parent": "02_gremio_aventureros"
-}
-

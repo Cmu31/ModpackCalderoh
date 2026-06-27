@@ -1,5 +1,5 @@
 {
-  "configVersion": 8,
+  "configVersion": 7,
   "renderNametagsThroughWalls": true,
   "blockEntityWhitelist": [
     "create:rope_pulley",
@@ -13,13 +13,25 @@
   "entityWhitelist": [
     "botania:mana_burst",
     "drg_flares:drg_flares",
-    "quark:soul_bead"
+    "quark:soul_bead",
+    "mowziesmobs:pillar_sculptor",
+    "mowziesmobs:super_nova",
+    "mowziesmobs:ice_breath",
+    "mowziesmobs:ice_ball",
+    "mowziesmobs:boulder_platform",
+    "mowziesmobs:boulder_platform_crumbling",
+    "mowziesmobs:boulder_projectile",
+    "mowziesmobs:earth_spike",
+    "mowziesmobs:pillar",
+    "mowziesmobs:pillar_piece",
+    "mowziesmobs:pillar_sculptor"
   ],
   "tracingDistance": 128,
   "debugMode": false,
   "sleepDelay": 10,
   "hitboxLimit": 50,
   "captureRate": 5,
+  "skipMarkerArmorStands": true,
   "tickCulling": true,
   "tickCullingWhitelist": [
     "minecraft:block_display",
@@ -58,20 +70,9 @@
     "create:carriage_contraption",
     "minecraft:pale_oak_chest_boat",
     "minecraft:bamboo_chest_raft",
-    "minecraft:mangrove_chest_boat",
-    "voidscape:corrupted_pawn",
-    "cinematiccataclysm:scylla_cutscene",
-    "cinematiccataclysm:maledictus_cutscene",
-    "cinematiccataclysm:leviathan_cutscene",
-    "cinematiccataclysm:ancient_remnant_cutscene",
-    "createbigcannons:cannon_carriage",
-    "createbigcannons:pitch_contraption",
-    "cinematiccataclysm:ignis_cutscene"
+    "minecraft:mangrove_chest_boat"
   ],
   "disableF3": false,
   "skipEntityCulling": false,
-  "skipBlockEntityCulling": false,
-  "blockEntityFrustumCulling": true,
-  "forceDisplayCulling": true,
-  "solidLeaves": true
+  "skipBlockEntityCulling": false
 }

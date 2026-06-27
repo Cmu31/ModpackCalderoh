@@ -1,9 +1,0 @@
-{
-  "id": "contratos_caza_mayor",
-  "name": "III. Contratos de Caza Mayor",
-  "icon": "minecraft:wither_skeleton_skull",
-  "order": 12,
-  "default_open": false,
-  "parent": "02_gremio_aventureros"
-}
-

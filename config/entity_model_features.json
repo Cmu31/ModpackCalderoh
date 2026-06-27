@@ -1,13 +1,11 @@
 {
-  "allowedCEM": "ALL",
   "logModelCreationData": false,
   "debugOnRightClick": false,
   "renderModeChoice": "NORMAL",
   "vanillaModelHologramRenderMode_2": "OFF",
   "modelExportMode": "NONE",
-  "automaticModelExporting": false,
   "attemptPhysicsModPatch_2": "CUSTOM",
-  "modelUpdateFrequency": "Slow",
+  "modelUpdateFrequency": "Average",
   "entityRenderModeOverrides": {},
   "entityPhysicsModPatchOverrides": {},
   "entityVanillaHologramOverrides": {},
@@ -25,11 +23,9 @@
   "resetPlayerModelEachRender": true,
   "resetPlayerModelEachRender_v2": true,
   "onlyDebugRenderOnHover": false,
-  "enforceOptifineSubFoldersVariantOnly": false,
+  "enforceOptifineSubFoldersVariantOnly": true,
   "enforceOptiFineAnimSyntaxLimits": true,
   "allowOptifineFallbackProperties": true,
   "showReloadErrorToast": true,
-  "exportRotations": false,
-  "asmMaths": true,
-  "logASM": false
+  "exportRotations": false
 }

@@ -3,8 +3,6 @@
   "particle": {
     "particleLimit": 16384,
     "removeIfMissedTick": false,
-    "parallelQueueRemoval": true,
-    "parallelQueueEviction": true,
     "particleLightCache": true,
     "cullUnderwaterParticleType": true
   },
@@ -15,35 +13,23 @@
     "deferredTextureTick": true,
     "failPerSecLimit": 5,
     "failBehavior": "RAISE_CRASH",
-    "suppressCME": false,
-    "syncParticleClasses": []
+    "suppressCME": false
   },
   "rendering": {
     "particleCulling": "SPHERE",
-    "particleRenderingMode": "DELAYED",
-    "gpuAcceleration": true,
-    "appendNewParticlesToRenderer": true,
+    "particleRenderingMode": "COMPATIBILITY",
     "cullWeathers": true,
     "failPerSecLimit": 20,
-    "failBehavior": "MARK_AS_SYNC",
-    "syncParticleClasses": [
-      "com.lootbeams.VFXParticle",
-      "ovh.corail.tombstone.particle.ParticleCasting",
-      "ovh.corail.tombstone.particle.ParticleGhost",
-      "ovh.corail.tombstone.particle.ParticleGraveSoul",
-      "ovh.corail.tombstone.particle.ParticleMagicCircle",
-      "ovh.corail.tombstone.particle.ParticleMarker",
-      "ovh.corail.tombstone.particle.ParticleRounding",
-      "concerrox.effective.particle.SplashParticle",
-      "org.ladysnake.effective.particle.SplashParticle",
-      "net.mehvahdjukaar.dummmmmmy.client.DamageNumberParticle"
-    ]
+    "failBehavior": "MARK_AS_SYNC"
   },
   "valkyrienSkies": {
     "rainEffect": "STATIONARY",
     "fixParticleLights": true
   },
   "create": {
-    "rainEffect": "STATIONARY"
+    "rainEffect": "ALWAYS"
+  },
+  "cooParticlesAPI": {
+    "tickMode": "ASYNC_IN_PARALLEL"
   }
 }

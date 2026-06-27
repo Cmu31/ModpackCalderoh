@@ -1,9 +1,0 @@
-{
-  "id": "desafios_mayores",
-  "name": "V. Cacería de Grandes Jefes",
-  "icon": "block_factorys_bosses:dragon_skull",
-  "order": 5,
-  "default_open": false,
-  "parent": "01_minecraft_introductorio"
-}
-
