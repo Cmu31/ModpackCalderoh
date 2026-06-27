@@ -782,7 +782,7 @@ hash = "d691c074802b04e6d89da8fcf430870ce3294578b78f84987a448836eea4e80a"
 
 [[files]]
 file = "config/boundless-common.toml"
-hash = "56a305c40f920b93f0157b820753245cb9ab296a86cd8f477dab36d1c8e307bc"
+hash = "5ca543831220cb4fafcac3ea4153ef1d67ca839cbde29489be64057eaecc6e6c"
 
 [[files]]
 file = "config/boundless/quest_state/default.json"

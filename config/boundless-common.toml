@@ -29,7 +29,7 @@ disabledQuestCategories = []
 
 [Functionality]
 	#If true, quest pinning and pinned HUD are disabled.
-	disableQuestPinning = false
+	disableQuestPinning = true
 	#If true, quest rewards are automatically claimed when a quest becomes complete.
 	autoClaimQuestRewards = false
 	#If true, quest completion scrolls can be created and used.
