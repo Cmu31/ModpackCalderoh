@@ -2898,7 +2898,7 @@ hash = "82de1c857bdfa233b180df2555e168c2d5d4dec63c32d9ea6aa094eea9f77bad"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "43234bc19a011104633070e893fa39eee1db2d0b12d301833aa0aa323f05c932"
+hash = "2eddaa6389f113facbfe4be9796161ca43bc06d01c2f260bd910f21c6c87e3fb"
 
 [[files]]
 file = "config/immersive_optimization.json"
