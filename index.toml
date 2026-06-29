@@ -2897,6 +2897,10 @@ file = "config/illagerinvasion-server.toml"
 hash = "82de1c857bdfa233b180df2555e168c2d5d4dec63c32d9ea6aa094eea9f77bad"
 
 [[files]]
+file = "config/immediatelyfast.json"
+hash = "43234bc19a011104633070e893fa39eee1db2d0b12d301833aa0aa323f05c932"
+
+[[files]]
 file = "config/immersive_optimization.json"
 hash = "749dcfa1713a52e6a88d2336f16ab815581b648e7ec659f6299fe49d7b9179c5"
 
@@ -4915,6 +4919,10 @@ hash = "0d620c975619b04110b94a73d5b42d252563ff59c1eae9d21ab2ee7e38460a3c"
 [[files]]
 file = "mods/IllagerInvasion-v21.1.6-1.21.1-NeoForge.jar"
 hash = "5adfdd0df0c5dbe81e4458da50442b58863f9db9f22abc182f81e487eef0e6db"
+
+[[files]]
+file = "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar"
+hash = "9fbb8dce1bb72feacdc3b75c6fcbf689865ad3793a19649443d76be20993ddd0"
 
 [[files]]
 file = "mods/Ixeris-4.5.1+1.21.1-neoforge.jar"
