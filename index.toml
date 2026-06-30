@@ -5177,10 +5177,6 @@ file = "mods/bountiful-neoforge-8.0.0-beta.2.jar"
 hash = "dca5e0af724e3076b3d950b7ec88cf63c509435cf41371a6e1c7c306cb6a7e51"
 
 [[files]]
-file = "mods/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.112.jar"
-hash = "961e80018496036a47421617c9891bb58c71c13ad82211f557a81d0a14579ffd"
-
-[[files]]
 file = "mods/carryon-neoforge-1.21.1-2.2.4.4-patched-no-slowness.jar"
 hash = "0c28662a125de91873052d0b36a2c99f07b0f83769666e1ed1003cf101806f4b"
 
