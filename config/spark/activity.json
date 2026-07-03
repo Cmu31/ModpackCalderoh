@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "superfuego30",
+      "uniqueId": "1150ad46-c804-4445-b166-aa4475d68542"
+    },
+    "time": 1783054759791,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/KR71s3xk5p"
+    }
+  }
+]
