@@ -98,7 +98,7 @@ hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
 file = "config/RuOK.toml"
-hash = "48e0e24c163f8da7b374418595dbf57db134c0f48fd4f8f9a84aecfedf73c3b2"
+hash = "435a60d4020ac6c9cc4f326b2866572c06e6eaba0b9705da22f15fde5b9dfbbc"
 
 [[files]]
 file = "config/accessories.json5"
@@ -550,7 +550,7 @@ hash = "d5c6ff0f2105d2227caf665c12ced53b56b43ef694daf0b03cc1eb96ebea1c65"
 
 [[files]]
 file = "config/amendments-common.toml"
-hash = "4ac7e6da173f4d12264f36010e1d668fff7b62709f0241262d5753d92af9b84f"
+hash = "1be2fe62f7a422cf028b86f381bbcca0d99437bd92f7f3d13fa00c25f0e91c2a"
 
 [[files]]
 file = "config/apotheosis/apotheosis.cfg"
@@ -566,7 +566,7 @@ hash = "d44a28ad5ba29bd441c06aa30938bc6ccac38d844a7517a9c965c99b67657abd"
 
 [[files]]
 file = "config/apotheosis/enchantments.cfg"
-hash = "116a8cd77acdf6d165a41995b9031687cc667d6f3e310c1056ce9acc59e904f7"
+hash = "90cbb1f117aa55d19f25e012c645ee0d9f1a447a132d62a9d5ccba41a5156678"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
@@ -581,6 +581,10 @@ file = "config/appleskin-client.toml"
 hash = "6a3624ed584e6d2c4323957c3ca3d17bf2c01c7bbb73b9ee487378ff69d88aba"
 
 [[files]]
+file = "config/arcadia/ArcadiaGuard/arcadiaguard-common.toml"
+hash = "6884bca779681f75909c0753a09f9915319e59912d7fa2170c7ac58d553b6860"
+
+[[files]]
 file = "config/artifacts/client.toml"
 hash = "fea09c9256febaf3cc2dc9f09a44624d9a2896ed7b0ea7766c02dd597d964c74"
 
@@ -593,12 +597,452 @@ file = "config/artifacts/items.toml"
 hash = "0d4971e2356a4ceabc4c4b2d69c81c2d3fbcf4b46e384423098f3856dcd2689c"
 
 [[files]]
+file = "config/asynclogger.toml"
+hash = "e0804713763b355f2d434ae1c930dd9fe5e720db313ca68fad3ea32c208b1d59"
+
+[[files]]
+file = "config/asynclogger/default.toml"
+hash = "dee286337f4d870b63bb0a4c8d9add6385b363f1edd04209e6a74ff9fd7d9d6e"
+
+[[files]]
 file = "config/asyncparticles/asyncparticles-mixin.properties"
 hash = "b4f686559986c30457eeed3607ece7b079049f7e204c0d7c480af0c4c02f4ad0"
 
 [[files]]
 file = "config/asyncparticles/asyncparticles.json"
 hash = "4fcd2e17f0face495859dacffa77d0bb03d3cb4f86958478ed9fcce3edeabeb5"
+
+[[files]]
+file = "config/attributefix/aether/moa_max_jumps.json"
+hash = "f4141221feb1e43056da711fcda29f9091344a48876c62e6f1d1a61fac8af44a"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/armor_pierce.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/armor_shred.json"
+hash = "803b5a64c395b01f6efd12222624c7422cc548890c74d62f105daa670500e438"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/arrow_damage.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/arrow_velocity.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/cold_damage.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/crit_chance.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/crit_damage.json"
+hash = "c53319e27427fef88d5df7db100e255158c6f088d53b67cc4c2a7f8d0a152693"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/current_hp_damage.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/dodge_chance.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/draw_speed.json"
+hash = "bb3d3e9c91455de6702c80400f82cd48760dd76ea9e71498ea4939c675e3b0f4"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/experience_gained.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/fire_damage.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/ghost_health.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/healing_received.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/life_steal.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/mining_speed.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/overheal.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/projectile_damage.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/prot_pierce.json"
+hash = "a34b1473712893aa4dd1a7ae1a7a0a6faf7232e546e1c112871054694c8fed35"
+
+[[files]]
+file = "config/attributefix/apothic_attributes/prot_shred.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.attack_burning_duration.json"
+hash = "2b35471191429cb7b18be98f70f23a3ea36ddf0d984a5a3f6a492ce3b3a1dba5"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.drinking_speed.json"
+hash = "ea105c9bb954b8cc9e60749b9a304a1ff80fa0c80873099c569e94c6ea5d6c67"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.eating_speed.json"
+hash = "ea105c9bb954b8cc9e60749b9a304a1ff80fa0c80873099c569e94c6ea5d6c67"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.flatulence.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.invincibility_ticks.json"
+hash = "f2b86540287515290388f49a96e00e5e9ae90abe7332b9beeb44870d0e30c206"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.mount_speed.json"
+hash = "c568f31255bb84ce497127463bdeaa91d597a4336320d84bf669e630ccf169ea"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.movement_speed_on_snow.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.slip_resistance.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.sprinting_speed.json"
+hash = "c568f31255bb84ce497127463bdeaa91d597a4336320d84bf669e630ccf169ea"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.sprinting_step_height.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/artifacts/player.entity_experience.json"
+hash = "137e8a8052b2264bc1c881b91b97011e4c33726819f4c434753ad5480ee3d19f"
+
+[[files]]
+file = "config/attributefix/artifacts/player.villager_reputation.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/block_factorys_bosses/roll_count.json"
+hash = "3248ed3164c669c85abf5667762b6f175653169a24bbbcec3f17f4fe56bb78d8"
+
+[[files]]
+file = "config/attributefix/cataclysm/additional_critical_damage.json"
+hash = "2e6ad079bdd14db3412092f91245b2cf6f73a86eecc71f17e7cb1a9c8558131e"
+
+[[files]]
+file = "config/attributefix/cataclysm/charge_time.json"
+hash = "ed4ce7e552f749258cbaf28f9d52eeb79fc26f6fd632d91e852f980ce3685343"
+
+[[files]]
+file = "config/attributefix/cataclysm/eat_speed.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/cataclysm/nature_heal.json"
+hash = "753bdbb0cff81ca77562a88ebcda6ae1c633d0042a12f2f9ec016a966c6ee6c7"
+
+[[files]]
+file = "config/attributefix/hordes/infection_resistance.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/hordes/infectivity.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/blood_magic_resist.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/blood_spell_power.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/cast_time_reduction.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/casting_movespeed.json"
+hash = "6217856e9bb2355a468bbe03fe24bc97bae91f8deb54e9df42f8a4021cde99e6"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/cooldown_reduction.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/eldritch_magic_resist.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/eldritch_spell_power.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/ender_magic_resist.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/ender_spell_power.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/evocation_magic_resist.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/evocation_spell_power.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/fire_magic_resist.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/fire_spell_power.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/holy_magic_resist.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/holy_spell_power.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/ice_magic_resist.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/ice_spell_power.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/lightning_magic_resist.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/lightning_spell_power.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/mana_regen.json"
+hash = "6217856e9bb2355a468bbe03fe24bc97bae91f8deb54e9df42f8a4021cde99e6"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/max_mana.json"
+hash = "d93c8a68daea4dc0cd38d7b9a29e28cc16536332528edff278fdceeeb5a636e2"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/nature_magic_resist.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/nature_spell_power.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/spell_power.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/spell_resist.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/irons_spellbooks/summon_damage.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = "config/attributefix/justlevelingfork/beneficial_effect.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/justlevelingfork/break_speed.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/justlevelingfork/critical_damage.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/justlevelingfork/magic_resist.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/justlevelingfork/projectile_damage.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.armor.json"
+hash = "b6aa33f20fbc7bb14c930dfcfd93591f37f2ccf12df0b6da9551f7a6fad1e439"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.armor_toughness.json"
+hash = "b6aa33f20fbc7bb14c930dfcfd93591f37f2ccf12df0b6da9551f7a6fad1e439"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.attack_damage.json"
+hash = "b6aa33f20fbc7bb14c930dfcfd93591f37f2ccf12df0b6da9551f7a6fad1e439"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.attack_knockback.json"
+hash = "b6aa33f20fbc7bb14c930dfcfd93591f37f2ccf12df0b6da9551f7a6fad1e439"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.attack_speed.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.burning_time.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.explosion_knockback_resistance.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.fall_damage_multiplier.json"
+hash = "6217856e9bb2355a468bbe03fe24bc97bae91f8deb54e9df42f8a4021cde99e6"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.flying_speed.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.follow_range.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.gravity.json"
+hash = "84207d0866413a367d92222bd193912a418615f5eb9da342057bafec30173a79"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.jump_strength.json"
+hash = "220b18479d9b6497fc95e3b2ffcca5014d93eca33153fab8f343151c9a553bde"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.knockback_resistance.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.luck.json"
+hash = "6bce4756f23cedf273e963254625fa594a32208f99de05db1abd1e77ec671372"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.max_absorption.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.max_health.json"
+hash = "9d0ae1c8fda340e80aac17df9999ec1e9c7396a2327f63a40ea8006991201305"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.movement_efficiency.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.movement_speed.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.oxygen_bonus.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.safe_fall_distance.json"
+hash = "6bce4756f23cedf273e963254625fa594a32208f99de05db1abd1e77ec671372"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.scale.json"
+hash = "0e28210686e7f216d46ba0fee2508c263c7c39e26fb6d8380404789d3185e73a"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.step_height.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/minecraft/generic.water_movement_efficiency.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/minecraft/player.block_break_speed.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/minecraft/player.block_interaction_range.json"
+hash = "137e8a8052b2264bc1c881b91b97011e4c33726819f4c434753ad5480ee3d19f"
+
+[[files]]
+file = "config/attributefix/minecraft/player.entity_interaction_range.json"
+hash = "137e8a8052b2264bc1c881b91b97011e4c33726819f4c434753ad5480ee3d19f"
+
+[[files]]
+file = "config/attributefix/minecraft/player.mining_efficiency.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/minecraft/player.sneaking_speed.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/minecraft/player.submerged_mining_speed.json"
+hash = "f874427dd6754eff702ef41fd35649493094ddd0c79e01623a2cc9ccfe8ce8d7"
+
+[[files]]
+file = "config/attributefix/minecraft/player.sweeping_damage_ratio.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/minecraft/zombie.spawn_reinforcements.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/neoforge/nametag_distance.json"
+hash = "137e8a8052b2264bc1c881b91b97011e4c33726819f4c434753ad5480ee3d19f"
+
+[[files]]
+file = "config/attributefix/neoforge/swim_speed.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/paraglider/max_stamina.json"
+hash = "3c74ea2409bda517d0ff616d2b1e1267866824ef45036dc911ff71032051dd69"
+
+[[files]]
+file = "config/attributefix/twilightforest/clone_count.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/twilightforest/max_shield_strength.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/twilightforest/minion_count.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
 
 [[files]]
 file = "config/axiom/axiom.json"
@@ -794,11 +1238,11 @@ hash = "6f2bffa4872825dce6760734a84bf5ca4bedb7283c260f445c3c6709f6ffdb9b"
 
 [[files]]
 file = "config/boundless/quest_state/sp_Karmaland_version_queer.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+hash = "f0a1a7438481d5d00e2d8ead1334e313ecbf69b35dbeb2d5eb3833875cbfe664"
 
 [[files]]
 file = "config/boundless/quest_state/sp_Mundo_nuevo.json"
-hash = "fc735ddfbceafc66cba693e42c5ded684531f97d165fa52f863999282b1ff8ee"
+hash = "fce09a5dbd96911ae76e475d0ace91e4e3274d9d33e120ce8ffc0b9939a2e5e3"
 
 [[files]]
 file = "config/boundless/quest_state/sp_Spawn.json"
@@ -1318,7 +1762,7 @@ hash = "eeead79d2c51bca73a1174aeadd2cef9c12feea8ae8083121c15e47b0563ebc0"
 
 [[files]]
 file = "config/bountiful/errors.log"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "50ae1042c321e03ae7acb0acb42c3f416f632f24ea69160d40c5c963db258ae8"
 
 [[files]]
 file = "config/camerapture.client.json"
@@ -1407,6 +1851,10 @@ hash = "32d00ef84a71f82450eb463bdb0c7f977d6fadda7acd631023cfd3479c90439b"
 [[files]]
 file = "config/chunksending.json"
 hash = "e589c5988aa0f23e08400df47ef156a61eea1978f2161ba014da278c28a60ac7"
+
+[[files]]
+file = "config/chunky/config.json"
+hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
 [[files]]
 file = "config/citadel-common.toml"
@@ -1514,7 +1962,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "6060d408b3f4d22106013784eb094eef9a408d2c688b549b3e67f6a2d7b47a80"
+hash = "aa7f101d9fcc786f593d7eed7e0a6b19c6aed135ce2d0bf5d7ead8abb03059e7"
 
 [[files]]
 file = "config/crash_assistant/scripts/log_analysis/example.jexl"
@@ -2025,6 +2473,10 @@ file = "config/deathfinder-client.toml"
 hash = "805989f6cb34c8c5d8e554f28ebca0149ec97d432f2c0c13fc80a37a1cd1e2f2"
 
 [[files]]
+file = "config/deathfinder-server.toml"
+hash = "837cb1bd8346c027d9882ab611ecd002cc7fddffdcdecf6cf5d27dd8ab22596a"
+
+[[files]]
 file = "config/decocraft-common.toml"
 hash = "4502bef407cdfb04f45ac1da3516bdc52014420e80fbc44b195ff061332cd953"
 
@@ -2045,8 +2497,16 @@ file = "config/deeperdarker-common.toml"
 hash = "6fc0146c17f0e2c53509f79dd77a6d1d8e6a50a122ceee0bd0cd24befc4e2e26"
 
 [[files]]
+file = "config/defaultoptions-common.toml"
+hash = "7f84b4d37e39956dd57ed232b08453ea3c2c4578bdf1430d42b4e77a15024b75"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "8da24cda792821d75d5b2b896af861dbf0253fde1814591ecba3bb97b43a97a1"
+
+[[files]]
+file = "config/despawntweaker-server.toml"
+hash = "e751e83d44ec724b80c28d649d92ed6cb794e970c8f8f38ee6f389b2b7424fb5"
 
 [[files]]
 file = "config/dimdungeons-client.toml"
@@ -2101,8 +2561,12 @@ file = "config/easy_npc.zip"
 hash = "ac881f33f189a65c0c57b36e7a80cec2fff19a16a9653656e7806011ad2ef7ab"
 
 [[files]]
+file = "config/easy_npc/dialog_client.cfg"
+hash = "d859ee122be1947269799e1d07910b2ecba5538da0e97e7e8941d3584edfc8a0"
+
+[[files]]
 file = "config/easy_npc/dialog_options.cfg"
-hash = "25e70f521dc544d209597627e547b7ebe036d395100da399cd31b64b6e3f6697"
+hash = "380cb1736c4f4d5cf471776649192660c1d8d3d5ce915eb8fd9b34f9db5b841a"
 
 [[files]]
 file = "config/easy_npc/npc_base.cfg"
@@ -2573,6 +3037,10 @@ file = "config/easyanvils-server.toml"
 hash = "61228450bef35c2871f9438b12f4dfba2f52aa740038a8a27ffbf2fc659592a2"
 
 [[files]]
+file = "config/enhanced_bes.properties"
+hash = "38b4b0b6be7edbfd5cc9c8d5a3b22c3cd315bc6d0334a2fb26f74f993e445e29"
+
+[[files]]
 file = "config/entity_model_features.json"
 hash = "0b620e1ab61e512129e779f5e08d19e930b38a2d6523ede8bb508a9a49715733"
 
@@ -2582,7 +3050,7 @@ hash = "7a897284d9f78c24cc94673a45888f60a57c00b465d7650ba6dafe3502616cf2"
 
 [[files]]
 file = "config/entityculling.json"
-hash = "a5638ba37dd48525e202724facbeec5d8048ef6d9cb665c876722d86948feb54"
+hash = "888e3ad045edf5aa87532b4c322d6a5fdb386e9eab088e5e2b64b03aa0cfb3bc"
 
 [[files]]
 file = "config/epicknights/armor.json5"
@@ -2618,7 +3086,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "277ad34824397d6df45a7229eaea8e04e12e40f06008ba092621ff012c164271"
+hash = "34b087ec926ae85fcd0bd3ed0557ac1f88a12a70389f2f6178f0accce8cc3dde"
 
 [[files]]
 file = "config/fallingleaves-client.toml"
@@ -2650,7 +3118,7 @@ hash = "124a9d6b09323a41b472e3894c55eeacddee6eaa63e2a0492b9dfda03055261d"
 
 [[files]]
 file = "config/farsight.json"
-hash = "98a9f53e1e21247108a90e80b9cf4141fd7b432e219a262672ffedd5730afbab"
+hash = "2bda25bdc817e1d52f82a2b0635ceace2d2987a60b16db46cf3ca3c675efad1a"
 
 [[files]]
 file = "config/fastbench.cfg"
@@ -2659,6 +3127,10 @@ hash = "fe014b978a15ec5008eac8b2acceefbd93dde1a89faf41ca47ef80360b1f170e"
 [[files]]
 file = "config/fastpaintings-common.toml"
 hash = "eae90793a2b7d3b5e632ffd83c0bd82864d0aa048745fcd02ac2169c0d7469d5"
+
+[[files]]
+file = "config/fastquit.toml"
+hash = "e85f39867513fe26179ba3cf7a00d343e9642ceaa96e7ea3cde6a1c3aa69dd4e"
 
 [[files]]
 file = "config/fastsuite.cfg"
@@ -2898,7 +3370,7 @@ hash = "82de1c857bdfa233b180df2555e168c2d5d4dec63c32d9ea6aa094eea9f77bad"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "2eddaa6389f113facbfe4be9796161ca43bc06d01c2f260bd910f21c6c87e3fb"
+hash = "030d7c2c4b33a367d6e0ac009e0c47523c61d38ccb9fb68ea920f773645d6f19"
 
 [[files]]
 file = "config/immersive_optimization.json"
@@ -2974,7 +3446,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "d99bc5b2ffbc4b6dd0a17c251078b15d7a340816b5719ca022efae7abb196f28"
+hash = "7b3b539407613f14bba0b0923e1966a2d8c04f0b4371c4d0a83a8eccc5efaa4a"
 
 [[files]]
 file = "config/irisflw-client.toml"
@@ -3038,7 +3510,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "d205e53217976508afd096fbcef8530df48b2ab7f1bb8ccacd7991d472923f0b"
+hash = "30b178da825d0caaa6a97d043501f4bf168b69f6ec9cfae44beb6cf6c6e73ad1"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -3054,7 +3526,7 @@ hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
 
 [[files]]
 file = "config/jei/jei-debug.ini"
-hash = "938c07f0dbff699649c4ab2c8a850067ca7876e5a7e61245f173f741f39d9672"
+hash = "377847d00110aba72a78749aee074ebd82f51197b7f0bea340fe8c75d877d2b5"
 
 [[files]]
 file = "config/jei/jei-mod-id-format.ini"
@@ -3062,7 +3534,7 @@ hash = "64eadca7fa07c15de7fd549c4cc4782bf8678d8a49d1626b0805e337d604ccb7"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "67da0e059ae0030c3d38f2f311bbaf31cd6aa70c7dd84eedcb8702382257b6f1"
+hash = "45bce5994dab737a2a072f49b23d4a2081a681dfbe8ff81804c87f4b66fd354b"
 
 [[files]]
 file = "config/jei/world/local/Mundo_con_mi_noviecito/lookupHistory.json"
@@ -3095,6 +3567,10 @@ hash = "b050affe1d4e840db0c8ba482bf5f96f8bf8cc3bcb80294cfbf74e2f104a0ed1"
 [[files]]
 file = "config/jupiter.json"
 hash = "ac6415cb504a1cd8d129435e67e718b0f139613f378127f0f8f21ee61ca4ffe7"
+
+[[files]]
+file = "config/kerria.json"
+hash = "71135c8d6882fe45dd9f91f9fdf4e6a389cd3be23e7c3d9c493a5ee8c69671cd"
 
 [[files]]
 file = "config/knightlib-1.toml.bak"
@@ -3149,6 +3625,10 @@ file = "config/levelup-common.toml"
 hash = "018d2ff1e95da4182fbfdabccf281ada72650e06ff5ef7d9061999ba9a04de6d"
 
 [[files]]
+file = "config/limitedchunks.json"
+hash = "1a5929cfa7c9ad1b2842fd5ea9aa0d107785a1d4b9e92ba62ffac9e3f7245947"
+
+[[files]]
 file = "config/lingua_bib.json"
 hash = "986ed19ef024b1c4dd2ff7b31bef04eb5609bfa23bf1fa2b319258513c80e44a"
 
@@ -3163,6 +3643,14 @@ hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
 [[files]]
 file = "config/litematica/litematica_CalderoH.mcserver.host_dim_minecraft_overworld.json"
 hash = "bd1f38e1eac2d822c26d9c2f887a1928a0908aeca0737181a3362dd704095a57"
+
+[[files]]
+file = "config/litematica/litematica_Karmaland version queer.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_Karmaland version queer_dim_minecraft_overworld.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
 
 [[files]]
 file = "config/litematica/litematica_Mundo nuevo.json"
@@ -3218,7 +3706,7 @@ hash = "9dbe3f970cfcd1e6bef6f4da84841598cc2941b7fbd23f6766811106aa84f52c"
 
 [[files]]
 file = "config/map_atlases-common.toml"
-hash = "5414c55fa9e8e49c907791aff712750b3c5b44c8587d6551b4a3e9b55d9ff03e"
+hash = "fff0a776632ddd394bcd2b5872134bba80640ad3377c8aff899d5286d769dcf0"
 
 [[files]]
 file = "config/maxhealthfix.json"
@@ -3390,7 +3878,7 @@ hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "ede2949c19225fe31bd62e45f0444d496620e845e57b638bcba649ff54599dff"
+hash = "04d67e25c49ca48a24b3d52f4be82a179fe7c0e381a8dc058e8bafe0512f89a2"
 
 [[files]]
 file = "config/moonlight-client.toml"
@@ -3398,7 +3886,7 @@ hash = "5a6948c2b7927921cd3cab28446f301a24cf4db168533474d20dac154ad18167"
 
 [[files]]
 file = "config/moonlight-common.toml"
-hash = "ce17e22174f8d796e792c87dbe7c2cff8360686edfb59080adf905e26df144ea"
+hash = "a6d5e783dc1469e925d4cf62f17a94ee2dff4ff025d9ed9e61b129581019cdf3"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -3462,7 +3950,7 @@ hash = "03bb2600571f5b53043becdec8d58552fde2b95243ffae2d05ac013c1fd066b8"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "065acffdf93d52506bc865992c23e5472a498c90760d4b0219547e2b386e92fa"
+hash = "e08be8395915d8ef1b29365197507384f552aaa49d20b6e53c56e73a74d12552"
 
 [[files]]
 file = "config/paraglider-common.toml"
@@ -3654,11 +4142,15 @@ hash = "4e71aa46661b461100c7f71fc134213a167ab2b2c9fc5d8f20d46feeb48077b6"
 
 [[files]]
 file = "config/scalablelux.properties"
-hash = "f2e525e58b9bb195a5335c1347c1e4c747d77a68583e79a7c809e2a3135cd513"
+hash = "695d9ae636bea18a89db171a9f5ae92f91861e97955c4bae18a29476b551b6d6"
 
 [[files]]
 file = "config/securitycraft-client.toml"
 hash = "dc0f460e3b03d8ef179222abf259c92469bb994c7522398389d43b156a7171d6"
+
+[[files]]
+file = "config/securitycraft-server.toml"
+hash = "a500f411e18f7b2bd73f2d908ccff55b994d4cbee2df88193fdb6f8140af0956"
 
 [[files]]
 file = "config/servercore/config.yml"
@@ -3734,7 +4226,7 @@ hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
 file = "config/sodium-fingerprint.json"
-hash = "6e7b32743b5c922dce084b62162b887722b1fe08fe7fdc680d3e7227f87f0a93"
+hash = "0d53ff374f064d3302fd30a6c2497eb7fb2c7329ba5adb25305ade8efc866fb8"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -3773,12 +4265,16 @@ file = "config/sophisticatedcore-common.toml"
 hash = "433e9c4e37fe82109c99ebb2417b3211f5f044fda0da3e2130f74f8f319ec171"
 
 [[files]]
+file = "config/spark/activity.json"
+hash = "cb0bedaeff92bdf8fee1b5149a9373e4189f9ee9e9fb2a343f75911ef2eb9d4f"
+
+[[files]]
 file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
 file = "config/spark/tmp-client/about.txt"
-hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
+hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
 
 [[files]]
 file = "config/spark/tmp/about.txt"
@@ -3822,7 +4318,7 @@ hash = "da4111304f83795d061ec0a06f9dd1f66be97762df771fc8a50ecf43ce536ee4"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "b45a5b1a9c2c4fddc1a63ca9e8fed163d8eef115529d9fd744a7644dbc75707b"
+hash = "4e54c0ee96c590d1f5a0087cf78f2d53b827ed3f6df97bedf291ebc466dd340c"
 
 [[files]]
 file = "config/takesapillage.json"
@@ -4518,7 +5014,7 @@ hash = "dc3c9f6273f8c4e10cef482cd283d12c5a74ecdadf3f4f7d5e104b324a2b2720"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
-hash = "3cfd19173ada180154d2ba94be47501f490ae31111ccec38728b1053b281a44a"
+hash = "73bc914118df8f4d1b41539b00c9946921fa12b1be048b2f8831eb5b488a918c"
 
 [[files]]
 file = "config/xaero/lib/client.cfg"
@@ -4889,6 +5385,10 @@ file = "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge.jar"
 hash = "1fffe12e3e8343ef52d306ee29f7d6f6724d47a185a375c4a3c75aab3894c68d"
 
 [[files]]
+file = "mods/GPUTape-1.20.6-1.21x-1.0.3.jar"
+hash = "120f5971e1998337b81205934b55e29c70f4891c6254df616e4391ed94a511cf"
+
+[[files]]
 file = "mods/GatewaysToEternity-1.21.1-5.1.0.jar"
 hash = "5e4f87781e045e67492c0589b1062504df76ca33215ab0358fc8e4a1be5efac5"
 
@@ -4933,12 +5433,20 @@ file = "mods/Jade-1.21.1-NeoForge-15.10.5.jar"
 hash = "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d"
 
 [[files]]
+file = "mods/Kerria-1.3.1+1.21.1-neoforge.jar"
+hash = "fc3effc4b39ec027357370fe59713e82be2436b773d67fa4f15aeba66e7a0656"
+
+[[files]]
 file = "mods/Ksyxis-1.3.4.jar"
 hash = "7457f96dc1ef9f9c78307dba345e01ab8b8a0518a39fbb71d96e30abba888f0b"
 
 [[files]]
 file = "mods/L_Ender's Cataclysm 1.21.1-3.31.jar"
 hash = "ad86b5032d83265bf5d297061c6681dbbdf64695d8fd70a9cc6741acbbe78f94"
+
+[[files]]
+file = "mods/LazyDFU-[UNOFFICIAL]+1.21.jar"
+hash = "d755871e2dc8f9715aebbf7cf175d72bd9680d25c38f37194d5dfe5f70986248"
 
 [[files]]
 file = "mods/LeavesBeGone-v21.1.1-1.21.1-NeoForge.jar"
@@ -5133,6 +5641,10 @@ file = "mods/artifacts-neoforge-13.2.1.jar"
 hash = "4a8e1f4d5702937a707861e478829695e432286bcd9e58f5834d82c6d998eea8"
 
 [[files]]
+file = "mods/asynclogger-2.1.2+1.21.1-neoforge.jar"
+hash = "e9fd8a5f2704d6bea6e4534a5833f00e768d64c1853a41d0fb59e46b32d35532"
+
+[[files]]
 file = "mods/attributefix-neoforge-1.21.1-21.1.3.jar"
 hash = "b2b20f3d44e824071284c14de3f4d3323d420e1c450040b339a5c37d2c382ad4"
 
@@ -5155,6 +5667,10 @@ hash = "afb1f28271ee3b622947f533aa754bb22ed67edd4940a3e9fdf2cca1edb7b8a9"
 [[files]]
 file = "mods/block_factorys_bosses-2.1.2-neo-1.21.1.jar"
 hash = "9e230bd509e7aeb3af4c08125db0340734c0179d83483649a16e45c0ea085e8c"
+
+[[files]]
+file = "mods/blockentities-[NEOFORGED]-1.21.1+1.1.0.jar"
+hash = "dc6a476bff3267f97e551f2f83a6924de710949ba4d31c77a98b92cb542f2103"
 
 [[files]]
 file = "mods/bookshelf-neoforge-1.21.1-21.1.81.jar"
@@ -5501,8 +6017,8 @@ file = "mods/irons_spellbooks-1.21.1-3.16.0.jar"
 hash = "4004dae5f352789985e77d04d0f60c7097c9917256e089b3bcb0e7e31aa87035"
 
 [[files]]
-file = "mods/jei-1.21.1-neoforge-19.27.0.336.jar"
-hash = "2b6d84df11ab2bb94a75be8bac6790bfbb2c0112a1622cd5f5f234468a196721"
+file = "mods/jei-1.21.1-neoforge-19.27.0.340-async-10.jar"
+hash = "30b287c4febf81d7a570f900ea00ae2605ac8212ac2e99781273636f464ae989"
 
 [[files]]
 file = "mods/jupiter-2.3.7-1.21.1-neoforge.jar"
@@ -5958,7 +6474,7 @@ hash = "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
-hash = "0ba55b073184c60a33ee16f943c001b9eaf0fd1a51594856af7141c4e3a523da"
+hash = "c9f39dec6f168aa8f12507cf2cf35de5e336e047f878889ca9ba2330a25f5bdf"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.7.1.zip"
@@ -5966,7 +6482,7 @@ hash = "5cbf4d99bc7ce4f0df5c15974d276e0949bf6974d48d88a77d5e307b0b9be8af"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt"
-hash = "84e344f3cd003b1b8409abed2e71123176c1c3fa2be3e9a3fc069c58b33f9ff3"
+hash = "a278158e8b67d242479a88827cf13214f70d50149528d33e39ffb22d840dba41"
 
 [[files]]
 file = "shaderpacks/I Like Vanilla v1.3.5.zip"
