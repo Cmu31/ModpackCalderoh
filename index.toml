@@ -4146,7 +4146,7 @@ hash = "96b6764c28555977f3f2f7091b881de3c3def4560584ac13a1c42b6c692a6755"
 
 [[files]]
 file = "config/relics.yaml"
-hash = "4411078ac8d2107482e0f717576b1d9e1fa6c0938d11135a2541f4d8c2518278"
+hash = "6b639bdf78022af725141301e5e0dd988ef5e6a7e541b4407db5ef52415e311c"
 
 [[files]]
 file = "config/renderscale.json5"
