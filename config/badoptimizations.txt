@@ -39,7 +39,7 @@ enable_toast_optimizations: true
 enable_sky_angle_caching_in_worldrenderer: true
 # Whether entity renderers should be stored directly in EntityType instead of a HashMap.
 # If your entity-adding mod crashes with BadOptimizations, try disabling this first.
-enable_entity_renderer_caching: true
+enable_entity_renderer_caching: false
 # Whether block entity renderers should be stored in BlockEntityType instead of a HashMap.
 enable_block_entity_renderer_caching: true
 # Whether entity flags should be cached instead of calling DataTracker.

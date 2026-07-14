@@ -45,13 +45,13 @@
     "curseForgeHash": 2359244830,
     "modrinthHash": "5070e8070f60650d773bfd9f1d031496f8f50259"
   },
-  "alltheleaks-1.1.9+1.21.1-neoforge.jar": {
-    "jarName": "alltheleaks-1.1.9+1.21.1-neoforge.jar",
+  "alltheleaks-1.1.10+1.21.1-neoforge.jar": {
+    "jarName": "alltheleaks-1.1.10+1.21.1-neoforge.jar",
     "modId": "alltheleaks",
     "name": "All The Leaks",
-    "version": "1.1.9+1.21.1-neoforge",
-    "curseForgeHash": 2234816779,
-    "modrinthHash": "2e9d1bc9bb9801af070f59a808db232c2a6526dd"
+    "version": "1.1.10+1.21.1-neoforge",
+    "curseForgeHash": 2274201648,
+    "modrinthHash": "00bf99e3a09204a555dc219a9648423c93f529d4"
   },
   "Almanac-1.21.1-2-neoforge-1.5.2.jar": {
     "jarName": "Almanac-1.21.1-2-neoforge-1.5.2.jar",
@@ -581,13 +581,13 @@
     "curseForgeHash": 102640023,
     "modrinthHash": "040b80a5736a414a53d74e2818e1e62b61e569f0"
   },
-  "crittersandcompanions-neoforge-1.21.1-2.4.1.jar": {
-    "jarName": "crittersandcompanions-neoforge-1.21.1-2.4.1.jar",
+  "crittersandcompanions-neoforge-2.6.0.jar": {
+    "jarName": "crittersandcompanions-neoforge-2.6.0.jar",
     "modId": "crittersandcompanions",
     "name": "Critters and Companions",
-    "version": "1.21.1-2.4.1",
-    "curseForgeHash": 4171681470,
-    "modrinthHash": "e093f64f5d2f0584de5b9d4afee7870d4c50d3ea"
+    "version": "2.6.0",
+    "curseForgeHash": 1091069572,
+    "modrinthHash": "93ad341d07c9b00f7453f8e6034f5227ce2db285"
   },
   "cullleaves-neoforge-4.1.1+1.21.1.jar": {
     "jarName": "cullleaves-neoforge-4.1.1+1.21.1.jar",
@@ -612,6 +612,14 @@
     "version": "9.5.1+1.21.1",
     "curseForgeHash": 933317947,
     "modrinthHash": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
+  },
+  "cwb-neoforge-3.0.0+mc1.21.jar": {
+    "jarName": "cwb-neoforge-3.0.0+mc1.21.jar",
+    "modId": "cubes_without_borders",
+    "name": "Cubes Without Borders",
+    "version": "3.0.0+mc1.21",
+    "curseForgeHash": 3980672706,
+    "modrinthHash": "6fe849c4a488107572c9af9d7d8329d93376f343"
   },
   "darkerdepths-2.1.4.jar": {
     "jarName": "darkerdepths-2.1.4.jar",
@@ -1044,13 +1052,13 @@
     "curseForgeHash": 1661329890,
     "modrinthHash": "f91a593378209f527fe81e731ca60fe8f8da2319"
   },
-  "geckolib-neoforge-1.21.1-4.8.4.jar": {
-    "jarName": "geckolib-neoforge-1.21.1-4.8.4.jar",
+  "geckolib-neoforge-1.21.1-4.9.2.jar": {
+    "jarName": "geckolib-neoforge-1.21.1-4.9.2.jar",
     "modId": "geckolib",
     "name": "GeckoLib 4",
-    "version": "4.8.4",
-    "curseForgeHash": 396384696,
-    "modrinthHash": "eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce"
+    "version": "4.9.2",
+    "curseForgeHash": 3926185248,
+    "modrinthHash": "14c64013cadee7d28f3685f94350f9a4d2ec6d86"
   },
   "GlitchCore-neoforge-1.21.1-2.1.0.2.jar": {
     "jarName": "GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
@@ -1785,13 +1793,13 @@
     "curseForgeHash": 3995275923,
     "modrinthHash": "1ae6f7be2ba8f963344dbf27e552920a7bc7a35f"
   },
-  "punchy-2.6.1-neoforge-1.21.1.jar": {
-    "jarName": "punchy-2.6.1-neoforge-1.21.1.jar",
+  "punchy-2.6.2-neoforge-1.21.1.jar": {
+    "jarName": "punchy-2.6.2-neoforge-1.21.1.jar",
     "modId": "punchy",
     "name": "Punchy",
-    "version": "2.6.1",
-    "curseForgeHash": 458675757,
-    "modrinthHash": "75894078ce3088484ced016fd05b93133e81ac03"
+    "version": "2.6.2",
+    "curseForgeHash": 1154807044,
+    "modrinthHash": "96c094efc72a1bdcdfaae9129f6018d7215f13f7"
   },
   "PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar": {
     "jarName": "PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
@@ -1809,13 +1817,13 @@
     "curseForgeHash": 655585510,
     "modrinthHash": "709d2f873dd1afc98cda59b133b53e5e797a2d19"
   },
-  "quick-pack-neoforge-1.3.2+1.21.8.jar": {
-    "jarName": "quick-pack-neoforge-1.3.2+1.21.8.jar",
+  "quick-pack-neoforge-1.3.3+1.21.8.jar": {
+    "jarName": "quick-pack-neoforge-1.3.3+1.21.8.jar",
     "modId": "quick_pack",
     "name": "quick-pack",
-    "version": "1.3.2",
-    "curseForgeHash": 3829011316,
-    "modrinthHash": "ab5b3a0b0b02005f0a92966a9df59f18fae870e0"
+    "version": "1.3.3",
+    "curseForgeHash": 504133190,
+    "modrinthHash": "198223925f7aa5488a17fafbe9a72cb6a1bbe877"
   },
   "Raided-1.21.1-0.1.6.jar": {
     "jarName": "Raided-1.21.1-0.1.6.jar",
@@ -1824,6 +1832,14 @@
     "version": "0.1.6",
     "curseForgeHash": 941837732,
     "modrinthHash": "2cfa531e38bd7f223bce1ac188ec6659e0421c39"
+  },
+  "rarcompat-1.21-0.9.7.jar": {
+    "jarName": "rarcompat-1.21-0.9.7.jar",
+    "modId": "rarcompat",
+    "name": "RAR-Compat",
+    "version": "0.9.7",
+    "curseForgeHash": 551590948,
+    "modrinthHash": "55c301ea622fc5a613531715c99b7d1d66f2e1d6"
   },
   "recipeessentials-1.21-4.0.jar": {
     "jarName": "recipeessentials-1.21-4.0.jar",
@@ -1840,6 +1856,14 @@
     "version": "1.0.0",
     "curseForgeHash": 1977061386,
     "modrinthHash": "2704eeefedf52edc30d68c84e2ee0ccf4eea6da0"
+  },
+  "relics-1.21.1-0.10.7.8.jar": {
+    "jarName": "relics-1.21.1-0.10.7.8.jar",
+    "modId": "relics",
+    "name": "Relics",
+    "version": "0.10.7.8",
+    "curseForgeHash": 604364043,
+    "modrinthHash": "7f7fd59273ac5ef6511a811518bc9af01705a528"
   },
   "repurposed_structures-7.5.21+1.21.1-neoforge.jar": {
     "jarName": "repurposed_structures-7.5.21+1.21.1-neoforge.jar",
