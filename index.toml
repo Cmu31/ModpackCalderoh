@@ -6017,8 +6017,8 @@ file = "mods/fzzy_config-0.7.6+1.21+neoforge.jar"
 hash = "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050"
 
 [[files]]
-file = "mods/geckolib-neoforge-1.21.1-4.8.4.jar"
-hash = "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9"
+file = "mods/geckolib-neoforge-1.21.1-4.9.2.jar"
+hash = "5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba"
 
 [[files]]
 file = "mods/gml-6.0.2.jar"
