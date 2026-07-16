@@ -4749,10 +4749,6 @@ file = "config/vanilla_structures/toggle_structure_config.json5"
 hash = "a50b4ca77d21ae105e68560c1af694125ea06360374c82e87f4da54b7ecfa51d"
 
 [[files]]
-file = "config/vanillin-client.toml"
-hash = "d24694aa31d298d5df5277b9e79b8d479c2c14539fab157dc93dbadb864e2ef3"
-
-[[files]]
 file = "config/visuality/config.toml"
 hash = "108e11fa832c1f8d5573d7fd9b8ff7e096bf6d213feca6da76efdb6878939f97"
 
