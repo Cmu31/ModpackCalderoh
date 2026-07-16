@@ -5589,6 +5589,10 @@ file = "mods/.connector/temp/minecells-2.0.3$owo-sentinel-0.12.15.4+1.21.jar.inp
 hash = "e4c4e007b49b0821372e144cb3fbb01ff1055e00f6a23b430a0dd6f390ff59e5"
 
 [[files]]
+file = "mods/AI-Improvements-1.21-0.5.3.jar"
+hash = "795618769ff1ac782750be9e8faaf3e3d212f1687c3baab98c1282a98a63a41e"
+
+[[files]]
 file = "mods/Almanac-1.21.1-2-neoforge-1.5.2.jar"
 hash = "379893246c33aaa6dd8e4a8711e349cd6835e08c2bd5b8bd7b7e81be9822aacb"
 
@@ -5997,6 +6001,10 @@ file = "mods/asynclogger-2.1.2+1.21.1-neoforge.jar"
 hash = "e9fd8a5f2704d6bea6e4534a5833f00e768d64c1853a41d0fb59e46b32d35532"
 
 [[files]]
+file = "mods/atmospherics-2.6.5-mc-1.21.1.jar"
+hash = "60d420dbdefd81894d509270d7577e865b49aa917eab5ad0a4806c80c215fe27"
+
+[[files]]
 file = "mods/attributefix-neoforge-1.21.1-21.1.3.jar"
 hash = "b2b20f3d44e824071284c14de3f4d3323d420e1c450040b339a5c37d2c382ad4"
 
@@ -6233,6 +6241,10 @@ file = "mods/eatinganimation-1.21.0-6.0.1.jar"
 hash = "3b222ada8de0cd982b755019cb9ada012d0f8a440fb67f2bdc634c241b7481cb"
 
 [[files]]
+file = "mods/effectual-neoforge-1.4.0-1.21.1.jar"
+hash = "989f3ad0e00d90ebf5ec92959347747691d8b91e5032217d7c2f0b104ce95f18"
+
+[[files]]
 file = "mods/endrem-neoforge-1.21.X-6.0.2.jar"
 hash = "f15cb30b32263410641c54ae6602a8bb8f00bc3cb57961c6b9941529cab0798d"
 
@@ -6315,6 +6327,10 @@ hash = "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050"
 [[files]]
 file = "mods/geckolib-neoforge-1.21.1-4.9.2.jar"
 hash = "5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba"
+
+[[files]]
+file = "mods/getittogetherdrops-neoforge-1.21.5-1.4.jar"
+hash = "a09466d03e3dde0c0f5c179146a8247b33a720a88979eb813c5f2aa2ad1c7a78"
 
 [[files]]
 file = "mods/gml-6.0.2.jar"
