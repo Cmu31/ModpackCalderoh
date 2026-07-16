@@ -1,12 +1,12 @@
 name = "Modpack Calderoh"
 author = "CarlosM"
-version = "1.4.17"
+version = "1.4.18"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "45108a4e84ff85d4471e9477e2ee82909add0ecdc215961c40deb808b9793946"
+hash = "d0e5bbd5a36d79a51a20b3e3cf4067bab194421e94feb00a2f48abe7409c0543"
 
 [versions]
 minecraft = "1.21.1"

@@ -6009,10 +6009,6 @@ file = "mods/balm-neoforge-1.21.1-21.0.56.jar"
 hash = "670ed64e73cacb646b21eaa6e2d2028f95c498d0cf1ae5cffcf7035d0b2fb32e"
 
 [[files]]
-file = "mods/bbe-neoforge-1.3.4-beta.2+mc1.21.1.jar"
-hash = "40f1ce419ed088027e6795eed66237db3451c6668bd2290d075aafd2508e0b9a"
-
-[[files]]
 file = "mods/better_weaponry-1.1.3-neoforge-1.21.1.jar"
 hash = "ddcd05a85657a65a90419a0610e0260dc9650d03618eae9ba82cb79fbe634f20"
 
@@ -6501,10 +6497,6 @@ file = "mods/moonlight-neoforge-1.21.1-3.0.22.jar"
 hash = "5859bc91c777e78fbd99070e8dde4b7ce0e4f3e91df6dbbe9f2cc82992c90ebd"
 
 [[files]]
-file = "mods/moreculling-neoforge-1.21.1-1.0.7.jar"
-hash = "80e4716a3da53c920ce6e8d122332edc65b91c9f7e4d94bedacac9f35fe32aa0"
-
-[[files]]
 file = "mods/mowzies_cataclysm-1.2.2.jar"
 hash = "afbef1775a869eb65dbd5eb2fe75b37edd1b2d08b014b24d2049867b7ef768b0"
 
@@ -6723,6 +6715,10 @@ hash = "411e811a6a53a63c2716dbf71cd1167e3a98d000b884458759d6192720be3e18"
 [[files]]
 file = "mods/uranus-2.4.1-1.21.1-neoforge.jar"
 hash = "2156a9b353bccfb1f0bf703561a74146ea8803323c48e9b8aef5fab8d58e1d1e"
+
+[[files]]
+file = "mods/vanillin-neoforge-1.21.1-1.1.3.jar"
+hash = "4ea3fa9e7c33abaf9dc135e88b4c07992c6e8f03d61c828b2c6cdfa6be32957c"
 
 [[files]]
 file = "mods/visuality-forge-2.1.0.jar"
