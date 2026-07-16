@@ -6013,6 +6013,10 @@ file = "mods/balm-neoforge-1.21.1-21.0.56.jar"
 hash = "670ed64e73cacb646b21eaa6e2d2028f95c498d0cf1ae5cffcf7035d0b2fb32e"
 
 [[files]]
+file = "mods/bbe-neoforge-1.3.4-beta.2+mc1.21.1.jar"
+hash = "40f1ce419ed088027e6795eed66237db3451c6668bd2290d075aafd2508e0b9a"
+
+[[files]]
 file = "mods/better_weaponry-1.1.3-neoforge-1.21.1.jar"
 hash = "ddcd05a85657a65a90419a0610e0260dc9650d03618eae9ba82cb79fbe634f20"
 
@@ -6361,7 +6365,7 @@ file = "mods/integrated_api-1.7.4+1.21.1-neoforge.jar"
 hash = "9c6f772d0f50dc91474f887c25447d388555e3a3d9dd581ce6ebf6783b7cc03e"
 
 [[files]]
-file = "mods/iris-flywheel-compat-NeoForge-2.4.0.jar.disabled"
+file = "mods/iris-flywheel-compat-NeoForge-2.4.0.jar"
 hash = "f5351cf9a838ae1624fcda78a8734b52cfde20de824db30e3f00dd00b9128ec8"
 
 [[files]]
