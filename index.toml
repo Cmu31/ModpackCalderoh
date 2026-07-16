@@ -6705,6 +6705,10 @@ file = "mods/tenshilib-1.21.1-2.2.5-neoforge.jar"
 hash = "248b59b6c630173c37df05c9b46b9d6b5a4099a712f1301fb40b959fcacbba64"
 
 [[files]]
+file = "mods/tlib-neoforge-1.5.0-1.21.1.jar"
+hash = "e8362f364c262ce1405c568c968fc3a0a69042d5223deecfbbb0595a0514f035"
+
+[[files]]
 file = "mods/toofast-1.21.0-0.4.3.6.jar"
 hash = "54852c9d395b4dc870d1c8a587e4fade9fb05474540ae4d3dd196663dd6a6114"
 
