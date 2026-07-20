@@ -6093,14 +6093,6 @@ file = "mods/colorfulhearts-neoforge-1.21.1-10.5.9.jar"
 hash = "332a7f3df1274cabeae05e9361c41561c42a670787adc7e4b6795961b4721401"
 
 [[files]]
-file = "mods/colorwheel-neoforge-1.2.9+mc1.21.1.jar"
-hash = "9259e4adb5b091fe2bd60e57be7f0b2ec9872f1c97ff6d2ed3bb2a9a5ec6407f"
-
-[[files]]
-file = "mods/colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar"
-hash = "2285a5154739d2e9889d979e3bdf54104b56d7966dac8d43367305e5aaedcce8"
-
-[[files]]
 file = "mods/comforts-neoforge-9.0.5+1.21.1.jar"
 hash = "6b0fd35a1349107e08a45539adbde9683bb203febc43a3305f6fc4ac73e59615"
 
@@ -6301,6 +6293,10 @@ file = "mods/fluidium-1.21.1-1.4.0.jar"
 hash = "967c8c3f0df8a9f74d310fc668d3c0b710490282785b3878dadcaed9d59fbd44"
 
 [[files]]
+file = "mods/flywheel-1.0.x.jar"
+hash = "1e715b19c4936b6766eb77762812e57135db1a542343d8afb9127cd7fe5a3e1e"
+
+[[files]]
 file = "mods/fragmentum-neoforge-1.21.1-2.2.4.jar"
 hash = "15951685cdf983b3ddd4118d64aa87fe2715ba13492866c339e5a7ab77b7e52a"
 
@@ -6367,6 +6363,10 @@ hash = "7e6964913ed0f0845989dabfdf630249cd1acd6ad22a7cb59b1f4c08da39b1f4"
 [[files]]
 file = "mods/integrated_api-1.7.4+1.21.1-neoforge.jar"
 hash = "9c6f772d0f50dc91474f887c25447d388555e3a3d9dd581ce6ebf6783b7cc03e"
+
+[[files]]
+file = "mods/iris-flywheel-compat-NeoForge-2.4.0.jar"
+hash = "f5351cf9a838ae1624fcda78a8734b52cfde20de824db30e3f00dd00b9128ec8"
 
 [[files]]
 file = "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
