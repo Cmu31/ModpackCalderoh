@@ -6489,8 +6489,8 @@ file = "mods/midnightlib-neoforge-1.9.3+1.21.1.jar"
 hash = "76775d3a3f3a6a0304330cdd6a810944babc9bd7ebbdefa24ec3346a7c62a703"
 
 [[files]]
-file = "mods/modernfix-neoforge-5.27.15+mc1.21.1.jar"
-hash = "60bad0cb2436b8f5dd277d752e83f05b244477da85ba01456b2bfe01f1ede850"
+file = "mods/modernfix-neoforge-5.27.20+mc1.21.1.jar"
+hash = "6f367ea4002c39e3cfe27e0a0be1008880a4b35a8482a78a437cfb9d8ee38273"
 
 [[files]]
 file = "mods/moogs_structures-neoforge-1.21.1-2.0.2.jar"
