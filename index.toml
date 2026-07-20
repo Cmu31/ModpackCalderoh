@@ -6365,10 +6365,6 @@ file = "mods/integrated_api-1.7.4+1.21.1-neoforge.jar"
 hash = "9c6f772d0f50dc91474f887c25447d388555e3a3d9dd581ce6ebf6783b7cc03e"
 
 [[files]]
-file = "mods/iris-flywheel-compat-NeoForge-2.4.0.jar"
-hash = "f5351cf9a838ae1624fcda78a8734b52cfde20de824db30e3f00dd00b9128ec8"
-
-[[files]]
 file = "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
 hash = "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
 
