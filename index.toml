@@ -6093,6 +6093,10 @@ file = "mods/colorfulhearts-neoforge-1.21.1-10.5.9.jar"
 hash = "332a7f3df1274cabeae05e9361c41561c42a670787adc7e4b6795961b4721401"
 
 [[files]]
+file = "mods/colorwheel-neoforge-1.2.9+mc1.21.1.jar"
+hash = "9259e4adb5b091fe2bd60e57be7f0b2ec9872f1c97ff6d2ed3bb2a9a5ec6407f"
+
+[[files]]
 file = "mods/comforts-neoforge-9.0.5+1.21.1.jar"
 hash = "6b0fd35a1349107e08a45539adbde9683bb203febc43a3305f6fc4ac73e59615"
 
