@@ -11,6 +11,8 @@
 	showPotionsHud: true,
 	// If true, locked items will be automatically dropped from player hands
 	dropLockedItems: false,
+	// If true, players may pick up locked items and keep them in their inventory. Usage and equipment restrictions still apply.
+	allowLockedItemPickup: true,
 	// If true, item usage requirements are hidden from tooltips after the player reaches the required aptitude levels.
 	hideMetUsageRequirements: false,
 	// Skills disabled by registry name. Use names like one_handed or justlevelingfork:one_handed.
