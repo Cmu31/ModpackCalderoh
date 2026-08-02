@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "all_mods.txt"
+hash = "a7d96d56bf1ae4e4c5cd94c21e22eb4a9493709e29ab0d7004a6a7b697dd861b"
+
+[[files]]
 file = "config/EndRemastered-NeoForge/Eyes/black_eye.json"
 hash = "0ce694b7842011f30705cbadc1140a105e15eabe5983dd62605d82e57fefd201"
 
@@ -6185,8 +6189,8 @@ file = "mods/baguettelib-1.21.1-NeoForge-2.0.3.jar"
 hash = "98addfb68b1e92d4f40ef37cdea8f46217bf7188991cc7347a3fc510a410f1e5"
 
 [[files]]
-file = "mods/balm-neoforge-1.21.1-21.0.56.jar"
-hash = "670ed64e73cacb646b21eaa6e2d2028f95c498d0cf1ae5cffcf7035d0b2fb32e"
+file = "mods/balm-neoforge-1.21.1-21.0.64.jar"
+hash = "1bd122300943c75b359c7d0460dc715bee69aaa5d21dda713c03786bfd66b2b1"
 
 [[files]]
 file = "mods/better_weaponry-1.1.3-neoforge-1.21.1.jar"
